@@ -46,12 +46,9 @@ namespace ReSeer.Pets
         [Header("点击行为")]
         [Tooltip("普通技能和第五技能共用此通道，发送 Bind 绑定的实际 SkillData。")]
         [SerializeField] private SkillClickEventSO skillClickEvent;
-        [SerializeField] private bool testConsumeOnClick;
         [SerializeField, Min(1)] private int ppCost = 1;
-        [Tooltip("点击可用按钮时触发。关闭点击测试后，由外部判断技能能否释放。")]
+        [Tooltip("点击可用按钮时提交操作意图；可用状态由外部同步。")]
         [SerializeField] private UnityEvent onClick = new UnityEvent();
-        [Tooltip("TryUse 成功扣除 PP 后触发。")]
-        [SerializeField] private UnityEvent onUsed = new UnityEvent();
 
         [Header("发光反馈")]
         [SerializeField] private Color glowColor = new Color(0.5f, 1f, 1f, 1f);
@@ -74,7 +71,6 @@ namespace ReSeer.Pets
         public int MaxPP => maxPP;
         public bool CanUse => interactable && currentPP >= ppCost && isActiveAndEnabled;
         public UnityEvent OnClick => onClick;
-        public UnityEvent OnUsed => onUsed;
 
         protected virtual void Awake() => CacheColors();
         protected virtual void OnEnable() => RefreshView();
@@ -128,12 +124,6 @@ namespace ReSeer.Pets
             RefreshView();
         }
         public void SetCurrentPP(int value) => SetPP(value, maxPP);
-        public void ConfigureUsage(bool consumeLocally, int cost)
-        {
-            testConsumeOnClick = consumeLocally;
-            ppCost = Mathf.Max(1, cost);
-            RefreshView();
-        }
         public void RestorePP() => SetCurrentPP(maxPP);
         public void SetInteractable(bool value) { interactable = value; RefreshView(); }
         public void SetElementIcon(Sprite value)
@@ -151,8 +141,6 @@ namespace ReSeer.Pets
             maxPP = Mathf.Max(0, skill.maxPp);
             currentPP = Mathf.Clamp(remainingPP, 0, maxPP);
             ppCost = Mathf.Max(1, skill.ppCost);
-            // Bind always enters externally managed mode. Local consumption is a preview tool only.
-            testConsumeOnClick = false;
             SetElementIcon(skill.icon);
             RefreshView();
         }
@@ -175,17 +163,6 @@ namespace ReSeer.Pets
             power = Mathf.Max(0, skillPower);
             SetElementIcon(icon);
             SetPP(current, maximum);
-        }
-
-        /// <summary>成功使用才扣 PP，耗尽/禁用时返回 false。不会调用旧战斗系统。</summary>
-        public bool TryUse()
-        {
-            if (!CanUse) return false;
-            currentPP -= ppCost;
-            RefreshView();
-            PlayClickEffect();
-            onUsed.Invoke();
-            return true;
         }
 
         public virtual void RefreshView()
@@ -262,8 +239,7 @@ namespace ReSeer.Pets
             if (e.button != PointerEventData.InputButton.Left || !CanUse) return;
             // 先记录点击时的技能，避免响应回调切换面板或重新 Bind 后传错资料。
             SkillData clickedSkill = boundSkill;
-            if (testConsumeOnClick) TryUse();
-            else PlayClickEffect();
+            PlayClickEffect();
             if (clickedSkill != null) skillClickEvent?.RaiseEvent(clickedSkill, this);
             else if (skillClickEvent != null)
                 Debug.LogWarning("技能按钮尚未 Bind 技能资料，本次不广播技能点击事件。", this);

@@ -1,0 +1,2139 @@
+{
+  "units": "twips; 20 twips = 1 Flash pixel; PNG render scale = 3",
+  "sprites": {
+    "268": [
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "264",
+        "depth": "1",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "267",
+        "depth": "2",
+        "instanceName": "petHead",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "11",
+          "scaleX": "0.8299866",
+          "scaleY": "0.8299866",
+          "translateX": "-723",
+          "translateY": "-727"
+        }
+      }
+    ],
+    "325": [
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "268",
+        "depth": "1",
+        "instanceName": "pet",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "11",
+          "translateX": "750",
+          "translateY": "939"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "269",
+        "depth": "7",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject3Tag",
+        "characterId": "270",
+        "depth": "8",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "10",
+          "scaleX": "1.333313",
+          "scaleY": "1.333313",
+          "translateX": "282",
+          "translateY": "254"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject3Tag",
+        "characterId": "270",
+        "depth": "10",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "12",
+          "scaleX": "0.9555359",
+          "scaleY": "0.9555359",
+          "translateX": "1324",
+          "translateY": "1256"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "271",
+        "depth": "14",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "273",
+        "depth": "25",
+        "instanceName": "hpMC",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "356",
+          "translateY": "1485"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "275",
+        "depth": "27",
+        "instanceName": "typeIconBg",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "12",
+          "scaleX": "0.69999695",
+          "scaleY": "0.69999695",
+          "translateX": "-47",
+          "translateY": "1903"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject3Tag",
+        "characterId": "277",
+        "depth": "29",
+        "instanceName": "lv_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "true",
+          "hasScale": "true",
+          "nRotateBits": "3",
+          "nScaleBits": "17",
+          "nTranslateBits": "12",
+          "rotateSkew0": "0.0",
+          "rotateSkew1": "-1.5258789E-5",
+          "scaleX": "0.94999695",
+          "scaleY": "0.9570923",
+          "translateX": "-247",
+          "translateY": "1428"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject3Tag",
+        "characterId": "278",
+        "depth": "30",
+        "instanceName": "hp_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "422",
+          "translateY": "1453"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "279",
+        "depth": "31",
+        "instanceName": "name_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "210",
+          "translateY": "1804"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "284",
+        "depth": "32",
+        "instanceName": "flag",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "12",
+          "scaleX": "0.69999695",
+          "scaleY": "0.69999695",
+          "translateX": "898",
+          "translateY": "1162"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "288",
+        "depth": "35",
+        "instanceName": "lock",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "11",
+          "scaleX": "0.8999939",
+          "scaleY": "0.8999939",
+          "translateX": "-241",
+          "translateY": "934"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "312",
+        "depth": "39",
+        "instanceName": "chujueMc",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "10",
+          "translateX": "-356",
+          "translateY": "220"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "316",
+        "depth": "44",
+        "instanceName": "markBtn",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "10",
+          "translateX": "260",
+          "translateY": "199"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "29",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 2,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "30",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 2,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "31",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": null,
+        "depth": "1",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "11",
+          "scaleX": "1.0499878",
+          "scaleY": "1.0499878",
+          "translateX": "750",
+          "translateY": "943"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "317",
+        "depth": "7",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject3Tag",
+        "characterId": null,
+        "depth": "8",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "10",
+          "scaleX": "1.3999634",
+          "scaleY": "1.3999634",
+          "translateX": "259",
+          "translateY": "224"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject3Tag",
+        "characterId": null,
+        "depth": "10",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "12",
+          "scaleX": "1.0032959",
+          "scaleY": "1.0032959",
+          "translateX": "1353",
+          "translateY": "1276"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "318",
+        "depth": "14",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject3Tag",
+        "characterId": null,
+        "depth": "27",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "12",
+          "scaleX": "0.7999878",
+          "scaleY": "0.7999878",
+          "translateX": "-62",
+          "translateY": "1882"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "279",
+        "depth": "29",
+        "instanceName": "name_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "210",
+          "translateY": "1804"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject3Tag",
+        "characterId": "278",
+        "depth": "30",
+        "instanceName": "hp_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "422",
+          "translateY": "1453"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject3Tag",
+        "characterId": "277",
+        "depth": "31",
+        "instanceName": "lv_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "true",
+          "hasScale": "true",
+          "nRotateBits": "3",
+          "nScaleBits": "17",
+          "nTranslateBits": "12",
+          "rotateSkew0": "0.0",
+          "rotateSkew1": "-1.5258789E-5",
+          "scaleX": "0.94999695",
+          "scaleY": "0.9570923",
+          "translateX": "-247",
+          "translateY": "1428"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": null,
+        "depth": "35",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "11",
+          "scaleX": "0.8999939",
+          "scaleY": "0.8999939",
+          "translateX": "-241",
+          "translateY": "939"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "14",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "29",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "30",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "31",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": null,
+        "depth": "1",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "11",
+          "scaleX": "1.0499878",
+          "scaleY": "1.0499878",
+          "translateX": "750",
+          "translateY": "518"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": "319",
+        "depth": "7",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject3Tag",
+        "characterId": null,
+        "depth": "8",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "10",
+          "scaleX": "1.3999634",
+          "scaleY": "1.3999634",
+          "translateX": "259",
+          "translateY": "-201"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject3Tag",
+        "characterId": null,
+        "depth": "10",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "12",
+          "scaleX": "1.0032959",
+          "scaleY": "1.0032959",
+          "translateX": "1353",
+          "translateY": "851"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": "320",
+        "depth": "13",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": "323",
+        "depth": "14",
+        "instanceName": "fight",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "true",
+          "hasScale": "true",
+          "nRotateBits": "14",
+          "nScaleBits": "17",
+          "nTranslateBits": "12",
+          "rotateSkew0": "0.0",
+          "rotateSkew1": "-0.06506348",
+          "scaleX": "0.7999878",
+          "scaleY": "0.7999878",
+          "translateX": "161",
+          "translateY": "1777"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": "324",
+        "depth": "24",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": null,
+        "depth": "25",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "356",
+          "translateY": "1071"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject3Tag",
+        "characterId": null,
+        "depth": "27",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "12",
+          "scaleX": "0.7999878",
+          "scaleY": "0.7999878",
+          "translateX": "-62",
+          "translateY": "1468"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": "279",
+        "depth": "29",
+        "instanceName": "name_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "210",
+          "translateY": "1390"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject3Tag",
+        "characterId": "278",
+        "depth": "30",
+        "instanceName": "hp_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "422",
+          "translateY": "1039"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject3Tag",
+        "characterId": "277",
+        "depth": "31",
+        "instanceName": "lv_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "true",
+          "hasScale": "true",
+          "nRotateBits": "3",
+          "nScaleBits": "17",
+          "nTranslateBits": "11",
+          "rotateSkew0": "0.0",
+          "rotateSkew1": "-1.5258789E-5",
+          "scaleX": "0.94999695",
+          "scaleY": "0.9570923",
+          "translateX": "-247",
+          "translateY": "988"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": null,
+        "depth": "32",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "11",
+          "scaleX": "0.69999695",
+          "scaleY": "0.69999695",
+          "translateX": "898",
+          "translateY": "742"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": null,
+        "depth": "35",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "11",
+          "scaleX": "0.8999939",
+          "scaleY": "0.8999939",
+          "translateX": "-243",
+          "translateY": "515"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": null,
+        "depth": "39",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "10",
+          "translateX": "-356",
+          "translateY": "-194"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": null,
+        "depth": "44",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "10",
+          "translateX": "282",
+          "translateY": "-221"
+        }
+      }
+    ],
+    "493": [
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "476",
+        "depth": "8",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "478",
+        "depth": "11",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "13",
+          "scaleX": "1.199997",
+          "scaleY": "1.199997",
+          "translateX": "-3526",
+          "translateY": "874"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "480",
+        "depth": "13",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "14",
+          "scaleX": "1.0999756",
+          "scaleY": "1.0999756",
+          "translateX": "-4235",
+          "translateY": "365"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "482",
+        "depth": "15",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "14",
+          "scaleX": "0.7999878",
+          "scaleY": "0.7999878",
+          "translateX": "-4352",
+          "translateY": "181"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "8",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "483",
+        "depth": "4",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "485",
+        "depth": "5",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "14",
+          "translateX": "-4360",
+          "translateY": "-856"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "486",
+        "depth": "10",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "4",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "5",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "10",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "11",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "13",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "15",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": "488",
+        "depth": "1",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "14",
+          "translateX": "-4420",
+          "translateY": "-940"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": "489",
+        "depth": "7",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": "491",
+        "depth": "8",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "14",
+          "scaleX": "0.7999878",
+          "scaleY": "0.7999878",
+          "translateX": "-4352",
+          "translateY": "181"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": "492",
+        "depth": "11",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      }
+    ],
+    "747": [
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "746",
+        "depth": "2",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      }
+    ],
+    "765": [
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "754",
+        "depth": "1",
+        "instanceName": "barMC_down",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "754",
+        "depth": "4",
+        "instanceName": "barMC_up",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject3Tag",
+        "characterId": "756",
+        "depth": "7",
+        "instanceName": "hp_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "true",
+          "hasScale": "false",
+          "nRotateBits": "14",
+          "nScaleBits": "0",
+          "nTranslateBits": "13",
+          "rotateSkew0": "0.0",
+          "rotateSkew1": "-0.11834717",
+          "translateX": "3288",
+          "translateY": "-499"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "1",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 2,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "4",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 2,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "7",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "759",
+        "depth": "1",
+        "instanceName": "barMC_down",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "10",
+          "translateX": "20",
+          "translateY": "-300"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "762",
+        "depth": "6",
+        "instanceName": "barMC2_down",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "6",
+          "translateX": "20",
+          "translateY": "27"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "759",
+        "depth": "12",
+        "instanceName": "barMC_up",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "10",
+          "translateX": "20",
+          "translateY": "-300"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "762",
+        "depth": "17",
+        "instanceName": "barMC2_up",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "6",
+          "translateX": "20",
+          "translateY": "27"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject3Tag",
+        "characterId": "763",
+        "depth": "23",
+        "instanceName": "hp_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "true",
+          "hasScale": "false",
+          "nRotateBits": "14",
+          "nScaleBits": "0",
+          "nTranslateBits": "13",
+          "rotateSkew0": "0.0",
+          "rotateSkew1": "-0.11834717",
+          "translateX": "3176",
+          "translateY": "-334"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject3Tag",
+        "characterId": "763",
+        "depth": "24",
+        "instanceName": "hp2_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "true",
+          "hasScale": "false",
+          "nRotateBits": "14",
+          "nScaleBits": "0",
+          "nTranslateBits": "13",
+          "rotateSkew0": "0.0",
+          "rotateSkew1": "-0.11834717",
+          "translateX": "2706",
+          "translateY": "16"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject3Tag",
+        "characterId": "764",
+        "depth": "25",
+        "instanceName": "deltaNumTxt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "13",
+          "translateX": "3627",
+          "translateY": "1993"
+        }
+      }
+    ],
+    "778": [
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "745",
+        "depth": "1",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "1863",
+          "translateY": "44"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "620",
+        "depth": "2",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "748",
+        "depth": "3",
+        "instanceName": "iconMC",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "9",
+          "scaleX": "0.81999207",
+          "scaleY": "0.81999207",
+          "translateX": "254",
+          "translateY": "214"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "493",
+        "depth": "6",
+        "instanceName": "headRect",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "14",
+          "translateX": "4495",
+          "translateY": "896"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "752",
+        "depth": "22",
+        "instanceName": "aliveNumMC",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "14",
+          "translateX": "7154",
+          "translateY": "1012"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "765",
+        "depth": "34",
+        "instanceName": "bloodBarMc",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "1864",
+          "translateY": "444"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject3Tag",
+        "characterId": "766",
+        "depth": "60",
+        "instanceName": "name_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "368",
+          "translateY": "1650"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject3Tag",
+        "characterId": "767",
+        "depth": "61",
+        "instanceName": "level_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "true",
+          "hasScale": "true",
+          "nRotateBits": "3",
+          "nScaleBits": "17",
+          "nTranslateBits": "12",
+          "rotateSkew0": "0.0",
+          "rotateSkew1": "-1.5258789E-5",
+          "scaleX": "0.94999695",
+          "scaleY": "0.9570923",
+          "translateX": "42",
+          "translateY": "1203"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "445",
+        "depth": "62",
+        "instanceName": "typeIconBg",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "22",
+          "translateY": "1564"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "777",
+        "depth": "64",
+        "instanceName": "effect",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "11",
+          "translateX": "110",
+          "translateY": "677"
+        }
+      }
+    ],
+    "780": [
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "266",
+        "depth": "1",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "3",
+          "translateX": "1",
+          "translateY": "0"
+        }
+      }
+    ],
+    "783": [
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "476",
+        "depth": "8",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "478",
+        "depth": "11",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "13",
+          "scaleX": "1.199997",
+          "scaleY": "1.199997",
+          "translateX": "-3526",
+          "translateY": "874"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "480",
+        "depth": "13",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "14",
+          "scaleX": "1.0999756",
+          "scaleY": "1.0999756",
+          "translateX": "-4208",
+          "translateY": "482"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "482",
+        "depth": "15",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "13",
+          "scaleX": "-0.7999878",
+          "scaleY": "0.7999878",
+          "translateX": "-4091",
+          "translateY": "298"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "8",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "483",
+        "depth": "4",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "485",
+        "depth": "5",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "14",
+          "translateX": "-4360",
+          "translateY": "-856"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "781",
+        "depth": "10",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": null,
+        "depth": "15",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "14",
+          "scaleX": "-0.7999878",
+          "scaleY": "0.7999878",
+          "translateX": "-4101",
+          "translateY": "298"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "4",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "5",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "10",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "11",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "13",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "15",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": "488",
+        "depth": "1",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "14",
+          "translateX": "-4420",
+          "translateY": "-940"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": "782",
+        "depth": "8",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 3,
+        "operation": "PlaceObject2Tag",
+        "characterId": "491",
+        "depth": "9",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "14",
+          "scaleX": "-0.7999878",
+          "scaleY": "0.7999878",
+          "translateX": "-4132",
+          "translateY": "298"
+        }
+      }
+    ],
+    "786": [
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "754",
+        "depth": "1",
+        "instanceName": "barMC_down",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "1",
+          "scaleX": "-1.0",
+          "scaleY": "1.0",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "754",
+        "depth": "4",
+        "instanceName": "barMC_up",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "1",
+          "scaleX": "-1.0",
+          "scaleY": "1.0",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject3Tag",
+        "characterId": "784",
+        "depth": "7",
+        "instanceName": "hp_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "true",
+          "hasScale": "false",
+          "nRotateBits": "14",
+          "nScaleBits": "0",
+          "nTranslateBits": "14",
+          "rotateSkew0": "0.0",
+          "rotateSkew1": "-0.11834717",
+          "translateX": "-6894",
+          "translateY": "-509"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "1",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 2,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "4",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 2,
+        "operation": "RemoveObject2Tag",
+        "characterId": null,
+        "depth": "7",
+        "instanceName": null,
+        "matrix": null
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "759",
+        "depth": "1",
+        "instanceName": "barMC_down",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "10",
+          "scaleX": "-1.0",
+          "scaleY": "1.0",
+          "translateX": "7",
+          "translateY": "-302"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "762",
+        "depth": "6",
+        "instanceName": "barMC2_down",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "7",
+          "scaleX": "-1.0",
+          "scaleY": "1.0",
+          "translateX": "7",
+          "translateY": "58"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "759",
+        "depth": "12",
+        "instanceName": "barMC_up",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "10",
+          "scaleX": "-1.0",
+          "scaleY": "1.0",
+          "translateX": "97",
+          "translateY": "-302"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject2Tag",
+        "characterId": "762",
+        "depth": "17",
+        "instanceName": "barMC2_up",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "8",
+          "scaleX": "-1.0",
+          "scaleY": "1.0",
+          "translateX": "97",
+          "translateY": "58"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject3Tag",
+        "characterId": "785",
+        "depth": "23",
+        "instanceName": "hp_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "true",
+          "hasScale": "false",
+          "nRotateBits": "14",
+          "nScaleBits": "0",
+          "nTranslateBits": "14",
+          "rotateSkew0": "0.0",
+          "rotateSkew1": "-0.11834717",
+          "translateX": "-6715",
+          "translateY": "-343"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject3Tag",
+        "characterId": "785",
+        "depth": "24",
+        "instanceName": "hp2_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "true",
+          "hasScale": "false",
+          "nRotateBits": "14",
+          "nScaleBits": "0",
+          "nTranslateBits": "14",
+          "rotateSkew0": "0.0",
+          "rotateSkew1": "-0.11834717",
+          "translateX": "-6245",
+          "translateY": "27"
+        }
+      },
+      {
+        "frame": 2,
+        "operation": "PlaceObject3Tag",
+        "characterId": "764",
+        "depth": "25",
+        "instanceName": "deltaNumTxt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "14",
+          "translateX": "-5176",
+          "translateY": "1916"
+        }
+      }
+    ],
+    "793": [
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "745",
+        "depth": "1",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "779",
+        "depth": "2",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "780",
+        "depth": "3",
+        "instanceName": "iconMC",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "9",
+          "scaleX": "-0.81999207",
+          "scaleY": "0.81999207",
+          "translateX": "-235",
+          "translateY": "232"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "783",
+        "depth": "6",
+        "instanceName": "headRect",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "14",
+          "scaleX": "-1.0",
+          "scaleY": "1.0",
+          "translateX": "-4486",
+          "translateY": "917"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "786",
+        "depth": "22",
+        "instanceName": "bloodBarMc",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "-1840",
+          "translateY": "471"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "787",
+        "depth": "48",
+        "instanceName": "aliveNumMC",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "15",
+          "translateX": "-8887",
+          "translateY": "1029"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject3Tag",
+        "characterId": "766",
+        "depth": "60",
+        "instanceName": "name_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "-1613",
+          "translateY": "1673"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "445",
+        "depth": "61",
+        "instanceName": null,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "-1712",
+          "translateY": "1793"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject3Tag",
+        "characterId": "767",
+        "depth": "63",
+        "instanceName": "level_txt",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "true",
+          "hasScale": "true",
+          "nRotateBits": "3",
+          "nScaleBits": "17",
+          "nTranslateBits": "12",
+          "rotateSkew0": "0.0",
+          "rotateSkew1": "-1.5258789E-5",
+          "scaleX": "0.94999695",
+          "scaleY": "0.9570923",
+          "translateX": "-473",
+          "translateY": "1334"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "445",
+        "depth": "64",
+        "instanceName": "typeIconBg",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "-1906",
+          "translateY": "1558"
+        }
+      },
+      {
+        "frame": 1,
+        "operation": "PlaceObject2Tag",
+        "characterId": "792",
+        "depth": "66",
+        "instanceName": "effect",
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "11",
+          "translateX": "-450",
+          "translateY": "677"
+        }
+      }
+    ]
+  }
+}

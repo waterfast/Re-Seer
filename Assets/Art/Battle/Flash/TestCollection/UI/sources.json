@@ -1,0 +1,900 @@
+{
+  "assets": [
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 269,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/pet-card-ring-blue.png",
+      "width": 242,
+      "height": 238,
+      "sourceCanvas": [
+        242,
+        238
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        241,
+        238
+      ],
+      "cropped": false,
+      "pngSha256": "053b8bbcfc923f7309247ac76b1e1382964ee976714c63b3d75799a7cda7e451"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 271,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/pet-card-info-shadow.png",
+      "width": 332,
+      "height": 105,
+      "sourceCanvas": [
+        332,
+        105
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        331,
+        104
+      ],
+      "cropped": false,
+      "pngSha256": "326f000ae7d38ef39724a260b1ada670e59237cf5019962d86ff112fa7e4098c"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 272,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/pet-card-hp-fill.png",
+      "width": 212,
+      "height": 27,
+      "sourceCanvas": [
+        212,
+        27
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        211,
+        27
+      ],
+      "cropped": false,
+      "pngSha256": "9f798148c3b755efb4388d5bfd64eebe2257f0090c9295f747e868a257f87bd0"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 274,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/pet-card-type-background.png",
+      "width": 44,
+      "height": 62,
+      "sourceCanvas": [
+        44,
+        62
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        44,
+        62
+      ],
+      "cropped": false,
+      "pngSha256": "9595a5e77aba8656d5af0ef7267be5e2df71b0f5bf8e3c5c0abc767f060caec4"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 317,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/pet-card-ring-gold-hover.png",
+      "width": 254,
+      "height": 250,
+      "sourceCanvas": [
+        254,
+        250
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        253,
+        249
+      ],
+      "cropped": false,
+      "pngSha256": "e03cf477acc0a14fc9efab7ab1123c1eb12ef0d564dab676bc835bbc347d17af"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 318,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/pet-card-info-hover.png",
+      "width": 332,
+      "height": 105,
+      "sourceCanvas": [
+        332,
+        105
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        331,
+        104
+      ],
+      "cropped": false,
+      "pngSha256": "b80473694318157c1e09e1f53feb66f5f4e7567aaeb95148c10b511665df2a7d"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 319,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/pet-card-ring-gold-active.png",
+      "width": 254,
+      "height": 250,
+      "sourceCanvas": [
+        254,
+        250
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        253,
+        249
+      ],
+      "cropped": false,
+      "pngSha256": "e03cf477acc0a14fc9efab7ab1123c1eb12ef0d564dab676bc835bbc347d17af"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 320,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/pet-card-info-active.png",
+      "width": 332,
+      "height": 105,
+      "sourceCanvas": [
+        332,
+        105
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        331,
+        104
+      ],
+      "cropped": false,
+      "pngSha256": "749b535f69e7924ecdf0345ef3c9aab6e77cfd5ee0bafeeccc92b3ee7a3f2199"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 321,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/pet-card-fight-button.png",
+      "width": 249,
+      "height": 82,
+      "sourceCanvas": [
+        249,
+        82
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        249,
+        81
+      ],
+      "cropped": false,
+      "pngSha256": "91278b1040012a575912cf0e2fa3b2b2dacd566a37ceec0bcc6a641a20e27a08"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 324,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/pet-card-hp-track.png",
+      "width": 216,
+      "height": 32,
+      "sourceCanvas": [
+        216,
+        32
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        216,
+        32
+      ],
+      "cropped": false,
+      "pngSha256": "2d6b2f7c6b7e0042b47b4159a8a7142cfb5dcf7b11f05c5e5272892bcedad301"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 476,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/health-head-frame-blue.png",
+      "width": 1346,
+      "height": 279,
+      "sourceCanvas": [
+        1346,
+        279
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        1346,
+        279
+      ],
+      "cropped": false,
+      "pngSha256": "1483a43d58012df4a1f27a552822bef03333a888a4175131dded8affb6d84409"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 477,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/head-name-background-blue.png",
+      "width": 247,
+      "height": 53,
+      "sourceCanvas": [
+        247,
+        53
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        247,
+        52
+      ],
+      "cropped": false,
+      "pngSha256": "ea6a38ed8d6b5a68bbc6e7f961af06b0f4836ff43fb5049440fb8bc88a848c3e"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 479,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/head-type-background-blue.png",
+      "width": 72,
+      "height": 82,
+      "sourceCanvas": [
+        72,
+        82
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        72,
+        82
+      ],
+      "cropped": false,
+      "pngSha256": "593dfb31bb54e27d22aa9b8a1c9b43c68a044f9c72ad28ef578a7ffbfb0d8661"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 481,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/level-label-blue.png",
+      "width": 53,
+      "height": 34,
+      "sourceCanvas": [
+        53,
+        34
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        53,
+        34
+      ],
+      "cropped": false,
+      "pngSha256": "250b9a5ac3faf78a39d11598c8a752bb5b55074a420bc2bcd981ef31f088a788"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 483,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/health-head-frame-special.png",
+      "width": 1360,
+      "height": 296,
+      "sourceCanvas": [
+        1360,
+        296
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        1360,
+        295
+      ],
+      "cropped": false,
+      "pngSha256": "75db564d042de96b05c11ba69720d4e517833bfa3541174e6511f7d10627bcc4"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 484,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/health-special-crystal.png",
+      "width": 34,
+      "height": 34,
+      "sourceCanvas": [
+        34,
+        34
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        34,
+        34
+      ],
+      "cropped": false,
+      "pngSha256": "80089554e2299cc48248f68300122d6e8dbabf3edcaa486c039a7ea61537da70"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 486,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/health-head-frame-special-overlay.png",
+      "width": 1337,
+      "height": 273,
+      "sourceCanvas": [
+        1337,
+        273
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        1337,
+        273
+      ],
+      "cropped": false,
+      "pngSha256": "8d1f9ab38875af6f8bba0616e0c276a525b6f824e4760b60b2abb1b527737279"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 487,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/health-head-frame-gold.png",
+      "width": 1358,
+      "height": 292,
+      "sourceCanvas": [
+        1358,
+        292
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        1358,
+        292
+      ],
+      "cropped": false,
+      "pngSha256": "c7764571e47a02a2c0f559cbe7852ac3e6652846ce6f82e16fa8d513bb3768d6"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 489,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/head-type-background-gold.png",
+      "width": 78,
+      "height": 90,
+      "sourceCanvas": [
+        78,
+        90
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        78,
+        90
+      ],
+      "cropped": false,
+      "pngSha256": "36c79fb9957e33c7ef8b2e34ad3c9822952e45d60c93561952216b83f13945e9"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 490,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/level-label-gold.png",
+      "width": 53,
+      "height": 34,
+      "sourceCanvas": [
+        53,
+        34
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        53,
+        34
+      ],
+      "cropped": false,
+      "pngSha256": "13bca991e4ee28a6608f10a8145443538920f44cad28dd30909251b3e543cb74"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 492,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/head-name-background-gold.png",
+      "width": 295,
+      "height": 62,
+      "sourceCanvas": [
+        295,
+        62
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        295,
+        62
+      ],
+      "cropped": false,
+      "pngSha256": "8449c7937694c052996c66665160c364a4b1a2a278d555d7b30b2df4fb241efa"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 745,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/portrait-mask-reference.png",
+      "width": 218,
+      "height": 218,
+      "sourceCanvas": [
+        218,
+        218
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        218,
+        218
+      ],
+      "cropped": false,
+      "pngSha256": "f4f76de586eec7fc1a2029accc92f288584ac5a64e5f79c5b598a9f49220c92f"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 753,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/hp-fill-normal.png",
+      "width": 1044,
+      "height": 57,
+      "sourceCanvas": [
+        1044,
+        57
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        1044,
+        57
+      ],
+      "cropped": false,
+      "pngSha256": "a6003899a0f89ad346ab2db3ec5f3ad3b36c33f0c014c224008c14ddb38c1118"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 757,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/hp-fill-special-primary.png",
+      "width": 1049,
+      "height": 45,
+      "sourceCanvas": [
+        1049,
+        45
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        1049,
+        45
+      ],
+      "cropped": false,
+      "pngSha256": "a4772b36fd7724ccaadc4fe6b0659c1123343c415c343a677e01eab75793acec"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 760,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/hp-fill-special-secondary.png",
+      "width": 989,
+      "height": 45,
+      "sourceCanvas": [
+        989,
+        45
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        989,
+        45
+      ],
+      "cropped": false,
+      "pngSha256": "ee81aaec9ad9385b90002dfae63b279d473649d5eff2429a3401ef6a6fda2726"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 781,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/health-enemy-special-overlay.png",
+      "width": 1337,
+      "height": 273,
+      "sourceCanvas": [
+        1337,
+        273
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        1337,
+        273
+      ],
+      "cropped": false,
+      "pngSha256": "8d1f9ab38875af6f8bba0616e0c276a525b6f824e4760b60b2abb1b527737279"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 782,
+      "renderScale": 3,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/Parts/head-name-and-type-gold.png",
+      "width": 295,
+      "height": 135,
+      "sourceCanvas": [
+        295,
+        135
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        295,
+        135
+      ],
+      "cropped": false,
+      "pngSha256": "fabcb13685127374802b375ef0dd3b3783d858d6ebde1965d680d21b842cd85c"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 493,
+      "frame": 1,
+      "renderScale": 3,
+      "referenceOnly": false,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/self-head-slot-1.png",
+      "width": 1365,
+      "height": 310,
+      "sourceCanvas": [
+        1365,
+        310
+      ],
+      "alphaBounds": [
+        0,
+        8,
+        1350,
+        310
+      ],
+      "cropped": false,
+      "pngSha256": "1ed3a14b99dabd3762a6097786618c8e77ad51ba04ac541f7e72b7e0161a5d7e"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 493,
+      "frame": 2,
+      "renderScale": 3,
+      "referenceOnly": false,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/self-head-slot-2.png",
+      "width": 1365,
+      "height": 310,
+      "sourceCanvas": [
+        1365,
+        310
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        1364,
+        310
+      ],
+      "cropped": false,
+      "pngSha256": "4e55b0b0ff4cd11ba28293ae4c530247bf9ef62d8626f0538f608bc94f480c47"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 493,
+      "frame": 3,
+      "renderScale": 3,
+      "referenceOnly": false,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/self-head-slot-3.png",
+      "width": 1365,
+      "height": 310,
+      "sourceCanvas": [
+        1365,
+        310
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        1365,
+        310
+      ],
+      "cropped": false,
+      "pngSha256": "f1a629d8c6d0856479f0296b5096d62cd8a73581b98439a317141f510ec1b0e6"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 783,
+      "frame": 1,
+      "renderScale": 3,
+      "referenceOnly": false,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/enemy-head-slot-1.png",
+      "width": 1365,
+      "height": 310,
+      "sourceCanvas": [
+        1365,
+        310
+      ],
+      "alphaBounds": [
+        0,
+        8,
+        1350,
+        310
+      ],
+      "cropped": false,
+      "pngSha256": "2a247bea0917ee684c221bc2910f0276cb590572c38546909d1238e3651c881c"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 783,
+      "frame": 2,
+      "renderScale": 3,
+      "referenceOnly": false,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/enemy-head-slot-2.png",
+      "width": 1365,
+      "height": 310,
+      "sourceCanvas": [
+        1365,
+        310
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        1364,
+        310
+      ],
+      "cropped": false,
+      "pngSha256": "3a975222d41459a6a387a7fce5571d6e0572fb44b031752560ab52f593bf025e"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 783,
+      "frame": 3,
+      "renderScale": 3,
+      "referenceOnly": false,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/enemy-head-slot-3.png",
+      "width": 1365,
+      "height": 310,
+      "sourceCanvas": [
+        1365,
+        310
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        1365,
+        310
+      ],
+      "cropped": false,
+      "pngSha256": "d4bba135fc17fd030c43be11b98ad82b1f5ddeb68ca188b26322a30241cb7b73"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 325,
+      "frame": 1,
+      "renderScale": 3,
+      "referenceOnly": true,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/pet-card-reference-1.png",
+      "width": 413,
+      "height": 436,
+      "sourceCanvas": [
+        413,
+        436
+      ],
+      "alphaBounds": [
+        60,
+        83,
+        391,
+        403
+      ],
+      "cropped": false,
+      "pngSha256": "63f1e179319e3576fc919e662dc04d29edc4707c82cb4c7593320e9745059fea"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 325,
+      "frame": 2,
+      "renderScale": 3,
+      "referenceOnly": true,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/pet-card-reference-2.png",
+      "width": 413,
+      "height": 436,
+      "sourceCanvas": [
+        413,
+        436
+      ],
+      "alphaBounds": [
+        59,
+        83,
+        391,
+        405
+      ],
+      "cropped": false,
+      "pngSha256": "04e0ea140817db9953f9164514950a11693e47eceae751ce73574ac225d0f6fd"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 325,
+      "frame": 3,
+      "renderScale": 3,
+      "referenceOnly": true,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/pet-card-reference-3.png",
+      "width": 413,
+      "height": 436,
+      "sourceCanvas": [
+        413,
+        436
+      ],
+      "alphaBounds": [
+        59,
+        20,
+        391,
+        413
+      ],
+      "cropped": false,
+      "pngSha256": "f948a631e4b116a579e53317aa19ea04f3ecaaf198ca926af8f7099aca9b213f"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 778,
+      "frame": 1,
+      "renderScale": 3,
+      "referenceOnly": true,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/self-info-reference-1.png",
+      "width": 1446,
+      "height": 1816,
+      "sourceCanvas": [
+        1446,
+        1816
+      ],
+      "alphaBounds": [
+        50,
+        39,
+        1408,
+        1261
+      ],
+      "cropped": false,
+      "pngSha256": "efe46e21cdc1f8590494dd51a9dbac0d119926061e76cbdb1f73beee815859e8"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+      "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4770919,
+      "characterId": 793,
+      "frame": 1,
+      "renderScale": 3,
+      "referenceOnly": true,
+      "file": "Assets/Art/Battle/Flash/TestCollection/UI/enemy-info-reference-1.png",
+      "width": 1427,
+      "height": 1767,
+      "sourceCanvas": [
+        1427,
+        1767
+      ],
+      "alphaBounds": [
+        45,
+        39,
+        1403,
+        1268
+      ],
+      "cropped": false,
+      "pngSha256": "8364cf27d6e09022a59bb03a95e7178a3b897e1296f7b3c307b16fea84e3b959"
+    }
+  ]
+}

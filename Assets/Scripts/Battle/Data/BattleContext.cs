@@ -24,25 +24,5 @@ namespace ReSeer.Battle
             Turn = value;
         }
 
-        /// <summary>加载玩家数据，根据数据加载敌人或玩家方数据</summary>
-        /// <param name="playerData">玩家数据</param>
-        /// <param name="targetSide">要加载的方</param>
-        public void LoadPlayerData(PlayerData playerData, BattleSide targetSide)
-        {
-            if (playerData == null) throw new ArgumentNullException(nameof(playerData));
-            switch (targetSide)
-            {
-                case BattleSide.Player:
-                    PlayerSide.LoadPlayerData(playerData);
-                    break;
-                case BattleSide.Enemy:
-                    EnemySide.LoadPlayerData(playerData);
-                    break;
-                default:
-                    throw new ArgumentOutOfRangeException(nameof(targetSide), targetSide, null);
-            }
-        }
-
-
     }
 }

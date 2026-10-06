@@ -1,0 +1,309 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 126e026974234cb4b53f86db257cc7a8, type: 3}
+  m_Name: PetArtCatalog
+  m_EditorClassIdentifier: 
+  entries:
+  - petId: 261
+    avatar: {fileID: 21300000, guid: e374dece9bc52bd4ca5ff042cae4d585, type: 3}
+    artwork: {fileID: 21300000, guid: d6a38b34a5543a84a88cc18090f54f19, type: 3}
+  - petId: 4200
+    avatar: {fileID: 21300000, guid: be901d02311f4a26a4577b73f4f28edf, type: 3}
+    artwork: {fileID: 21300000, guid: 30781429dccd4267893c2f008fe50431, type: 3}
+  - petId: 4212
+    avatar: {fileID: 21300000, guid: e6acee8eb51b4abea3828d295213bcfa, type: 3}
+    artwork: {fileID: 21300000, guid: 81cf18aedcae472b9c3fcfe9b6cb94a8, type: 3}
+  - petId: 4224
+    avatar: {fileID: 21300000, guid: f0fd6c6e6ae54e6ab524399cbf4ee44b, type: 3}
+    artwork: {fileID: 21300000, guid: 93fff87a6dec4912bee2d878bb324f76, type: 3}
+  - petId: 4236
+    avatar: {fileID: 21300000, guid: fa4e03ea768449748737813ad5a896e8, type: 3}
+    artwork: {fileID: 21300000, guid: e64660cfe46c4ea388b40c355494f12c, type: 3}
+  - petId: 4248
+    avatar: {fileID: 21300000, guid: 3c74a83511464dc296a63a0a1a836168, type: 3}
+    artwork: {fileID: 21300000, guid: fe115f461ff44fec9cecf5d6c62ccfb2, type: 3}
+  - petId: 4260
+    avatar: {fileID: 21300000, guid: 2f46caca0e3d461099bbc3450af20d55, type: 3}
+    artwork: {fileID: 21300000, guid: 43936fb2ccb4442992f1f4ee8f2d5dfb, type: 3}
+  - petId: 4272
+    avatar: {fileID: 21300000, guid: 512dcfedd0494ce69cd0872b94677a22, type: 3}
+    artwork: {fileID: 21300000, guid: 47c208cc5c594ee2ab4248437a227dda, type: 3}
+  - petId: 4284
+    avatar: {fileID: 21300000, guid: f32725ed502a4ad59a5110d50ad43f49, type: 3}
+    artwork: {fileID: 21300000, guid: 21cc0fed7849452fabdd264c3c2732c2, type: 3}
+  - petId: 4296
+    avatar: {fileID: 21300000, guid: bba4b315cd53488c8b0d616ccafb865c, type: 3}
+    artwork: {fileID: 21300000, guid: 7552fa8b3fdc491ea3e1933f37946be3, type: 3}
+  - petId: 4308
+    avatar: {fileID: 21300000, guid: ac9cb9f2e125403fac03e5df184a7d5a, type: 3}
+    artwork: {fileID: 21300000, guid: 74e8e6b1779a47c5b3d43061c68c32ee, type: 3}
+  - petId: 4320
+    avatar: {fileID: 21300000, guid: e147e9f73d4040fbbafbe0956cc3bf4f, type: 3}
+    artwork: {fileID: 21300000, guid: 1ad7be48c5f74b64845184016cc82ca3, type: 3}
+  - petId: 4331
+    avatar: {fileID: 21300000, guid: 88b5616375f04efe814a37d987183975, type: 3}
+    artwork: {fileID: 21300000, guid: e9e65b89f5e044ad9264aa50792316a3, type: 3}
+  - petId: 4343
+    avatar: {fileID: 21300000, guid: 8c7ca0902141405e98db6b7e6fe5aa4c, type: 3}
+    artwork: {fileID: 21300000, guid: 63fef0d93e7141d8b7ad2c167dfe2701, type: 3}
+  - petId: 4355
+    avatar: {fileID: 21300000, guid: 26ab84857c914a9b944c21196d892705, type: 3}
+    artwork: {fileID: 21300000, guid: 73de7a3a6562418e9d6e450575da4bb2, type: 3}
+  - petId: 4367
+    avatar: {fileID: 21300000, guid: c7b63086f7194938bedf7bed17772cf8, type: 3}
+    artwork: {fileID: 21300000, guid: 3619f3c62f6447c6a1f4442bee88bc5d, type: 3}
+  - petId: 4379
+    avatar: {fileID: 21300000, guid: ac75cd99da934f2ba1e351cba83f95e0, type: 3}
+    artwork: {fileID: 21300000, guid: 350c4620cd0a43a689beeb3ca4aaac10, type: 3}
+  - petId: 4391
+    avatar: {fileID: 21300000, guid: 50238b03fd45422abf74bb29ff308c99, type: 3}
+    artwork: {fileID: 21300000, guid: 284bdfe190c24bc18a21cbc4644356c2, type: 3}
+  - petId: 4404
+    avatar: {fileID: 21300000, guid: 5ed1b755bdaa4733ac98a63d2e32d52a, type: 3}
+    artwork: {fileID: 21300000, guid: 167fa55360ad4ac3b626c781c835d538, type: 3}
+  - petId: 4416
+    avatar: {fileID: 21300000, guid: 0f56e15c8cf5483c93033cdd05df5e87, type: 3}
+    artwork: {fileID: 21300000, guid: 5152b34be7a745c091953ab43e35df95, type: 3}
+  - petId: 4428
+    avatar: {fileID: 21300000, guid: 8dcb9c7492a34028b118c109a139e4b6, type: 3}
+    artwork: {fileID: 21300000, guid: 8c1e73f6f8fe455ca287b44602cbbee0, type: 3}
+  - petId: 4440
+    avatar: {fileID: 21300000, guid: b2faa7ed335e4a2285129ec2b3653bc8, type: 3}
+    artwork: {fileID: 21300000, guid: efe50da18466447b9137de5301dceb2f, type: 3}
+  - petId: 4452
+    avatar: {fileID: 21300000, guid: 467e687d725e4cf3bbf5044af8fd8bd5, type: 3}
+    artwork: {fileID: 21300000, guid: ef46974f1ff246ddbc96ea17340f3b72, type: 3}
+  - petId: 4464
+    avatar: {fileID: 21300000, guid: af59a456c9d6426c8bd4d561d6973644, type: 3}
+    artwork: {fileID: 21300000, guid: ce6b18a42f344b31b9aad955a25046f4, type: 3}
+  - petId: 4476
+    avatar: {fileID: 21300000, guid: c0f3937a35014a4bbb8f3c3f15bf2e32, type: 3}
+    artwork: {fileID: 21300000, guid: 269e229250f04a8d813b7227a6c8c548, type: 3}
+  - petId: 4488
+    avatar: {fileID: 21300000, guid: 7eb40c711a614efb8a196828a1a8d8ee, type: 3}
+    artwork: {fileID: 21300000, guid: 7b140cf0c68f4fd7b24678ba98bd9b23, type: 3}
+  - petId: 4500
+    avatar: {fileID: 21300000, guid: cc4bc2f25d774d46a276606a532dbaab, type: 3}
+    artwork: {fileID: 21300000, guid: de8b7ab49a7742aea42d3d39cc9e63ce, type: 3}
+  - petId: 4512
+    avatar: {fileID: 21300000, guid: ca670052399d415a88ea630355e8c23b, type: 3}
+    artwork: {fileID: 21300000, guid: 0fb089b53f28454dbddf33d418ede4af, type: 3}
+  - petId: 4524
+    avatar: {fileID: 21300000, guid: 65b618c083df427b86b4420337e3ee5a, type: 3}
+    artwork: {fileID: 21300000, guid: c7d9a53459f743489dd584d92a270208, type: 3}
+  - petId: 4536
+    avatar: {fileID: 21300000, guid: 027d9973e2a74f219b617c95c33180a6, type: 3}
+    artwork: {fileID: 21300000, guid: 944b5cb5cdd642dca7bdfedcc68d0d34, type: 3}
+  - petId: 4549
+    avatar: {fileID: 21300000, guid: f22c3232bacf4c21adce359939c8f217, type: 3}
+    artwork: {fileID: 21300000, guid: 96ac24fbd3a14a0f9b7e0a0379291d8f, type: 3}
+  - petId: 4561
+    avatar: {fileID: 21300000, guid: 48e5f16cd50e498f9df9ccdfba34a3fc, type: 3}
+    artwork: {fileID: 21300000, guid: 4a5dfb169401432fa6475b955f68d7b7, type: 3}
+  - petId: 4573
+    avatar: {fileID: 21300000, guid: 276fd69b2130478f9b97371599309734, type: 3}
+    artwork: {fileID: 21300000, guid: 671799c0a4584a6badea410d81568478, type: 3}
+  - petId: 4584
+    avatar: {fileID: 21300000, guid: 5d0c987e8b374933b5e1460509acfcd3, type: 3}
+    artwork: {fileID: 21300000, guid: 2599f9d46af8408da4b170e5590f3ecb, type: 3}
+  - petId: 4596
+    avatar: {fileID: 21300000, guid: e4caff8413444e18a45ad0f36bf77ae2, type: 3}
+    artwork: {fileID: 21300000, guid: ef5c2de1a99b49d9aa9cb3aa0879e3c4, type: 3}
+  - petId: 4608
+    avatar: {fileID: 21300000, guid: cfe620ebaa594702ab23a402aafa333b, type: 3}
+    artwork: {fileID: 21300000, guid: 617f555699f142788029b70f0cc254f2, type: 3}
+  - petId: 4620
+    avatar: {fileID: 21300000, guid: 28ce4340e7654c4b999071eaf9a34ad5, type: 3}
+    artwork: {fileID: 21300000, guid: 1cf568fdc1fd419abfe0fc38ec387e89, type: 3}
+  - petId: 4632
+    avatar: {fileID: 21300000, guid: c2db4c36cd6e4cd7ab8ec14eda7098e7, type: 3}
+    artwork: {fileID: 21300000, guid: 70f923532e384703a7f24a9daa2aa6a2, type: 3}
+  - petId: 4644
+    avatar: {fileID: 21300000, guid: a3c1dab2c2fb4432bc73dcbdfcf947a7, type: 3}
+    artwork: {fileID: 21300000, guid: bd29fdbb315f41f5b44e72eaf002e03f, type: 3}
+  - petId: 4656
+    avatar: {fileID: 21300000, guid: 1bd9d767bea74738b11ba034e154d0ee, type: 3}
+    artwork: {fileID: 21300000, guid: 87bfd6632a3546988bc4752297a07fcb, type: 3}
+  - petId: 4668
+    avatar: {fileID: 21300000, guid: 3f2e65054c694dc9a82a66b136fb50ee, type: 3}
+    artwork: {fileID: 21300000, guid: e7a68a44853d496ba48a91c22c850b12, type: 3}
+  - petId: 4680
+    avatar: {fileID: 21300000, guid: fdb558a949f0488eadd3325e0899eac8, type: 3}
+    artwork: {fileID: 21300000, guid: 792ebd47507045bab65105574ccf32f4, type: 3}
+  - petId: 4692
+    avatar: {fileID: 21300000, guid: 9a8e817a0e4541b38614ee37dc7f7827, type: 3}
+    artwork: {fileID: 21300000, guid: e55c8ec747014191a37605f3c35fc194, type: 3}
+  - petId: 4704
+    avatar: {fileID: 21300000, guid: 32652257664f438aba5ea3f81a36f1bb, type: 3}
+    artwork: {fileID: 21300000, guid: bef2792aba464a4d9ebe1742bc9b98ef, type: 3}
+  - petId: 4716
+    avatar: {fileID: 21300000, guid: a7e0b96bad93415f814a4bd2fe4a420c, type: 3}
+    artwork: {fileID: 21300000, guid: 17fdadef2e4c45f08b7400a6d2814838, type: 3}
+  - petId: 4728
+    avatar: {fileID: 21300000, guid: 54c4b8cbb0c04d3a9d0c1138a288e4a0, type: 3}
+    artwork: {fileID: 21300000, guid: 674001b9a2ab437d8248d5ab9c117180, type: 3}
+  - petId: 4740
+    avatar: {fileID: 21300000, guid: 13777feffc9141ebac7f565df6dbc50f, type: 3}
+    artwork: {fileID: 21300000, guid: 8b7b3402d9874749b7b15f40d2e39160, type: 3}
+  - petId: 4752
+    avatar: {fileID: 21300000, guid: 329a3de5e3134e2291a24337bfac92c8, type: 3}
+    artwork: {fileID: 21300000, guid: 315bc76b06cf47d1a52430d5f4f07c4d, type: 3}
+  - petId: 4764
+    avatar: {fileID: 21300000, guid: 1345936c77fb48f9a7fd08dda03b06bf, type: 3}
+    artwork: {fileID: 21300000, guid: b51f907d6ac343fb90fc34064f9aec6b, type: 3}
+  - petId: 4776
+    avatar: {fileID: 21300000, guid: e006c649717a4d7a88738f4a3a9f2192, type: 3}
+    artwork: {fileID: 21300000, guid: 3514d5307217405ea09d7fb2e6d0e186, type: 3}
+  - petId: 4788
+    avatar: {fileID: 21300000, guid: 4e15502dfaf7427a91adcbc026d98b14, type: 3}
+    artwork: {fileID: 21300000, guid: a3393079b3b04f88a584e5f199624434, type: 3}
+  - petId: 4800
+    avatar: {fileID: 21300000, guid: 5004922e44d7487e825fa25fe22e2daf, type: 3}
+    artwork: {fileID: 21300000, guid: 38975b476b8b415b8c8ed7d0d0ef06aa, type: 3}
+  - petId: 4812
+    avatar: {fileID: 21300000, guid: 37f742fa1aab435b96292330e6666277, type: 3}
+    artwork: {fileID: 21300000, guid: 86642b9f5c9c45d2b598a1174bd75f89, type: 3}
+  - petId: 4824
+    avatar: {fileID: 21300000, guid: 7ad627d4103647a9ac9ef4dc5ed9ec17, type: 3}
+    artwork: {fileID: 21300000, guid: 2a3c57ab20c74920bc6863ce6f217971, type: 3}
+  - petId: 4835
+    avatar: {fileID: 21300000, guid: 4ad4ed82027644d184a548ae43192ac1, type: 3}
+    artwork: {fileID: 21300000, guid: 9ab21bf510b944859d5a631d4f4d1431, type: 3}
+  - petId: 4847
+    avatar: {fileID: 21300000, guid: c079885a6b85436db1c2c0ea814e4224, type: 3}
+    artwork: {fileID: 21300000, guid: 4bf6b05be76345a696e858063cb7d470, type: 3}
+  - petId: 4859
+    avatar: {fileID: 21300000, guid: 389fda1a778341ef87d726406a0da35c, type: 3}
+    artwork: {fileID: 21300000, guid: 5801358bef2e4dea905ac26ffcb5b683, type: 3}
+  - petId: 4871
+    avatar: {fileID: 21300000, guid: 4166566de85a42eab3a2e712e95b758d, type: 3}
+    artwork: {fileID: 21300000, guid: 80bd72f81dfb498190f0c93d59045aad, type: 3}
+  - petId: 4883
+    avatar: {fileID: 21300000, guid: 60e1b2080f694b30ab88209254ad88ed, type: 3}
+    artwork: {fileID: 21300000, guid: 9c06a3d5116c411c8c81499b58bb26bf, type: 3}
+  - petId: 4895
+    avatar: {fileID: 21300000, guid: 559f91b30f0a4eddbe8d8614b3d0f527, type: 3}
+    artwork: {fileID: 21300000, guid: 80cc5b71e18b4fa9906aa11b98b7deca, type: 3}
+  - petId: 4907
+    avatar: {fileID: 21300000, guid: ceb0c271d7f4412d923bba5764a0725f, type: 3}
+    artwork: {fileID: 21300000, guid: ed6b0428efc04a8d90767acf0b9463aa, type: 3}
+  - petId: 4919
+    avatar: {fileID: 21300000, guid: fb1da10c738242d9a0a63f03a0b0af6b, type: 3}
+    artwork: {fileID: 21300000, guid: 144fbe4a10004344b4392afbaedec3b5, type: 3}
+  - petId: 4932
+    avatar: {fileID: 21300000, guid: 902bd90367614d038c80b3cbc30df5a9, type: 3}
+    artwork: {fileID: 21300000, guid: 4527f49c939046ffab5da733ae2db14b, type: 3}
+  - petId: 4944
+    avatar: {fileID: 21300000, guid: b8dc54f623544621b818807181a196d8, type: 3}
+    artwork: {fileID: 21300000, guid: d769b5afe16549948ec57ec233915215, type: 3}
+  - petId: 5000
+    avatar: {fileID: 21300000, guid: f4a11bad39f546a3b2c973b062438d50, type: 3}
+    artwork: {fileID: 21300000, guid: bb672c0ef72a4d4cba3ff7ae207c91dd, type: 3}
+  - petId: 5748
+    avatar: {fileID: 21300000, guid: deb2dae7293f4c28bdec7606b1af7880, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5749
+    avatar: {fileID: 21300000, guid: 03d3cc2891c94a8f9c867cf393832987, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5762
+    avatar: {fileID: 21300000, guid: 94caa6edc4a641248e1ba7286dc3709e, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5764
+    avatar: {fileID: 21300000, guid: f8bdb53d5c5f493cbaefc489f4cf9f04, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5765
+    avatar: {fileID: 21300000, guid: 542520c2ae3b4760815bdb63766e7441, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5767
+    avatar: {fileID: 21300000, guid: 188204d85f964f569db9a3b2902baf3a, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5770
+    avatar: {fileID: 21300000, guid: 9a717bdfdfd54fa29ad9ce80ed46a54a, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5771
+    avatar: {fileID: 21300000, guid: 0fc22587a9d14e2caa3fe46fa1f3b3ed, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5772
+    avatar: {fileID: 21300000, guid: ce463c4ce60c44619573e400297786d3, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5773
+    avatar: {fileID: 21300000, guid: 673e2f6570e843f59020f3fac2d44479, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5774
+    avatar: {fileID: 21300000, guid: eb289d38ce884902890b2fbcde003f4a, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5775
+    avatar: {fileID: 21300000, guid: 08e71002d4544347b59bdfde7d2ecc9c, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5776
+    avatar: {fileID: 21300000, guid: 514e30cf4d39466bb378429ee82e6913, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5785
+    avatar: {fileID: 21300000, guid: 4ac686cbce9b499f916c352d0f92ac84, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5786
+    avatar: {fileID: 21300000, guid: a528ecbb08304e188e3aebc0b67e6a77, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5787
+    avatar: {fileID: 21300000, guid: 26a51603d39b4819928572f5d58f263d, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5788
+    avatar: {fileID: 21300000, guid: a1f3d62f0f5a4887a4a4aaa6f3e597ba, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5789
+    avatar: {fileID: 21300000, guid: 7f180236f38f4f09bdc55a2d1d6ff597, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5790
+    avatar: {fileID: 21300000, guid: d6dad26dc8de4ede8eed40da5de7929f, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5820
+    avatar: {fileID: 21300000, guid: 943a69363c7b4d90a92a29406f6bdd28, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5821
+    avatar: {fileID: 21300000, guid: 12c522e77f4244a0bcdfb97dc7f5ea67, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5822
+    avatar: {fileID: 21300000, guid: 78c1de3cfcb343d3a485b814f571bf6b, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5823
+    avatar: {fileID: 21300000, guid: ab0f959f97eb40258ad93d4bc5782c2d, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5824
+    avatar: {fileID: 21300000, guid: 9638bb34c4e643f8959c0be101893fab, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5825
+    avatar: {fileID: 21300000, guid: e04234e5cedf497d9c0fe8a60b9c96fd, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5829
+    avatar: {fileID: 21300000, guid: 8b11cc232d7243f5b4c247feb8c7be55, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5830
+    avatar: {fileID: 21300000, guid: 93cdcd8a193144feb2b87770f6b717bc, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5831
+    avatar: {fileID: 21300000, guid: 48151cdc1dfb48f88740cbc9f286ad3d, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5832
+    avatar: {fileID: 21300000, guid: e0ee4a49b81c466d8a61dfba33690540, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5833
+    avatar: {fileID: 21300000, guid: 6385374baf294650a8e34e0b5791b92f, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5834
+    avatar: {fileID: 21300000, guid: 965f6b0443a34e2ca9a2272f4e985f40, type: 3}
+    artwork: {fileID: 0}
+  - petId: 5835
+    avatar: {fileID: 21300000, guid: 53c1209a5cd448d0afb532b763978ac9, type: 3}
+    artwork: {fileID: 0}
+  - petId: 70
+    avatar: {fileID: 21300000, guid: 4d179cd2eec6c0b46aa2ba17dc22f37f, type: 3}
+    artwork: {fileID: 21300000, guid: 4236381ea2f3c6c4080c67eafff5ae8f, type: 3}

@@ -5,7 +5,7 @@
   "extractor": "UnityPy 1.25.3 / 原始 Texture2D 解码",
   "assets": [
     {
-      "file": "Assets/Art/Battle/rey.png",
+      "file": "Assets/Art/Pet/pets/70.png",
       "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/657525ec6342e44f87d412f4c149bffe",
       "sourceAsset": "Assets/Art/Ui/assets/pet/body/70.png",
       "textureName": "70",
@@ -15,7 +15,7 @@
       "height": 708
     },
     {
-      "file": "Assets/Art/Battle/gaia.png",
+      "file": "Assets/Art/Pet/pets/261.png",
       "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/6bcbc0b21e5fc8161a3805ddd962c628",
       "sourceAsset": "Assets/Art/Ui/assets/pet/body/261.png",
       "textureName": "261",
@@ -35,7 +35,7 @@
       "height": 640
     },
     {
-      "file": "Assets/Art/Battle/rey-head.png",
+      "file": "Assets/Art/Pet/avatar/70.png",
       "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/1400be6cc627e9577df0496cbaa52a90",
       "sourceAsset": "Assets/Art/Ui/assets/pet/head/70.png",
       "textureName": "70",
@@ -45,7 +45,7 @@
       "height": 200
     },
     {
-      "file": "Assets/Art/Battle/gaia-head.png",
+      "file": "Assets/Art/Pet/avatar/261.png",
       "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/8e3841f3ba204c666887a058c1d0d176",
       "sourceAsset": "Assets/Art/Ui/assets/pet/head/261.png",
       "textureName": "261",

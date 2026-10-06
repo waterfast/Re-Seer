@@ -32,7 +32,10 @@ def main():
         if len(matches) != 1:
             raise ValueError("原始贴图名称不唯一或不存在：" + texture_name)
         texture = matches[0]
-        destination = output / (name + ".png")
+        pet_paths = {"rey": "pets/70.png", "gaia": "pets/261.png",
+                     "rey-head": "avatar/70.png", "gaia-head": "avatar/261.png"}
+        destination = ROOT / "Assets/Art/Pet" / pet_paths[name] if name in pet_paths else output / (name + ".png")
+        destination.parent.mkdir(parents=True, exist_ok=True)
         texture.image.save(str(destination))
         records.append({
             "file": destination.relative_to(ROOT).as_posix(),

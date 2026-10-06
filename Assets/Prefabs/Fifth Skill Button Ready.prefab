@@ -455,12 +455,8 @@ MonoBehaviour:
   previewCurrentPP: 10
   loadDatabasePreviewOnStart: 1
   skillClickEvent: {fileID: 11400000, guid: 931d28c3d53f4213ac38502b66a08586, type: 2}
-  testConsumeOnClick: 0
   ppCost: 1
   onClick:
-    m_PersistentCalls:
-      m_Calls: []
-  onUsed:
     m_PersistentCalls:
       m_Calls: []
   glowColor: {r: 0.5, g: 1, b: 1, a: 1}

@@ -1,0 +1,4235 @@
+{
+  "assets": [
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "1",
+      "name": "草",
+      "englishName": "grass",
+      "components": [],
+      "characterId": 1795,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/1.png",
+      "width": 75,
+      "height": 92,
+      "sourceCanvas": [
+        75,
+        92
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        75,
+        92
+      ],
+      "cropped": false,
+      "pngSha256": "e6f729894ec17568655fc22f40a3513ca182e0367431ccafc04afcafd96005ff"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "2",
+      "name": "水",
+      "englishName": "water",
+      "components": [],
+      "characterId": 1793,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/2.png",
+      "width": 63,
+      "height": 96,
+      "sourceCanvas": [
+        63,
+        96
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        63,
+        96
+      ],
+      "cropped": false,
+      "pngSha256": "8bd64bffd2cedf3a989bba66528f17d31868d188a8a9e24b263c53d74594b5da"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "3",
+      "name": "火",
+      "englishName": "fire",
+      "components": [],
+      "characterId": 1791,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/3.png",
+      "width": 59,
+      "height": 94,
+      "sourceCanvas": [
+        59,
+        94
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        59,
+        94
+      ],
+      "cropped": false,
+      "pngSha256": "8cf6901bc8681d63070060b9ce4f8b62e87325ecb6ce25888a7a7abb7408f45b"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "4",
+      "name": "飞行",
+      "englishName": "flying",
+      "components": [],
+      "characterId": 1817,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/4.png",
+      "width": 75,
+      "height": 84,
+      "sourceCanvas": [
+        75,
+        84
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        75,
+        84
+      ],
+      "cropped": false,
+      "pngSha256": "520d75b9bd2b88408e3b4b71479ebb60dac1eeeb5e0baae523a51f3da4dd150a"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "5",
+      "name": "电",
+      "englishName": "electric",
+      "components": [],
+      "characterId": 1815,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/5.png",
+      "width": 76,
+      "height": 89,
+      "sourceCanvas": [
+        76,
+        89
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        76,
+        89
+      ],
+      "cropped": false,
+      "pngSha256": "b13fbafbfb5d8597d029c6f2236d5b480b6666d6ba5a7fed06acb5db1870efac"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "6",
+      "name": "机械",
+      "englishName": "steel",
+      "components": [],
+      "characterId": 1813,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/6.png",
+      "width": 75,
+      "height": 92,
+      "sourceCanvas": [
+        75,
+        92
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        75,
+        91
+      ],
+      "cropped": false,
+      "pngSha256": "1aa262f4f4f22c934e4ad633a8e51af51951419fd4d43daa9ea2c06478aa129e"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "7",
+      "name": "地面",
+      "englishName": "ground",
+      "components": [],
+      "characterId": 1811,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/7.png",
+      "width": 83,
+      "height": 82,
+      "sourceCanvas": [
+        83,
+        82
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        83,
+        82
+      ],
+      "cropped": false,
+      "pngSha256": "2272a36a74fae03f69d9cafcde6322424f4d057d1b6f8329723a78061f2ba4f6"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "8",
+      "name": "普通",
+      "englishName": "normal",
+      "components": [],
+      "characterId": 1809,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/8.png",
+      "width": 74,
+      "height": 91,
+      "sourceCanvas": [
+        74,
+        91
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        74,
+        91
+      ],
+      "cropped": false,
+      "pngSha256": "d7df75d99d28f2dbe8a088898d27aad1d5e3c030478746105495f71757de09ce"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "9",
+      "name": "冰",
+      "englishName": "ice",
+      "components": [],
+      "characterId": 1807,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/9.png",
+      "width": 65,
+      "height": 91,
+      "sourceCanvas": [
+        65,
+        91
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        65,
+        91
+      ],
+      "cropped": false,
+      "pngSha256": "c5154611056c4e401065458f8244917b5b9df8c1c13335973d024301ab9e3145"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "10",
+      "name": "超能",
+      "englishName": "psychic",
+      "components": [],
+      "characterId": 3567,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/10.png",
+      "width": 94,
+      "height": 78,
+      "sourceCanvas": [
+        94,
+        78
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        94,
+        78
+      ],
+      "cropped": false,
+      "pngSha256": "c6b8b9a65c41593cd2a266023107fb4de13339dbb64269439a2be4cf62530f08"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "11",
+      "name": "战斗",
+      "englishName": "fight",
+      "components": [],
+      "characterId": 3540,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/11.png",
+      "width": 85,
+      "height": 82,
+      "sourceCanvas": [
+        85,
+        82
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        85,
+        82
+      ],
+      "cropped": false,
+      "pngSha256": "a2dda8af29d06eaebe001208a4b0490d61e6435ed69f5a7e58a3ea095db99d83"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "12",
+      "name": "光",
+      "englishName": "light",
+      "components": [],
+      "characterId": 3542,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/12.png",
+      "width": 90,
+      "height": 87,
+      "sourceCanvas": [
+        90,
+        87
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        90,
+        87
+      ],
+      "cropped": false,
+      "pngSha256": "a2df0ae7f85a08f89208300c527642329dc28796ca2465a5cd019641f05946c5"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "13",
+      "name": "暗影",
+      "englishName": "dark",
+      "components": [],
+      "characterId": 3544,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/13.png",
+      "width": 74,
+      "height": 84,
+      "sourceCanvas": [
+        74,
+        84
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        74,
+        84
+      ],
+      "cropped": false,
+      "pngSha256": "2a9f5e148ac2c348056a0218897d7af166a82c5b177bdba2cb4565f2b05ff52d"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "14",
+      "name": "神秘",
+      "englishName": "myth",
+      "components": [],
+      "characterId": 3546,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/14.png",
+      "width": 75,
+      "height": 79,
+      "sourceCanvas": [
+        75,
+        79
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        75,
+        79
+      ],
+      "cropped": false,
+      "pngSha256": "fb10ab934492e7f0bcd21b43c94a38029651deec868aee21631a556122ecda61"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "15",
+      "name": "龙",
+      "englishName": "dragon",
+      "components": [],
+      "characterId": 3507,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/15.png",
+      "width": 90,
+      "height": 83,
+      "sourceCanvas": [
+        90,
+        83
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        90,
+        82
+      ],
+      "cropped": false,
+      "pngSha256": "0778684799202dc0711eda4a4e42ad025736f07dcb54ed6ae77251374d85babc"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "16",
+      "name": "圣灵",
+      "englishName": "saint",
+      "components": [],
+      "characterId": 3509,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/16.png",
+      "width": 92,
+      "height": 95,
+      "sourceCanvas": [
+        92,
+        95
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        92,
+        95
+      ],
+      "cropped": false,
+      "pngSha256": "a053b5dc2e925f35f78069a50dd9be7a9e928bbadec096930a2d5e0626e97c64"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "17",
+      "name": "次元",
+      "englishName": "dimension",
+      "components": [],
+      "characterId": 3511,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/17.png",
+      "width": 82,
+      "height": 82,
+      "sourceCanvas": [
+        82,
+        82
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        81,
+        81
+      ],
+      "cropped": false,
+      "pngSha256": "cf27b7c5e99500f58161313e238e5c16a48d1abf3c320801e54501f193ff8a8f"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "18",
+      "name": "远古",
+      "englishName": "ancient",
+      "components": [],
+      "characterId": 3513,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/18.png",
+      "width": 84,
+      "height": 89,
+      "sourceCanvas": [
+        84,
+        89
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        84,
+        89
+      ],
+      "cropped": false,
+      "pngSha256": "743251bbee00a4a1e4791ad4f52440554808b48e389acf18bfb45a9a95af5aaf"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "19",
+      "name": "邪灵",
+      "englishName": "demon",
+      "components": [],
+      "characterId": 3498,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/19.png",
+      "width": 103,
+      "height": 93,
+      "sourceCanvas": [
+        103,
+        93
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        103,
+        93
+      ],
+      "cropped": false,
+      "pngSha256": "d72971b8aa2323aa5409784a04f45164ad7e52c043c36a210a91ae9c87f8440c"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "20",
+      "name": "自然",
+      "englishName": "nature",
+      "components": [],
+      "characterId": 3814,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/20.png",
+      "width": 79,
+      "height": 96,
+      "sourceCanvas": [
+        79,
+        96
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        79,
+        96
+      ],
+      "cropped": false,
+      "pngSha256": "d074d12da36b45cdc63179c585a78f44d38ce9fd946eee7a4a4e2070bc3f2b8e"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "21",
+      "name": "草 超能",
+      "englishName": "grass_psychic",
+      "components": [
+        "1",
+        "10"
+      ],
+      "characterId": 3816,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/21.png",
+      "width": 101,
+      "height": 80,
+      "sourceCanvas": [
+        101,
+        80
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        101,
+        80
+      ],
+      "cropped": false,
+      "pngSha256": "2af68550cc37f7840c9bb7cd4bfdec79c323feb7320083a1d28401592892db6b"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "22",
+      "name": "草 战斗",
+      "englishName": "grass_fight",
+      "components": [
+        "1",
+        "11"
+      ],
+      "characterId": 3806,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/22.png",
+      "width": 98,
+      "height": 88,
+      "sourceCanvas": [
+        98,
+        88
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        98,
+        88
+      ],
+      "cropped": false,
+      "pngSha256": "0da1c178e2694109e2595c5c210872e7373d1496f8fbc4ceb4026a34bbe9c2b0"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "23",
+      "name": "草 暗影",
+      "englishName": "grass_dark",
+      "components": [
+        "1",
+        "13"
+      ],
+      "characterId": 3808,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/23.png",
+      "width": 94,
+      "height": 89,
+      "sourceCanvas": [
+        94,
+        89
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        94,
+        89
+      ],
+      "cropped": false,
+      "pngSha256": "eb958660d6e6605bfef33550914e1ad0058d6055a078a8848b20fae9519cc1aa"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "24",
+      "name": "水 超能",
+      "englishName": "water_psychic",
+      "components": [
+        "2",
+        "10"
+      ],
+      "characterId": 3810,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/24.png",
+      "width": 86,
+      "height": 85,
+      "sourceCanvas": [
+        86,
+        85
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        86,
+        85
+      ],
+      "cropped": false,
+      "pngSha256": "8f4ae298638daf25843738a0e7fd5b033a48d49a6582369a7f8e7657e82090ff"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "25",
+      "name": "水 暗影",
+      "englishName": "water_dark",
+      "components": [
+        "2",
+        "13"
+      ],
+      "characterId": 3812,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/25.png",
+      "width": 93,
+      "height": 79,
+      "sourceCanvas": [
+        93,
+        79
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        93,
+        78
+      ],
+      "cropped": false,
+      "pngSha256": "751be0bb2a9dc7d7b3958c24372f5a696c77dd29b1b7fa54b26cc4277300c9b6"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "26",
+      "name": "水 龙",
+      "englishName": "water_dragon",
+      "components": [
+        "2",
+        "15"
+      ],
+      "characterId": 3679,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/26.png",
+      "width": 121,
+      "height": 98,
+      "sourceCanvas": [
+        121,
+        98
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        121,
+        98
+      ],
+      "cropped": false,
+      "pngSha256": "5b9008f7d054531adfe8a418c861c48c844c75e7d3663eaef9e8871cc1c69542"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "27",
+      "name": "火 飞行",
+      "englishName": "fire_flying",
+      "components": [
+        "3",
+        "4"
+      ],
+      "characterId": 3681,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/27.png",
+      "width": 93,
+      "height": 77,
+      "sourceCanvas": [
+        93,
+        77
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        93,
+        77
+      ],
+      "cropped": false,
+      "pngSha256": "0e4cfffb19a29af990b32c3c6fce7f2636f07907c0cfc522cbc54356b3de5780"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "28",
+      "name": "火 龙",
+      "englishName": "fire_dragon",
+      "components": [
+        "3",
+        "15"
+      ],
+      "characterId": 3683,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/28.png",
+      "width": 106,
+      "height": 86,
+      "sourceCanvas": [
+        106,
+        86
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        106,
+        86
+      ],
+      "cropped": false,
+      "pngSha256": "ef7acad4efbb14e77904ef3576884a30c6f04ac237b33974484c660f8a9b9015"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "29",
+      "name": "火 超能",
+      "englishName": "fire_psychic",
+      "components": [
+        "3",
+        "10"
+      ],
+      "characterId": 3685,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/29.png",
+      "width": 94,
+      "height": 94,
+      "sourceCanvas": [
+        94,
+        94
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        94,
+        94
+      ],
+      "cropped": false,
+      "pngSha256": "5c82d8bfc433e2c023daa01d305b65272a7cee06b57f7986035cf3f0c5c6f284"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "30",
+      "name": "飞行 超能",
+      "englishName": "flying_psychic",
+      "components": [
+        "4",
+        "10"
+      ],
+      "characterId": 3659,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/30.png",
+      "width": 98,
+      "height": 77,
+      "sourceCanvas": [
+        98,
+        77
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        98,
+        77
+      ],
+      "cropped": false,
+      "pngSha256": "01f182844d4a007088391efe2ff1e3d00e918b8d0d2d2db2cb7f761937ba2737"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "31",
+      "name": "光 飞行",
+      "englishName": "flying_light",
+      "components": [
+        "12",
+        "4"
+      ],
+      "characterId": 3672,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/31.png",
+      "width": 96,
+      "height": 84,
+      "sourceCanvas": [
+        96,
+        84
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        96,
+        84
+      ],
+      "cropped": false,
+      "pngSha256": "522f644f94d245def4e2266c6e6f12b6a052d0d51b01248fe07de1ef02b4d270"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "32",
+      "name": "飞行 龙",
+      "englishName": "flying_dragon",
+      "components": [
+        "4",
+        "15"
+      ],
+      "characterId": 3674,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/32.png",
+      "width": 91,
+      "height": 82,
+      "sourceCanvas": [
+        91,
+        82
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        91,
+        82
+      ],
+      "cropped": false,
+      "pngSha256": "7b8df85879ba3455a98f991346a2f6f72beaca32edf0affc4738032492d629e2"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "33",
+      "name": "电 火",
+      "englishName": "electric_fire",
+      "components": [
+        "5",
+        "3"
+      ],
+      "characterId": 3649,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/33.png",
+      "width": 73,
+      "height": 102,
+      "sourceCanvas": [
+        73,
+        102
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        73,
+        102
+      ],
+      "cropped": false,
+      "pngSha256": "c47c8dc67dca4f584caeca2d8f187fee16b38d73ca6016efcbddefdfcc046df9"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "34",
+      "name": "电 冰",
+      "englishName": "electric_ice",
+      "components": [
+        "5",
+        "9"
+      ],
+      "characterId": 3653,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/34.png",
+      "width": 110,
+      "height": 124,
+      "sourceCanvas": [
+        110,
+        124
+      ],
+      "alphaBounds": [
+        18,
+        15,
+        86,
+        103
+      ],
+      "cropped": false,
+      "pngSha256": "4ff868225328d95fbe141ee639f0ed12056e4be61be3db33e768b65ad79ff22a"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "35",
+      "name": "电 战斗",
+      "englishName": "electric_fight",
+      "components": [
+        "5",
+        "11"
+      ],
+      "characterId": 3655,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/35.png",
+      "width": 82,
+      "height": 83,
+      "sourceCanvas": [
+        82,
+        83
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        82,
+        82
+      ],
+      "cropped": false,
+      "pngSha256": "0708e133244ddbd70ec451f26d66fec417e15e1a43e0fc9264146639032a03e0"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "36",
+      "name": "暗影 电",
+      "englishName": "electric_dark",
+      "components": [
+        "13",
+        "5"
+      ],
+      "characterId": 3657,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/36.png",
+      "width": 69,
+      "height": 93,
+      "sourceCanvas": [
+        69,
+        93
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        69,
+        93
+      ],
+      "cropped": false,
+      "pngSha256": "1a14322a47ea335627e934b187f244e4ab0978714a8af1f7cdf6ec61296e4bde"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "37",
+      "name": "机械 地面",
+      "englishName": "steel_ground",
+      "components": [
+        "6",
+        "7"
+      ],
+      "characterId": 3610,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/37.png",
+      "width": 84,
+      "height": 85,
+      "sourceCanvas": [
+        84,
+        85
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        84,
+        85
+      ],
+      "cropped": false,
+      "pngSha256": "7ecbbad4adcc77731eb8463dec2dcd4c221b45778a228757c76d47fc2e1d008c"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "38",
+      "name": "机械 超能",
+      "englishName": "steel_psychic",
+      "components": [
+        "6",
+        "10"
+      ],
+      "characterId": 3612,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/38.png",
+      "width": 103,
+      "height": 82,
+      "sourceCanvas": [
+        103,
+        82
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        103,
+        82
+      ],
+      "cropped": false,
+      "pngSha256": "07c1d83fe7a66fc2835825bcd42b812d0f0c233e7945aec8c3fdb09da22abc80"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "39",
+      "name": "机械 龙",
+      "englishName": "steel_dragon",
+      "components": [
+        "6",
+        "15"
+      ],
+      "characterId": 3614,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/39.png",
+      "width": 97,
+      "height": 90,
+      "sourceCanvas": [
+        97,
+        90
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        96,
+        90
+      ],
+      "cropped": false,
+      "pngSha256": "a4ddf910cf740d3e955a8e6119501b69db8c5041d071c6a4413825a9333d025d"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "40",
+      "name": "地面 龙",
+      "englishName": "ground_dragon",
+      "components": [
+        "7",
+        "15"
+      ],
+      "characterId": 4748,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/40.png",
+      "width": 77,
+      "height": 97,
+      "sourceCanvas": [
+        77,
+        97
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        77,
+        97
+      ],
+      "cropped": false,
+      "pngSha256": "49f8d4a4f6656d062f54fd4131ec8df13a604c485a25820967fccf68f62bb135"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "41",
+      "name": "战斗 地面",
+      "englishName": "ground_fight",
+      "components": [
+        "11",
+        "7"
+      ],
+      "characterId": 4750,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/41.png",
+      "width": 89,
+      "height": 76,
+      "sourceCanvas": [
+        89,
+        76
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        89,
+        76
+      ],
+      "cropped": false,
+      "pngSha256": "2d4dda66086b4684413d64f5220255f487f7c6654a9a5986f53607f81068b314"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "42",
+      "name": "地面 暗影",
+      "englishName": "ground_dark",
+      "components": [
+        "7",
+        "13"
+      ],
+      "characterId": 4752,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/42.png",
+      "width": 88,
+      "height": 88,
+      "sourceCanvas": [
+        88,
+        88
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        88,
+        88
+      ],
+      "cropped": false,
+      "pngSha256": "42309e7fe4fca7cd3ef03a9d3e71a895ea9232960aa5c6e0e5d9a53b453053f3"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "43",
+      "name": "冰 龙",
+      "englishName": "ice_dragon",
+      "components": [
+        "9",
+        "15"
+      ],
+      "characterId": 4754,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/43.png",
+      "width": 100,
+      "height": 86,
+      "sourceCanvas": [
+        100,
+        86
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        100,
+        86
+      ],
+      "cropped": false,
+      "pngSha256": "6767e586b86bb73e3efce9045fca3603cbf997561271145c1fcc593b6a2aba08"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "44",
+      "name": "冰 光",
+      "englishName": "ice_light",
+      "components": [
+        "9",
+        "12"
+      ],
+      "characterId": 4729,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/44.png",
+      "width": 81,
+      "height": 95,
+      "sourceCanvas": [
+        81,
+        95
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        81,
+        94
+      ],
+      "cropped": false,
+      "pngSha256": "c455bd8475cd10c958e1b19f3c4067cbe8f6999f8ab45e09dff9fb9e98301c1f"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "45",
+      "name": "冰 暗影",
+      "englishName": "ice_dark",
+      "components": [
+        "9",
+        "13"
+      ],
+      "characterId": 4731,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/45.png",
+      "width": 87,
+      "height": 87,
+      "sourceCanvas": [
+        87,
+        87
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        87,
+        87
+      ],
+      "cropped": false,
+      "pngSha256": "615aecd5234a841e9a3574e6ecd6f315f4dcfdd9c94a232dd9c492c273334a90"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "46",
+      "name": "超能 冰",
+      "englishName": "psychic_ice",
+      "components": [
+        "10",
+        "9"
+      ],
+      "characterId": 4733,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/46.png",
+      "width": 100,
+      "height": 84,
+      "sourceCanvas": [
+        100,
+        84
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        100,
+        84
+      ],
+      "cropped": false,
+      "pngSha256": "1c89722f0577fdd6187e0a5327acf824f216dd31ddbfe5a844e93c02b2172698"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "47",
+      "name": "战斗 火",
+      "englishName": "fight_fire",
+      "components": [
+        "11",
+        "3"
+      ],
+      "characterId": 4746,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/47.png",
+      "width": 88,
+      "height": 85,
+      "sourceCanvas": [
+        88,
+        85
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        88,
+        85
+      ],
+      "cropped": false,
+      "pngSha256": "8f4840aa7e9bd65260eabae34229653b0cda5161fc930f68f1fae4cb4e0dd820"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "48",
+      "name": "战斗 暗影",
+      "englishName": "fight_dark",
+      "components": [
+        "11",
+        "13"
+      ],
+      "characterId": 4672,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/48.png",
+      "width": 84,
+      "height": 92,
+      "sourceCanvas": [
+        84,
+        92
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        84,
+        91
+      ],
+      "cropped": false,
+      "pngSha256": "a165224485e2a08cba898ad8326f0f2d8d54d512a51fc5ba3247aa900017f5f6"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "49",
+      "name": "光 神秘",
+      "englishName": "light_myth",
+      "components": [
+        "12",
+        "14"
+      ],
+      "characterId": 4674,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/49.png",
+      "width": 85,
+      "height": 91,
+      "sourceCanvas": [
+        85,
+        91
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        85,
+        91
+      ],
+      "cropped": false,
+      "pngSha256": "c51dcc03199c2819f67c9fe8f0551b70eab1e9e0495ab7692becd94b8fdf61b4"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "50",
+      "name": "暗影 神秘",
+      "englishName": "dark_myth",
+      "components": [
+        "13",
+        "14"
+      ],
+      "characterId": 4587,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/50.png",
+      "width": 70,
+      "height": 94,
+      "sourceCanvas": [
+        70,
+        94
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        70,
+        94
+      ],
+      "cropped": false,
+      "pngSha256": "d7dea26a5b9af0af8c61dad6341c5e97ec47816b6a80b8f7dfbf6e40b08dc0fe"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "51",
+      "name": "神秘 超能",
+      "englishName": "myth_psychic",
+      "components": [
+        "14",
+        "10"
+      ],
+      "characterId": 4664,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/51.png",
+      "width": 102,
+      "height": 81,
+      "sourceCanvas": [
+        102,
+        81
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        102,
+        81
+      ],
+      "cropped": false,
+      "pngSha256": "fdb584f44f966d5ee7188f83bf2702380fb67516156f9b6cf98fbde6e612389e"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "52",
+      "name": "圣灵 光",
+      "englishName": "saint_light",
+      "components": [
+        "16",
+        "12"
+      ],
+      "characterId": 4666,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/52.png",
+      "width": 94,
+      "height": 98,
+      "sourceCanvas": [
+        94,
+        98
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        94,
+        98
+      ],
+      "cropped": false,
+      "pngSha256": "aba56365600920c35fa6deae0ead378e1a1aa71c00b120f4749d8494712b8fc2"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "53",
+      "name": "飞行 神秘",
+      "englishName": "flying_myth",
+      "components": [
+        "4",
+        "14"
+      ],
+      "characterId": 4668,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/53.png",
+      "width": 103,
+      "height": 68,
+      "sourceCanvas": [
+        103,
+        68
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        103,
+        68
+      ],
+      "cropped": false,
+      "pngSha256": "086270c4e9314da280490ab9959dcf011327e6b2e525da558984978dc8413002"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "54",
+      "name": "地面 超能",
+      "englishName": "ground_psychic",
+      "components": [
+        "7",
+        "10"
+      ],
+      "characterId": 4670,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/54.png",
+      "width": 99,
+      "height": 87,
+      "sourceCanvas": [
+        99,
+        87
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        99,
+        87
+      ],
+      "cropped": false,
+      "pngSha256": "9a98fa23163d4e17a057a1e82827d567452f706cdfa1ef28ecde1a58f9479c46"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "55",
+      "name": "暗影 龙",
+      "englishName": "dark_dragon",
+      "components": [
+        "13",
+        "15"
+      ],
+      "characterId": 4591,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/55.png",
+      "width": 96,
+      "height": 87,
+      "sourceCanvas": [
+        96,
+        87
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        96,
+        87
+      ],
+      "cropped": false,
+      "pngSha256": "89f3ddc5515d61b9a3f9f855b8abc1bd4fc7e476ddc57250091596c84aa33521"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "56",
+      "name": "圣灵 暗影",
+      "englishName": "saint_dark",
+      "components": [
+        "16",
+        "13"
+      ],
+      "characterId": 4655,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/56.png",
+      "width": 88,
+      "height": 87,
+      "sourceCanvas": [
+        88,
+        87
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        88,
+        87
+      ],
+      "cropped": false,
+      "pngSha256": "5edf438755a6cfcdfc869b0dee1fb977567c7d0eff330698451f60cc442b86da"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "57",
+      "name": "远古 战斗",
+      "englishName": "ancient_fight",
+      "components": [
+        "18",
+        "11"
+      ],
+      "characterId": 4657,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/57.png",
+      "width": 79,
+      "height": 101,
+      "sourceCanvas": [
+        79,
+        101
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        79,
+        101
+      ],
+      "cropped": false,
+      "pngSha256": "79f1c072958e0ae483a2765cf7e0c8706d257ddbaeb87666c16eeb6786ea2441"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "58",
+      "name": "火 神秘",
+      "englishName": "myth_fire",
+      "components": [
+        "3",
+        "14"
+      ],
+      "characterId": 4662,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/58.png",
+      "width": 85,
+      "height": 90,
+      "sourceCanvas": [
+        85,
+        90
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        85,
+        90
+      ],
+      "cropped": false,
+      "pngSha256": "0b18daa1d34f148b6c6c7bab2e2384361bee0746172d60b5cec8d64fb3e877e8"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "59",
+      "name": "光 战斗",
+      "englishName": "light_fight",
+      "components": [
+        "12",
+        "11"
+      ],
+      "characterId": 4577,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/59.png",
+      "width": 105,
+      "height": 73,
+      "sourceCanvas": [
+        105,
+        73
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        98,
+        73
+      ],
+      "cropped": false,
+      "pngSha256": "7c7b59fcea2b91331d2447546f6b8666d95866049e70bdd9ee8f0b1dfaa1ea9c"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "60",
+      "name": "神秘 战斗",
+      "englishName": "myth_fight",
+      "components": [
+        "14",
+        "11"
+      ],
+      "characterId": 4996,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/60.png",
+      "width": 83,
+      "height": 87,
+      "sourceCanvas": [
+        83,
+        87
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        83,
+        87
+      ],
+      "cropped": false,
+      "pngSha256": "ddb8ebcdef1075815de12c38416a74eae466e0ccccc811a9f175503c85db3f6e"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "61",
+      "name": "次元 战斗",
+      "englishName": "dimension_fight",
+      "components": [
+        "17",
+        "11"
+      ],
+      "characterId": 4998,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/61.png",
+      "width": 84,
+      "height": 84,
+      "sourceCanvas": [
+        84,
+        84
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        84,
+        84
+      ],
+      "cropped": false,
+      "pngSha256": "6f29a459230d3fc2246f09ec17dd28a32b2cf95869a54d18101344f03db98480"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "62",
+      "name": "邪灵 神秘",
+      "englishName": "demon_myth",
+      "components": [
+        "19",
+        "14"
+      ],
+      "characterId": 5048,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/62.png",
+      "width": 105,
+      "height": 84,
+      "sourceCanvas": [
+        105,
+        84
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        105,
+        84
+      ],
+      "cropped": false,
+      "pngSha256": "42b152886aa4e1f7c0bc4905d32a3af7ad2586b12c7c53dc9186019fe103b9c9"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "63",
+      "name": "远古 龙",
+      "englishName": "ancient_dragon",
+      "components": [
+        "18",
+        "15"
+      ],
+      "characterId": 5050,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/63.png",
+      "width": 82,
+      "height": 87,
+      "sourceCanvas": [
+        82,
+        87
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        82,
+        87
+      ],
+      "cropped": false,
+      "pngSha256": "b3112679c3d68de884dd0377c07ec83515a3cfc3a587ce9062bf7edd7c49ea78"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "64",
+      "name": "光 次元",
+      "englishName": "light_dimension",
+      "components": [
+        "12",
+        "17"
+      ],
+      "characterId": 5052,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/64.png",
+      "width": 96,
+      "height": 79,
+      "sourceCanvas": [
+        96,
+        79
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        96,
+        79
+      ],
+      "cropped": false,
+      "pngSha256": "95e5bcccdb47b559a4178b07d76cbcad69782e756fafcfe1dc7bc331e9bf10a3"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "65",
+      "name": "远古 圣灵",
+      "englishName": "ancient_saint",
+      "components": [
+        "18",
+        "16"
+      ],
+      "characterId": 5062,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/65.png",
+      "width": 94,
+      "height": 86,
+      "sourceCanvas": [
+        94,
+        86
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        94,
+        86
+      ],
+      "cropped": false,
+      "pngSha256": "f35f94144b5ce81691b5de8f874cc5166dee116dbc3564f53dd8f873d6642df9"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "66",
+      "name": "水 战斗",
+      "englishName": "water_fight",
+      "components": [
+        "2",
+        "11"
+      ],
+      "characterId": 5024,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/66.png",
+      "width": 75,
+      "height": 98,
+      "sourceCanvas": [
+        75,
+        98
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        75,
+        98
+      ],
+      "cropped": false,
+      "pngSha256": "90de3fa0990337b627fd53f776b2d17eea6dbd66542002af833ebb86069e0434"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "67",
+      "name": "电 龙",
+      "englishName": "electric_dragon",
+      "components": [
+        "5",
+        "15"
+      ],
+      "characterId": 5028,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/67.png",
+      "width": 91,
+      "height": 96,
+      "sourceCanvas": [
+        91,
+        96
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        91,
+        96
+      ],
+      "cropped": false,
+      "pngSha256": "fc85776d06741db63cbdc52d8113f6efb805f53b1dcbcbdb7348c197a71c6af0"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "68",
+      "name": "光 火",
+      "englishName": "light_fire",
+      "components": [
+        "12",
+        "3"
+      ],
+      "characterId": 5040,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/68.png",
+      "width": 95,
+      "height": 92,
+      "sourceCanvas": [
+        95,
+        92
+      ],
+      "alphaBounds": [
+        6,
+        6,
+        89,
+        87
+      ],
+      "cropped": false,
+      "pngSha256": "dec1f5a24c04f639be9f468e4d0838a3686924f2c1f31e26573effa46173fe5c"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "69",
+      "name": "光 暗影",
+      "englishName": "light_dark",
+      "components": [
+        "12",
+        "13"
+      ],
+      "characterId": 5044,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/69.png",
+      "width": 78,
+      "height": 96,
+      "sourceCanvas": [
+        78,
+        96
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        78,
+        96
+      ],
+      "cropped": false,
+      "pngSha256": "b458bf46dc1192458de1079a435c753c71f59f6b6a663fa5f10370387df8cd6c"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "70",
+      "name": "邪灵 龙",
+      "englishName": "demon_dragon",
+      "components": [
+        "19",
+        "15"
+      ],
+      "characterId": 4817,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/70.png",
+      "width": 105,
+      "height": 90,
+      "sourceCanvas": [
+        105,
+        90
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        105,
+        90
+      ],
+      "cropped": false,
+      "pngSha256": "1b6f7525a187a2ecb7715318c3ae03ad621b388d86becb322fd8ce926b6352b7"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "71",
+      "name": "远古 神秘",
+      "englishName": "ancient_myth",
+      "components": [
+        "18",
+        "14"
+      ],
+      "characterId": 4819,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/71.png",
+      "width": 85,
+      "height": 90,
+      "sourceCanvas": [
+        85,
+        90
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        85,
+        90
+      ],
+      "cropped": false,
+      "pngSha256": "946ef7c5d8217e5e8419b6a9603df6e6e8c2a709c6e389131de031c9d10b8336"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "72",
+      "name": "机械 次元",
+      "englishName": "steel_dimension",
+      "components": [
+        "6",
+        "17"
+      ],
+      "characterId": 4823,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/72.png",
+      "width": 82,
+      "height": 97,
+      "sourceCanvas": [
+        82,
+        97
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        82,
+        97
+      ],
+      "cropped": false,
+      "pngSha256": "19c4ed6060711e7ee519742d1652f94a90d71c96c5037a50119b64650076ec23"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "73",
+      "name": "战斗 龙",
+      "englishName": "fight_dragon",
+      "components": [
+        "11",
+        "15"
+      ],
+      "characterId": 4946,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/73.png",
+      "width": 85,
+      "height": 99,
+      "sourceCanvas": [
+        85,
+        99
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        85,
+        99
+      ],
+      "cropped": false,
+      "pngSha256": "0eed8ba5fd32884679c00d1a0081b47aad8a720c9adec2d9f4171970912d6b38"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "74",
+      "name": "战斗 自然",
+      "englishName": "fight_nature",
+      "components": [
+        "11",
+        "20"
+      ],
+      "characterId": 4950,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/74.png",
+      "width": 81,
+      "height": 101,
+      "sourceCanvas": [
+        81,
+        101
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        81,
+        101
+      ],
+      "cropped": false,
+      "pngSha256": "57c27f6e22489c269cfc3fd5f0d2721c37359f8de6bee76c286641cb75f2a163"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "75",
+      "name": "邪灵 机械",
+      "englishName": "demon_steel",
+      "components": [
+        "19",
+        "6"
+      ],
+      "characterId": 4954,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/75.png",
+      "width": 103,
+      "height": 83,
+      "sourceCanvas": [
+        103,
+        83
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        103,
+        83
+      ],
+      "cropped": false,
+      "pngSha256": "863167a5873371e4efdd0bd2945d217ea95830eb74702f77096716b09dfbe05b"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "76",
+      "name": "电 次元",
+      "englishName": "electric_dimension",
+      "components": [
+        "5",
+        "17"
+      ],
+      "characterId": 4958,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/76.png",
+      "width": 81,
+      "height": 82,
+      "sourceCanvas": [
+        81,
+        82
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        81,
+        82
+      ],
+      "cropped": false,
+      "pngSha256": "87b8e26fe840dc301164975e889219cafddbb79a9c8b4f3e42edf84107eaec95"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "77",
+      "name": "远古 火",
+      "englishName": "ancient_fire",
+      "components": [
+        "18",
+        "3"
+      ],
+      "characterId": 4858,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/77.png",
+      "width": 82,
+      "height": 88,
+      "sourceCanvas": [
+        82,
+        88
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        82,
+        88
+      ],
+      "cropped": false,
+      "pngSha256": "cd25a7d3290040352e505a4e6bd6a784de8962416cd7dec77e41e8f3a0182946"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "78",
+      "name": "圣灵 战斗",
+      "englishName": "saint_fight",
+      "components": [
+        "16",
+        "11"
+      ],
+      "characterId": 4901,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/78.png",
+      "width": 78,
+      "height": 97,
+      "sourceCanvas": [
+        78,
+        97
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        78,
+        97
+      ],
+      "cropped": false,
+      "pngSha256": "2930134653f27bb8ddeabb51ab021f594411581e1e34e486eaa76fc1f184191f"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "79",
+      "name": "圣灵 次元",
+      "englishName": "saint_dimension",
+      "components": [
+        "16",
+        "17"
+      ],
+      "characterId": 4905,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/79.png",
+      "width": 77,
+      "height": 95,
+      "sourceCanvas": [
+        77,
+        95
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        77,
+        95
+      ],
+      "cropped": false,
+      "pngSha256": "0f2356b39c68fdf1b475b3cd89943195b3d689bb491a4c0e53012f597a6c3add"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "80",
+      "name": "圣灵 电",
+      "englishName": "saint_electric",
+      "components": [
+        "16",
+        "5"
+      ],
+      "characterId": 4319,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/80.png",
+      "width": 81,
+      "height": 104,
+      "sourceCanvas": [
+        81,
+        104
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        81,
+        103
+      ],
+      "cropped": false,
+      "pngSha256": "51b9ced510dbf9f5ebeac90bb9fb0c003860d47f8b8909b77b6e65615c7ea5d2"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "81",
+      "name": "远古 地面",
+      "englishName": "ancient_ground",
+      "components": [
+        "18",
+        "7"
+      ],
+      "characterId": 4328,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/81.png",
+      "width": 87,
+      "height": 92,
+      "sourceCanvas": [
+        87,
+        92
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        87,
+        92
+      ],
+      "cropped": false,
+      "pngSha256": "40bd082d56e4142d962cd170386a97a7b0a53f57aa8b85845c8157c849afff18"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "82",
+      "name": "远古 草",
+      "englishName": "ancient_grass",
+      "components": [
+        "18",
+        "1"
+      ],
+      "characterId": 4338,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/82.png",
+      "width": 212,
+      "height": 152,
+      "sourceCanvas": [
+        212,
+        152
+      ],
+      "alphaBounds": [
+        0,
+        58,
+        98,
+        152
+      ],
+      "cropped": false,
+      "pngSha256": "38a89143536c0b4d862988aa7decfd19f70a0f41b49357b9df39829347015cf3"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "83",
+      "name": "自然 龙",
+      "englishName": "nature_dragon",
+      "components": [
+        "20",
+        "15"
+      ],
+      "characterId": 4342,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/83.png",
+      "width": 94,
+      "height": 92,
+      "sourceCanvas": [
+        94,
+        92
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        94,
+        91
+      ],
+      "cropped": false,
+      "pngSha256": "c0fcfdcf1fd0f5e6fa853ce397d51b9bd8f6ebdc44173e717e52c840101d4c6a"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "84",
+      "name": "冰 神秘",
+      "englishName": "ice_myth",
+      "components": [
+        "9",
+        "14"
+      ],
+      "characterId": 4375,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/84.png",
+      "width": 100,
+      "height": 96,
+      "sourceCanvas": [
+        100,
+        96
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        100,
+        96
+      ],
+      "cropped": false,
+      "pngSha256": "0a6ab285c0f6652d8ad239e65b7681090ceb51c783a33fe1d4989063720fd560"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "85",
+      "name": "飞行 暗影",
+      "englishName": "flying_dark",
+      "components": [
+        "4",
+        "13"
+      ],
+      "characterId": 4377,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/85.png",
+      "width": 88,
+      "height": 92,
+      "sourceCanvas": [
+        88,
+        92
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        88,
+        92
+      ],
+      "cropped": false,
+      "pngSha256": "6816b7da43d684216352a77374f8945e2c05c69841b619ff672e79dda067a72f"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "86",
+      "name": "冰 火",
+      "englishName": "ice_fire",
+      "components": [
+        "9",
+        "3"
+      ],
+      "characterId": 4381,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/86.png",
+      "width": 96,
+      "height": 84,
+      "sourceCanvas": [
+        96,
+        84
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        96,
+        84
+      ],
+      "cropped": false,
+      "pngSha256": "8c1226cd88015a270565be3bc4448b5a54bc0e0b67a637c1beea81dc493cb740"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "87",
+      "name": "冰 飞行",
+      "englishName": "ice_flying",
+      "components": [
+        "9",
+        "4"
+      ],
+      "characterId": 4385,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/87.png",
+      "width": 80,
+      "height": 97,
+      "sourceCanvas": [
+        80,
+        97
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        80,
+        97
+      ],
+      "cropped": false,
+      "pngSha256": "519fd27f1cfa07cbec7bfd5618506c427345165095e8797810865c908032bf97"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "88",
+      "name": "自然 圣灵",
+      "englishName": "nature_saint",
+      "components": [
+        "20",
+        "16"
+      ],
+      "characterId": 4371,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/88.png",
+      "width": 80,
+      "height": 105,
+      "sourceCanvas": [
+        80,
+        105
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        80,
+        105
+      ],
+      "cropped": false,
+      "pngSha256": "61657536b615c0354dac9f32596247e184925a32e4cf58aa95928e78b70ad313"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "89",
+      "name": "混沌 圣灵",
+      "englishName": "chaos_saint",
+      "components": [
+        "222",
+        "16"
+      ],
+      "characterId": 4373,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/89.png",
+      "width": 106,
+      "height": 80,
+      "sourceCanvas": [
+        106,
+        80
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        106,
+        80
+      ],
+      "cropped": false,
+      "pngSha256": "575f5820865fc3deb41d139fba369c01653a553960487e0042a73d29fa84bf21"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "90",
+      "name": "远古 邪灵",
+      "englishName": "ancient_demon",
+      "components": [
+        "18",
+        "19"
+      ],
+      "characterId": 4243,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/90.png",
+      "width": 103,
+      "height": 88,
+      "sourceCanvas": [
+        103,
+        88
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        103,
+        88
+      ],
+      "cropped": false,
+      "pngSha256": "7dfbde63ceb45961a4ecbb262b309a11cad9ba0131c3287e3b6fb30a8b122747"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "91",
+      "name": "自然 冰",
+      "englishName": "nature_ice",
+      "components": [
+        "20",
+        "9"
+      ],
+      "characterId": 4223,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/91.png",
+      "width": 83,
+      "height": 93,
+      "sourceCanvas": [
+        83,
+        93
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        83,
+        93
+      ],
+      "cropped": false,
+      "pngSha256": "bad22eaaf966f338cfcf36cf8d6595398bc3800224393a2847c1423368fcd1b3"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "92",
+      "name": "混沌 暗影",
+      "englishName": "chaos_dark",
+      "components": [
+        "222",
+        "13"
+      ],
+      "characterId": 4227,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/92.png",
+      "width": 75,
+      "height": 98,
+      "sourceCanvas": [
+        75,
+        98
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        75,
+        98
+      ],
+      "cropped": false,
+      "pngSha256": "9fd6582975c541e0775ea7d21b1a7206c92e0766e40248361da5a45520cc00a6"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "93",
+      "name": "混沌 战斗",
+      "englishName": "chaos_fight",
+      "components": [
+        "222",
+        "11"
+      ],
+      "characterId": 4235,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/93.png",
+      "width": 99,
+      "height": 102,
+      "sourceCanvas": [
+        99,
+        102
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        99,
+        102
+      ],
+      "cropped": false,
+      "pngSha256": "519d801918a4a4030e4f3d98eefe3183ad62464081d11a214b81b7ba446d8f01"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "94",
+      "name": "混沌 超能",
+      "englishName": "chaos_psychic",
+      "components": [
+        "222",
+        "10"
+      ],
+      "characterId": 4237,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/94.png",
+      "width": 104,
+      "height": 67,
+      "sourceCanvas": [
+        104,
+        67
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        104,
+        67
+      ],
+      "cropped": false,
+      "pngSha256": "5bd0d198c51a0ebe013f15f965b396545d7ad1f3294f28c23f379ec3eac9ca2f"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "95",
+      "name": "圣灵 超能",
+      "englishName": "saint_psychic",
+      "components": [
+        "16",
+        "10"
+      ],
+      "characterId": 4249,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/95.png",
+      "width": 97,
+      "height": 96,
+      "sourceCanvas": [
+        97,
+        96
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        97,
+        96
+      ],
+      "cropped": false,
+      "pngSha256": "8bd788e404f0c9949d268a4c6efe67fb1a809d0b8882802c43a90dcb81871645"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "96",
+      "name": "混沌 地面",
+      "englishName": "chaos_ground",
+      "components": [
+        "222",
+        "7"
+      ],
+      "characterId": 4254,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/96.png",
+      "width": 170,
+      "height": 127,
+      "sourceCanvas": [
+        170,
+        127
+      ],
+      "alphaBounds": [
+        0,
+        55,
+        110,
+        127
+      ],
+      "cropped": false,
+      "pngSha256": "eaaa1d93d735e49f2c5a4500a43892fc979c3b32b05093833d7a005e17fa29e7"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "97",
+      "name": "暗影 邪灵",
+      "englishName": "dark_demon",
+      "components": [
+        "13",
+        "19"
+      ],
+      "characterId": 4256,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/97.png",
+      "width": 107,
+      "height": 79,
+      "sourceCanvas": [
+        107,
+        79
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        107,
+        79
+      ],
+      "cropped": false,
+      "pngSha256": "d819ff9bd18e943505cd1e9fa31a8c6639e5cb7f4b5325d04b6b989a48ceca15"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "98",
+      "name": "混沌 远古",
+      "englishName": "chaos_ancient",
+      "components": [
+        "222",
+        "18"
+      ],
+      "characterId": 4261,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/98.png",
+      "width": 82,
+      "height": 105,
+      "sourceCanvas": [
+        82,
+        105
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        82,
+        105
+      ],
+      "cropped": false,
+      "pngSha256": "ca43aacd7c6a64f12522eae68e89aa59ab7d14ac2b1779a2ad905c36ac3de075"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "99",
+      "name": "混沌 邪灵",
+      "englishName": "chaos_demon",
+      "components": [
+        "222",
+        "19"
+      ],
+      "characterId": 4245,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/99.png",
+      "width": 108,
+      "height": 82,
+      "sourceCanvas": [
+        108,
+        82
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        108,
+        82
+      ],
+      "cropped": false,
+      "pngSha256": "2e2de27f90712fe18bcbbd67d8bc4e34827853bf091df368f721d9b1dc6f5866"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "100",
+      "name": "圣灵 地面",
+      "englishName": "saint_ground",
+      "components": [
+        "16",
+        "7"
+      ],
+      "characterId": 4379,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/100.png",
+      "width": 99,
+      "height": 99,
+      "sourceCanvas": [
+        99,
+        99
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        99,
+        99
+      ],
+      "cropped": false,
+      "pngSha256": "fd3624a6eecf2be7b51b2111dbb3d19c86c65428279603937b2103b5e2ae76cc"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "101",
+      "name": "火 暗影",
+      "englishName": "fire_dark",
+      "components": [
+        "3",
+        "13"
+      ],
+      "characterId": 4383,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/101.png",
+      "width": 74,
+      "height": 98,
+      "sourceCanvas": [
+        74,
+        98
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        74,
+        98
+      ],
+      "cropped": false,
+      "pngSha256": "c53780fa2b132a7e63c7fe6a72bbf3d9f788e4e4308a346008e685cd9f5defba"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "102",
+      "name": "光 超能",
+      "englishName": "light_psychic",
+      "components": [
+        "12",
+        "10"
+      ],
+      "characterId": 4387,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/102.png",
+      "width": 102,
+      "height": 79,
+      "sourceCanvas": [
+        102,
+        79
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        102,
+        79
+      ],
+      "cropped": false,
+      "pngSha256": "60ed921634d0efdd532e898b9d99ad408f04233e2909e5aee2427c1e7669570b"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "103",
+      "name": "机械 战斗",
+      "englishName": "steel_fight",
+      "components": [
+        "6",
+        "11"
+      ],
+      "characterId": 4321,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/103.png",
+      "width": 90,
+      "height": 89,
+      "sourceCanvas": [
+        90,
+        89
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        90,
+        89
+      ],
+      "cropped": false,
+      "pngSha256": "bfb301e27af2e89d4ec9bab08fab8a66f65d1a5c7113bd1d553a46c705c6948f"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "104",
+      "name": "飞行 电",
+      "englishName": "flying_electric",
+      "components": [
+        "4",
+        "5"
+      ],
+      "characterId": 4332,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/104.png",
+      "width": 94,
+      "height": 96,
+      "sourceCanvas": [
+        94,
+        96
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        94,
+        96
+      ],
+      "cropped": false,
+      "pngSha256": "54c0c904f4be9a538d59669309fb9a3b4db7b6efb66ef4e81c6a51da7919453c"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "105",
+      "name": "混沌 飞行",
+      "englishName": "chaos_flying",
+      "components": [
+        "222",
+        "4"
+      ],
+      "characterId": 4340,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/105.png",
+      "width": 73,
+      "height": 104,
+      "sourceCanvas": [
+        73,
+        104
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        73,
+        104
+      ],
+      "cropped": false,
+      "pngSha256": "2206835f6b5545d4b96fd745cbf91e3564824f1a5398ad94ed8d1260096400b9"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "106",
+      "name": "混沌 龙",
+      "englishName": "chaos_dragon",
+      "components": [
+        "222",
+        "15"
+      ],
+      "characterId": 4344,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/106.png",
+      "width": 106,
+      "height": 86,
+      "sourceCanvas": [
+        106,
+        86
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        106,
+        86
+      ],
+      "cropped": false,
+      "pngSha256": "409ab3358b44ac202d9930e0bc2e87eecd391d3596a524ac368a7b38c52b109c"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "107",
+      "name": "混沌 火",
+      "englishName": "chaos_fire",
+      "components": [
+        "222",
+        "3"
+      ],
+      "characterId": 4353,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/107.png",
+      "width": 179,
+      "height": 168,
+      "sourceCanvas": [
+        179,
+        168
+      ],
+      "alphaBounds": [
+        9,
+        58,
+        86,
+        164
+      ],
+      "cropped": false,
+      "pngSha256": "900f9234499763fe953cdd472299b5058f52ed96908d9d38aa5015731e31806c"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "108",
+      "name": "圣灵 火",
+      "englishName": "saint_fire",
+      "components": [
+        "16",
+        "3"
+      ],
+      "characterId": 4357,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/108.png",
+      "width": 104,
+      "height": 122,
+      "sourceCanvas": [
+        104,
+        122
+      ],
+      "alphaBounds": [
+        0,
+        25,
+        98,
+        122
+      ],
+      "cropped": false,
+      "pngSha256": "2e6c15921c757eeccadcd3212b21190417375a42bd9e669a68d7ddc828231690"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "109",
+      "name": "地面 神秘",
+      "englishName": "ground_myth",
+      "components": [
+        "7",
+        "14"
+      ],
+      "characterId": 4362,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/109.png",
+      "width": 88,
+      "height": 89,
+      "sourceCanvas": [
+        88,
+        89
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        88,
+        89
+      ],
+      "cropped": false,
+      "pngSha256": "35c81567907bec2c38dbfd4b5ccf211a473deedbf66f1e5e53f10479bdacc619"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "110",
+      "name": "混沌 次元",
+      "englishName": "chaos_dimension",
+      "components": [
+        "222",
+        "17"
+      ],
+      "characterId": 4103,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/110.png",
+      "width": 108,
+      "height": 47,
+      "sourceCanvas": [
+        108,
+        47
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        108,
+        46
+      ],
+      "cropped": false,
+      "pngSha256": "01b8af60e32fb9fa0e4a61937fa70125315abd78c4ba640fb2ef6c9038d88cb5"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "111",
+      "name": "混沌 冰",
+      "englishName": "chaos_ice",
+      "components": [
+        "222",
+        "9"
+      ],
+      "characterId": 4105,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/111.png",
+      "width": 60,
+      "height": 103,
+      "sourceCanvas": [
+        60,
+        103
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        60,
+        103
+      ],
+      "cropped": false,
+      "pngSha256": "4f82ab449afb4313172d077fe9aa017f0f62cc2131589a0332e272ff9c527228"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "112",
+      "name": "自然 神秘",
+      "englishName": "nature_myth",
+      "components": [
+        "20",
+        "14"
+      ],
+      "characterId": 4109,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/112.png",
+      "width": 84,
+      "height": 102,
+      "sourceCanvas": [
+        84,
+        102
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        84,
+        102
+      ],
+      "cropped": false,
+      "pngSha256": "35f736dba002262d44522cd4def299c5e3a948452bb96963790831cdfc6a3d32"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "113",
+      "name": "虚空 邪灵",
+      "englishName": "void_demon",
+      "components": [
+        "226",
+        "19"
+      ],
+      "characterId": 4113,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/113.png",
+      "width": 99,
+      "height": 95,
+      "sourceCanvas": [
+        99,
+        95
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        99,
+        94
+      ],
+      "cropped": false,
+      "pngSha256": "c7644648ad745b724f6ee84641fec84b40cc1b24c82cce2c4c0f1bf9502b8880"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "114",
+      "name": "虚空 混沌",
+      "englishName": "void_chaos",
+      "components": [
+        "226",
+        "222"
+      ],
+      "characterId": 4062,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/114.png",
+      "width": 103,
+      "height": 94,
+      "sourceCanvas": [
+        103,
+        94
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        103,
+        94
+      ],
+      "cropped": false,
+      "pngSha256": "7ba46a4a8bddb62c516af4e88368878820a4fd1d75a2b547e264247d2cc3923c"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "115",
+      "name": "圣灵 轮回",
+      "englishName": "saint_samsara",
+      "components": [
+        "16",
+        "224"
+      ],
+      "characterId": 4068,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/115.png",
+      "width": 95,
+      "height": 95,
+      "sourceCanvas": [
+        95,
+        95
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        95,
+        95
+      ],
+      "cropped": false,
+      "pngSha256": "738e447bf984770b45ea36cefce77d455cabbc32534f71b5626d7468867f23b7"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "116",
+      "name": "水 次元",
+      "englishName": "water_dimension",
+      "components": [
+        "2",
+        "17"
+      ],
+      "characterId": 4070,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/116.png",
+      "width": 89,
+      "height": 89,
+      "sourceCanvas": [
+        89,
+        89
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        88,
+        88
+      ],
+      "cropped": false,
+      "pngSha256": "5e7291617ccbbc4ac49abfed0df540bd33a49d20a8cb221ab208165e25fe2c89"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "117",
+      "name": "圣灵 神秘",
+      "englishName": "saint_myth",
+      "components": [
+        "16",
+        "14"
+      ],
+      "characterId": 4084,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/117.png",
+      "width": 92,
+      "height": 85,
+      "sourceCanvas": [
+        92,
+        85
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        92,
+        85
+      ],
+      "cropped": false,
+      "pngSha256": "9e6be4663bef317370faf5505b83afb2f74e67c64bd8f5f910cd1fc1609fb155"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "118",
+      "name": "机械 神秘",
+      "englishName": "steel_myth",
+      "components": [
+        "6",
+        "14"
+      ],
+      "characterId": 4086,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/118.png",
+      "width": 82,
+      "height": 86,
+      "sourceCanvas": [
+        82,
+        86
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        82,
+        83
+      ],
+      "cropped": false,
+      "pngSha256": "343252c71603d6fe2af2a8762fc57de678f431d6dd5127c7200a7492fb43dc9b"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "119",
+      "name": "水 神秘",
+      "englishName": "water_myth",
+      "components": [
+        "2",
+        "14"
+      ],
+      "characterId": 4089,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/119.png",
+      "width": 102,
+      "height": 117,
+      "sourceCanvas": [
+        102,
+        117
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        102,
+        117
+      ],
+      "cropped": false,
+      "pngSha256": "e4410ca5cb6782de99f33a9d8d7c594e8b7aa3c865553ada477465d325727cf4"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "120",
+      "name": "次元 龙",
+      "englishName": "dimension_dragon",
+      "components": [
+        "17",
+        "15"
+      ],
+      "characterId": 4188,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/120.png",
+      "width": 93,
+      "height": 92,
+      "sourceCanvas": [
+        93,
+        92
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        93,
+        92
+      ],
+      "cropped": false,
+      "pngSha256": "10276174a968f8b5ffd5639980061f8151b4b7032fb5e1f04184d8980e7d14da"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "121",
+      "name": "自然 超能",
+      "englishName": "nature_psychic",
+      "components": [
+        "20",
+        "10"
+      ],
+      "characterId": 4190,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/121.png",
+      "width": 93,
+      "height": 115,
+      "sourceCanvas": [
+        93,
+        115
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        93,
+        115
+      ],
+      "cropped": false,
+      "pngSha256": "8b1ef105d050a64680b9eb3cfe9bf668af9e4f4493f0549039928b1067bc4afd"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "122",
+      "name": "电 机械",
+      "englishName": "electric_steel",
+      "components": [
+        "5",
+        "6"
+      ],
+      "characterId": 4195,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/122.png",
+      "width": 89,
+      "height": 104,
+      "sourceCanvas": [
+        89,
+        104
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        89,
+        104
+      ],
+      "cropped": false,
+      "pngSha256": "41477a5b2ac62d2598c653878296dc1dcd9b518ca308e7dc8c323c9fec5c690e"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "123",
+      "name": "神秘 轮回",
+      "englishName": "myth_samsara",
+      "components": [
+        "14",
+        "224"
+      ],
+      "characterId": 4197,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/123.png",
+      "width": 93,
+      "height": 94,
+      "sourceCanvas": [
+        93,
+        94
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        93,
+        94
+      ],
+      "cropped": false,
+      "pngSha256": "dd92be10cf0132a1079b8f37f55ac492a8445a62a633098c2b33204002c9a09d"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "124",
+      "name": "水 机械",
+      "englishName": "water_steel",
+      "components": [
+        "2",
+        "6"
+      ],
+      "characterId": 4206,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/124.png",
+      "width": 83,
+      "height": 75,
+      "sourceCanvas": [
+        83,
+        75
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        83,
+        75
+      ],
+      "cropped": false,
+      "pngSha256": "74c12c22c0e5ff5aaf2066726367277683ed8010f3a66b0dce0dff04648b10cc"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "125",
+      "name": "火 机械",
+      "englishName": "fire_steel",
+      "components": [
+        "3",
+        "6"
+      ],
+      "characterId": 4144,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/125.png",
+      "width": 83,
+      "height": 77,
+      "sourceCanvas": [
+        83,
+        77
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        83,
+        77
+      ],
+      "cropped": false,
+      "pngSha256": "4718f4b5bcbeb026c01b5da83872a04b6b9315d417d82c7f484794b8bdb62bf1"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "126",
+      "name": "草 机械",
+      "englishName": "grass_steel",
+      "components": [
+        "1",
+        "6"
+      ],
+      "characterId": 4146,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/126.png",
+      "width": 84,
+      "height": 78,
+      "sourceCanvas": [
+        84,
+        78
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        84,
+        78
+      ],
+      "cropped": false,
+      "pngSha256": "c80c86ad1f6f42192faa8903e4793abe23c2f98e748ef1f63a3de0a76799fc40"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "127",
+      "name": "远古 电",
+      "englishName": "ancient_electric",
+      "components": [
+        "18",
+        "5"
+      ],
+      "characterId": 4148,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/127.png",
+      "width": 77,
+      "height": 88,
+      "sourceCanvas": [
+        77,
+        88
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        77,
+        88
+      ],
+      "cropped": false,
+      "pngSha256": "f635363d2138b1b847d61489a44401257bcd7d11d50cc25c9c899695be0d6638"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "128",
+      "name": "圣灵 飞行",
+      "englishName": "saint_flying",
+      "components": [
+        "16",
+        "4"
+      ],
+      "characterId": 4151,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/128.png",
+      "width": 89,
+      "height": 78,
+      "sourceCanvas": [
+        89,
+        78
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        89,
+        78
+      ],
+      "cropped": false,
+      "pngSha256": "ed9fd6db972d971918350e16fd607178a66402c1233f2989948a6eec86a35cc3"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "129",
+      "name": "远古 机械",
+      "englishName": "ancient_steel",
+      "components": [
+        "18",
+        "6"
+      ],
+      "characterId": 4186,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/129.png",
+      "width": 96,
+      "height": 96,
+      "sourceCanvas": [
+        96,
+        96
+      ],
+      "alphaBounds": [
+        0,
+        6,
+        96,
+        92
+      ],
+      "cropped": false,
+      "pngSha256": "121e81ec415d8f4df6995ec7549281f303d9a451d58995d6a2b904014107b3e0"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "130",
+      "name": "远古 光",
+      "englishName": "ancient_light",
+      "components": [
+        "18",
+        "12"
+      ],
+      "characterId": 3882,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/130.png",
+      "width": 84,
+      "height": 91,
+      "sourceCanvas": [
+        84,
+        91
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        84,
+        91
+      ],
+      "cropped": false,
+      "pngSha256": "30149832b5bf0dcb1920140bd809ea569aae0ff3bc970dd9daec86f22f654126"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "131",
+      "name": "混沌 光",
+      "englishName": "chaos_light",
+      "components": [
+        "222",
+        "12"
+      ],
+      "characterId": 3886,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/131.png",
+      "width": 620,
+      "height": 748,
+      "sourceCanvas": [
+        620,
+        748
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        80,
+        95
+      ],
+      "cropped": false,
+      "pngSha256": "a4aa168d45c98f5b2ecaa6669b1554b77475be3d77c0b95f8fee35d6db138e6c"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "132",
+      "name": "火 虫",
+      "englishName": "fire_insect",
+      "components": [
+        "3",
+        "225"
+      ],
+      "characterId": 3891,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/132.png",
+      "width": 75,
+      "height": 109,
+      "sourceCanvas": [
+        75,
+        109
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        75,
+        109
+      ],
+      "cropped": false,
+      "pngSha256": "55c6464bf3f9ee72464c0e0a336bd67f2e3dbb240deb6e793edd80c2c3de9aab"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "221",
+      "name": "王",
+      "englishName": "king",
+      "components": [],
+      "characterId": 1087,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/221.png",
+      "width": 99,
+      "height": 94,
+      "sourceCanvas": [
+        99,
+        94
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        99,
+        90
+      ],
+      "cropped": false,
+      "pngSha256": "e8d0302173ba6bd1bb9926e421ec237aa3732ff5ac179d8a5f9bf37d11f373e9"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "222",
+      "name": "混沌",
+      "englishName": "chaos",
+      "components": [],
+      "characterId": 1089,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/222.png",
+      "width": 77,
+      "height": 95,
+      "sourceCanvas": [
+        77,
+        95
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        77,
+        95
+      ],
+      "cropped": false,
+      "pngSha256": "4e46963b3f3597a5ac264508f1e447f3afb7cb84a76218e150304fdb75b33302"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "223",
+      "name": "神灵",
+      "englishName": "deity",
+      "components": [],
+      "characterId": 1097,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/223.png",
+      "width": 99,
+      "height": 92,
+      "sourceCanvas": [
+        99,
+        92
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        99,
+        92
+      ],
+      "cropped": false,
+      "pngSha256": "0071a1a86db3b9f3e58282c90c809c099961ccb52d9341eae0e4e7ba41ffaff6"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "224",
+      "name": "轮回",
+      "englishName": "samsara",
+      "components": [],
+      "characterId": 1078,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/224.png",
+      "width": 95,
+      "height": 95,
+      "sourceCanvas": [
+        95,
+        95
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        95,
+        95
+      ],
+      "cropped": false,
+      "pngSha256": "6a68955ff1557d7bd167d147b87900436019f258db75eb687d358ad35c0aff3a"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "225",
+      "name": "虫",
+      "englishName": "insect",
+      "components": [],
+      "characterId": 1080,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/225.png",
+      "width": 91,
+      "height": 95,
+      "sourceCanvas": [
+        91,
+        95
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        91,
+        95
+      ],
+      "cropped": false,
+      "pngSha256": "184fd2b7607592832a20bc1e8f341fbda66bd67a9307ca18de19788a5945814d"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "226",
+      "name": "虚空",
+      "englishName": "void",
+      "components": [],
+      "characterId": 1082,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/226.png",
+      "width": 89,
+      "height": 98,
+      "sourceCanvas": [
+        89,
+        98
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        89,
+        98
+      ],
+      "cropped": false,
+      "pngSha256": "6780d82dd99b218dc655155993e6a0c0037fec140fbd46c2412a467a50b74d0d"
+    },
+    {
+      "sourceUrl": "https://seer.61.com/dll/UI.swf",
+      "sourceSha256": "273a1dcd6f59e8175870df767a9f5a634d7a75b63ebca356fad66990844d49da",
+      "retrievedDate": "2026-10-06",
+      "sourceBytes": 4807973,
+      "typeId": "prop",
+      "name": "属性技能",
+      "englishName": "attribute_skill",
+      "components": [],
+      "characterId": 6431,
+      "state": "up",
+      "renderScale": 3,
+      "file": "Assets/Resources/UI/Types/prop.png",
+      "width": 91,
+      "height": 101,
+      "sourceCanvas": [
+        91,
+        101
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        91,
+        101
+      ],
+      "cropped": false,
+      "pngSha256": "2bd930a3d25eb45f88697728cf981b0defb54433493caaba050e2729e36701f5"
+    }
+  ],
+  "missingTypeIds": [
+    "133"
+  ]
+}
