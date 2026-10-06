@@ -1,0 +1,537 @@
+{
+  "sourceFile": "docs/OfficialReference/20261001/fight.swf",
+  "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+  "sourceSha256": "d3382d52150d1189e24664f840090b80d923fbdb4ee831ee78e4fc03f3dcc6df",
+  "extractedDate": "2026-10-01",
+  "tool": "JPEXS 26.2.1",
+  "zoom": 3,
+  "authoredFrameRate": 24,
+  "method": "Static rendering. No ActionScript executed. Trim boxes recorded; animation/name frames retain shared canvases.",
+  "assets": [
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/capture-up.png",
+      "characterId": 657,
+      "role": "up",
+      "frame": 1,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        376,
+        419,
+        617,
+        601
+      ],
+      "size": [
+        241,
+        182
+      ],
+      "sha256": "045ab34ec27e593abedf0ee3584bbdba1cd7c0429b03d12463dcb81cebfa20d4"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/capture-over.png",
+      "characterId": 657,
+      "role": "over",
+      "frame": 2,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        377,
+        421,
+        615,
+        601
+      ],
+      "size": [
+        238,
+        180
+      ],
+      "sha256": "335305ca456aabe91856efed93ec942289dd756ced2df0f51b5bf6e85934f22f"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/capture-down.png",
+      "characterId": 657,
+      "role": "down",
+      "frame": 3,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        372,
+        416,
+        622,
+        605
+      ],
+      "size": [
+        250,
+        189
+      ],
+      "sha256": "42ca84d32a8ecddcf8fb5b08abae9fb5abe0b01dcdc1065987d18cf2a72594ee"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/capture-hittest.png",
+      "characterId": 657,
+      "role": "hittest",
+      "frame": 4,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        377,
+        420,
+        616,
+        600
+      ],
+      "size": [
+        239,
+        180
+      ],
+      "sha256": "0a8e8b830c87191ca9690062e7c97eb70c693788cba865c5253c53bc4f2d53a6"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/item-up.png",
+      "characterId": 663,
+      "role": "up",
+      "frame": 1,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        355,
+        421,
+        596,
+        603
+      ],
+      "size": [
+        241,
+        182
+      ],
+      "sha256": "273de48657d6e61b652ae9f12a780f3ad289f200c42b64b252a14bf8ffe9e702"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/item-over.png",
+      "characterId": 663,
+      "role": "over",
+      "frame": 2,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        357,
+        423,
+        595,
+        603
+      ],
+      "size": [
+        238,
+        180
+      ],
+      "sha256": "14a9c9ac726dc61b950e65c1886b6b882ae5bea3e49f211294d6cca29709e472"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/item-down.png",
+      "characterId": 663,
+      "role": "down",
+      "frame": 3,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        351,
+        418,
+        601,
+        607
+      ],
+      "size": [
+        250,
+        189
+      ],
+      "sha256": "b19fae754e192fa8debabb76598272d33742b59f8de6dfab72f4de0edbaedb87"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/item-hittest.png",
+      "characterId": 663,
+      "role": "hittest",
+      "frame": 4,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        356,
+        422,
+        595,
+        602
+      ],
+      "size": [
+        239,
+        180
+      ],
+      "sha256": "5746624fe1a7b5f96529bee5ce26a6dab4f8d1cd07735b9eb278e3fb1bf21f94"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/fight-up.png",
+      "characterId": 671,
+      "role": "up",
+      "frame": 1,
+      "originalCanvas": [
+        1055,
+        1051
+      ],
+      "trimBox": [
+        393,
+        448,
+        662,
+        615
+      ],
+      "size": [
+        269,
+        167
+      ],
+      "sha256": "2487fc5f05f54d4ca018a103184af5b6235a0a0efa604ab9ad48a3aadb0c9ab6"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/fight-over.png",
+      "characterId": 671,
+      "role": "over",
+      "frame": 2,
+      "originalCanvas": [
+        1055,
+        1051
+      ],
+      "trimBox": [
+        395,
+        450,
+        660,
+        614
+      ],
+      "size": [
+        265,
+        164
+      ],
+      "sha256": "6f3e4fb6a803f628fae705bb672c3188ff5b6967106d7c69ab58d7b3b9345b61"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/fight-down.png",
+      "characterId": 671,
+      "role": "down",
+      "frame": 3,
+      "originalCanvas": [
+        1055,
+        1051
+      ],
+      "trimBox": [
+        388,
+        446,
+        667,
+        619
+      ],
+      "size": [
+        279,
+        173
+      ],
+      "sha256": "e2715c9682d8646d846f4d84eaf61bde8d14870ccb73ac9ffab05c287339340f"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/fight-hittest.png",
+      "characterId": 671,
+      "role": "hittest",
+      "frame": 4,
+      "originalCanvas": [
+        1055,
+        1051
+      ],
+      "trimBox": [
+        395,
+        449,
+        660,
+        614
+      ],
+      "size": [
+        265,
+        165
+      ],
+      "sha256": "4ea434e0214ca7dca8990493f20e16ee1b88b54ef2db31ef367c5871b3cc0dcd"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/pet-up.png",
+      "characterId": 677,
+      "role": "up",
+      "frame": 1,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        377,
+        404,
+        618,
+        586
+      ],
+      "size": [
+        241,
+        182
+      ],
+      "sha256": "f50aa17102f25b550b55f555dbae3b72087a8cc82f4a6ed5efe166e7f9f04249"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/pet-over.png",
+      "characterId": 677,
+      "role": "over",
+      "frame": 2,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        379,
+        405,
+        617,
+        585
+      ],
+      "size": [
+        238,
+        180
+      ],
+      "sha256": "0329f67bdd76d0a229c1167037ff873bde2277ad32d9048769b21302fdad12f0"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/pet-down.png",
+      "characterId": 677,
+      "role": "down",
+      "frame": 3,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        372,
+        400,
+        624,
+        590
+      ],
+      "size": [
+        252,
+        190
+      ],
+      "sha256": "eeb0537b788edbe9724ee605751b69e9bc99f36f7c9cad9a5a86445dcd1e916d"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/pet-hittest.png",
+      "characterId": 677,
+      "role": "hittest",
+      "frame": 4,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        378,
+        405,
+        617,
+        585
+      ],
+      "size": [
+        239,
+        180
+      ],
+      "sha256": "d9bbd2b8ecf78551a64ed801c667e53a261a3ff1390ff4e3efa9081f2eab5748"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/retreat-up.png",
+      "characterId": 683,
+      "role": "up",
+      "frame": 1,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        352,
+        388,
+        593,
+        570
+      ],
+      "size": [
+        241,
+        182
+      ],
+      "sha256": "e833c1eba88ff804c880b042cd6b9e13cd3fb14ffbdb0d37e800283fc791e8c1"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/retreat-over.png",
+      "characterId": 683,
+      "role": "over",
+      "frame": 2,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        354,
+        389,
+        592,
+        569
+      ],
+      "size": [
+        238,
+        180
+      ],
+      "sha256": "3f0459408be00482815bb277ab8b4a23c6467caa21df5312910fd21a67074252"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/retreat-down.png",
+      "characterId": 683,
+      "role": "down",
+      "frame": 3,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        347,
+        384,
+        599,
+        574
+      ],
+      "size": [
+        252,
+        190
+      ],
+      "sha256": "d6841a1aa47723d2d54ea5bfbac2e90119c6c1eade3d6b5e1dc84f418470e8e4"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/retreat-hittest.png",
+      "characterId": 683,
+      "role": "hittest",
+      "frame": 4,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        353,
+        389,
+        592,
+        569
+      ],
+      "size": [
+        239,
+        180
+      ],
+      "sha256": "d9cc02375362b2ba26ce9f1e2a7a8ae4e1e226a84eeec05292dfef3ea751a0e2"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/surrender-up.png",
+      "characterId": 689,
+      "role": "up",
+      "frame": 1,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        352,
+        388,
+        593,
+        570
+      ],
+      "size": [
+        241,
+        182
+      ],
+      "sha256": "5c8b1b5f727b0424537055e4fa452ccc4c9b58dc4dbe7c5c69849be9426f14f2"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/surrender-over.png",
+      "characterId": 689,
+      "role": "over",
+      "frame": 2,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        354,
+        389,
+        592,
+        569
+      ],
+      "size": [
+        238,
+        180
+      ],
+      "sha256": "83f60377a413439b9234c98ad4e2f06ae752aab78e8b5a0904fa5aee717e6a6a"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/surrender-down.png",
+      "characterId": 689,
+      "role": "down",
+      "frame": 3,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        347,
+        384,
+        599,
+        574
+      ],
+      "size": [
+        252,
+        190
+      ],
+      "sha256": "7e38b553906abcc4d840f3ccabfd4a4babf01b767e93dac94e99e87c49968e70"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/surrender-hittest.png",
+      "characterId": 689,
+      "role": "hittest",
+      "frame": 4,
+      "originalCanvas": [
+        979,
+        976
+      ],
+      "trimBox": [
+        353,
+        389,
+        592,
+        569
+      ],
+      "size": [
+        239,
+        180
+      ],
+      "sha256": "d4093970bb2259ee84f5cf180f0308b9d33f8ab2e6b48c096b7d5ab9655a434c"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/ActionControls/control-reference.png",
+      "characterId": 691,
+      "role": "complete control reference",
+      "frame": 1,
+      "originalCanvas": [
+        3537,
+        1275
+      ],
+      "trimBox": [
+        264,
+        388,
+        3151,
+        868
+      ],
+      "size": [
+        2887,
+        480
+      ],
+      "sha256": "9c7d4e907a377e281d797bc72f07ae2f6db28e4e9b798eb2b31a60f9f0b079b5"
+    }
+  ]
+}

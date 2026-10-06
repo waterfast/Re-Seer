@@ -1,0 +1,153 @@
+{
+  "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+  "retrievedDate": "2026-09-09",
+  "sourceFile": "docs/OfficialReference/PetFightDLL_20260909.swf",
+  "sourceSha256": "d3382d52150d1189e24664f840090b80d923fbdb4ee831ee78e4fc03f3dcc6df",
+  "method": "Static SWF bitmap decoding; JPEG/alpha and lossless ARGB. No ActionScript executed. Original bitmap identifiers retained.",
+  "assets": [
+    {
+      "file": "bitmap-211.png",
+      "characterId": 211,
+      "swfTag": 20,
+      "width": 400,
+      "height": 400,
+      "sha256": "5492220108ad52d5df8e6d2488a6295d2b716142e6bae66e342acd3cc6bd5a07"
+    },
+    {
+      "file": "bitmap-621.png",
+      "characterId": 621,
+      "swfTag": 35,
+      "width": 196,
+      "height": 186,
+      "sha256": "f8461ba9627016c00a4c8cc13bbdb26ff3c34b7d2c395430dd7d135d4d8bdd68"
+    },
+    {
+      "file": "bitmap-736.png",
+      "characterId": 736,
+      "swfTag": 36,
+      "width": 85,
+      "height": 59,
+      "sha256": "03360fc5dc7810dca73f4470b19bd0a9c1ba5f0f4fea2cfe0e827572a26f20e1"
+    },
+    {
+      "file": "bitmap-742.png",
+      "characterId": 742,
+      "swfTag": 35,
+      "width": 85,
+      "height": 59,
+      "sha256": "c4c67b70788a9b6c537652c0212826d62800b57fd093908be91acbf854c69bac"
+    },
+    {
+      "file": "bitmap-799.png",
+      "characterId": 799,
+      "swfTag": 35,
+      "width": 533,
+      "height": 329,
+      "sha256": "2421369e0078081904460a08819e04e524c0d21db7c77697e7db35c5a05f97f9"
+    },
+    {
+      "file": "bitmap-870.png",
+      "characterId": 870,
+      "swfTag": 35,
+      "width": 960,
+      "height": 560,
+      "sha256": "97a54fe4e73184e588d0fee35c5f5b3e17c64dd1ac3ca7bd332b50c197895d04"
+    },
+    {
+      "file": "bitmap-1373.png",
+      "characterId": 1373,
+      "swfTag": 35,
+      "width": 481,
+      "height": 193,
+      "sha256": "fc67a933adce034a4d8c662c79b54b651848342d9972c0490052c9d2d8fda0ee"
+    },
+    {
+      "file": "bitmap-1377.png",
+      "characterId": 1377,
+      "swfTag": 35,
+      "width": 481,
+      "height": 193,
+      "sha256": "76ba7fd8b38e78808312bf3e8d8ce967d2cab316d7a3c5ca0720bfe04b57ae68"
+    },
+    {
+      "file": "bitmap-1381.png",
+      "characterId": 1381,
+      "swfTag": 35,
+      "width": 481,
+      "height": 193,
+      "sha256": "47cf96c00b22b9b02e5f3529fe2e4ea18610401cc56e34457ace4d62ab59c497"
+    },
+    {
+      "file": "bitmap-1553.png",
+      "characterId": 1553,
+      "swfTag": 36,
+      "width": 145,
+      "height": 82,
+      "sha256": "e27e6e3bc616c1d0be817e6d55b17a4bead3eceeb5a0222b8397320f170bead7"
+    },
+    {
+      "file": "bitmap-1556.png",
+      "characterId": 1556,
+      "swfTag": 35,
+      "width": 161,
+      "height": 97,
+      "sha256": "900259a07dd8e965b878278e54ccb12e6c9449355fb49322a99bc677ff3e3242"
+    },
+    {
+      "file": "bitmap-1873.png",
+      "characterId": 1873,
+      "swfTag": 21,
+      "width": 960,
+      "height": 560,
+      "sha256": "5db8ae5bdc201f91dd2915e99ee5bf3055b922ef90608cdf94198964baf566da"
+    },
+    {
+      "file": "bitmap-2082.png",
+      "characterId": 2082,
+      "swfTag": 35,
+      "width": 3000,
+      "height": 3000,
+      "sha256": "33bf753393f9a00aabdb72257cc6a83ee8bb90232a5f4f59d9d7fc77a4a6f902"
+    },
+    {
+      "file": "bitmap-2086.png",
+      "characterId": 2086,
+      "swfTag": 35,
+      "width": 139,
+      "height": 138,
+      "sha256": "2d882c1c34ed4a57c896790b88255e0b4b316acdaf6f9103425e86f06cb5620f"
+    },
+    {
+      "file": "bitmap-2089.png",
+      "characterId": 2089,
+      "swfTag": 36,
+      "width": 18,
+      "height": 20,
+      "sha256": "80ce4bf200831d05913fc9af0135128a581c03f23be276a1b59f6cadcafc02b2"
+    },
+    {
+      "file": "bitmap-2093.png",
+      "characterId": 2093,
+      "swfTag": 35,
+      "width": 194,
+      "height": 210,
+      "sha256": "69750e0d5bd1ee3726ae56e6a421bf2725a894a9378f549d585929d04388a2ee"
+    },
+    {
+      "file": "bitmap-2096.png",
+      "characterId": 2096,
+      "swfTag": 35,
+      "width": 193,
+      "height": 209,
+      "sha256": "3a003b5cf7670ace690edb4db4b5ecfacc92d0c4ac37ff2a5178353516a1cb74"
+    },
+    {
+      "file": "bitmap-2099.png",
+      "characterId": 2099,
+      "swfTag": 35,
+      "width": 193,
+      "height": 209,
+      "sha256": "f3b88c86f91dcd5f2e31a71624243ac09843c272aa9f53d432d7ba71d69e3a87"
+    }
+  ]
+}

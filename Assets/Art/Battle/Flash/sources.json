@@ -1,0 +1,38 @@
+{
+  "_说明": "JPEXS 26.2.1 静态渲染 DefineShape 原件；仅引用装饰，不执行或移植官方代码。",
+  "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+  "retrievedDate": "2026-09-09",
+  "swfSha256": "d3382d52150d1189e24664f840090b80d923fbdb4ee831ee78e4fc03f3dcc6df",
+  "assets": [
+    {
+      "file": "Assets/Art/Battle/Flash/skill-card.png",
+      "shapeId": 1640,
+      "scale": 3,
+      "sha256": "4e9269246693c174b2371dca176fb388accb2190ca68d6e9510e482e0dca2ab1"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/skill-card-hover.png",
+      "shapeId": 1647,
+      "scale": 3,
+      "sha256": "54f21b92839fc1983b8736b3b95c62e3b5159c5e1813aba667925b186b728d61"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/health-frame.png",
+      "shapeId": 476,
+      "scale": 3,
+      "sha256": "81a954312c41e33b16d10c0b039cd0106168792a3ccf746df32bddb3026b399a"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/control-panel.png",
+      "shapeId": 624,
+      "scale": 3,
+      "sha256": "41c5a10164d335fb06ea9bebe88a9cfc340e43e684a6d2602c370d53f2b72ab1"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/fifth-ring.png",
+      "shapeId": 358,
+      "scale": 3,
+      "sha256": "9d5057e18e68fa17d20f3a695d2c16c586dffdacf30177fee5d05609f24b1275"
+    }
+  ]
+}

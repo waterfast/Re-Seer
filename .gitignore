@@ -1,0 +1,68 @@
+# Unity 自动产物与本地设置。
+/Library/
+/Temp/
+/Logs/
+/Obj/
+/UserSettings/
+/.vs/
+# 终端构建缓存，不提交机器生成文件。
+**/bin/
+**/obj/
+/.local-dotnet/
+
+# Unity / IDE 可重新生成的工程文件和构建产物。
+/Build/
+/Builds/
+/MemoryCaptures/
+/Recordings/
+/.idea/
+/*.csproj
+/*.sln
+/*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.opendb
+*.VC.db
+*.log
+!docs/示例战报.log
+
+# 本机工具配置、会话和账户数据。
+/.agents/
+/.codex/
+/.aws/
+/.azure/
+/.ssh/
+/.config/
+/.env
+/.env.*
+!/.env.example
+!/.env.sample
+**/*.local.json
+**/secrets.json
+**/credentials.json
+**/service-account*.json
+*.pem
+*.key
+*.pfx
+*.p12
+*.keystore
+*.jks
+
+# Python 缓存及临时导出。
+__pycache__/
+*.py[cod]
+/.venv/
+/venv/
+*.tmp
+.DS_Store
+Thumbs.db
+
+# 本地历史备份、下载的原始参考包和含机器路径的诊断输出。
+/docs/Backups/
+/docs/OfficialReference/
+/docs/Verification/
+/docs/unity-*-results.*
+/docs/ui-validation.json

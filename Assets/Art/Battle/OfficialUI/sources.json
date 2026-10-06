@@ -1,0 +1,2083 @@
+{
+  "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/1e67a21076d1bff49bbd5386a72dfec8",
+  "bundleMd5": "1e67a21076d1bff49bbd5386a72dfec8",
+  "packageVersion": "20260904173604",
+  "assets": [
+    {
+      "name": "battle_btnPet",
+      "file": "Assets/Art/Battle/OfficialUI/battle_btnPet.png",
+      "width": 149,
+      "height": 139,
+      "sha256": "9f3ab01c0f14dc93f060dfea59b0db9f528398d5188015430dd68c2e96076a32"
+    },
+    {
+      "name": "shuxingxiajiang",
+      "file": "Assets/Art/Battle/OfficialUI/shuxingxiajiang.png",
+      "width": 227,
+      "height": 47,
+      "sha256": "981d8f5da62008218a4f5f59416a1acb69683ea12ee6f79a889558366c38e00f"
+    },
+    {
+      "name": "pet_eff_desc_panel_title",
+      "file": "Assets/Art/Battle/OfficialUI/pet_eff_desc_panel_title.png",
+      "width": 167,
+      "height": 26,
+      "sha256": "cfa0147e39206a29a842cf50f3cabdf2cb96c3e3ee62caec4c634e07c1ba1be6"
+    },
+    {
+      "name": "imgJiasu",
+      "file": "Assets/Art/Battle/OfficialUI/imgJiasu.png",
+      "width": 26,
+      "height": 19,
+      "sha256": "c94b248e40a8e7fb9738fb9ddfc23515aff3ffb303d23752bc5c92ab8cbfc98f"
+    },
+    {
+      "name": "fight_btnArrow",
+      "file": "Assets/Art/Battle/OfficialUI/fight_btnArrow.png",
+      "width": 31,
+      "height": 42,
+      "sha256": "42a9ca8d01b2a12d4a78905e6e8ab7a3355fb4ffde61a0ab17d776d35d0a3e04"
+    },
+    {
+      "name": "fightingpetorbossinfo_boss_bufficon",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_boss_bufficon.png",
+      "width": 34,
+      "height": 34,
+      "sha256": "11e5eeac45c4d4fa0201cbc9fc29d35a965a69c40760a5b6569bfa4db9146b65"
+    },
+    {
+      "name": "petInfoBg",
+      "file": "Assets/Art/Battle/OfficialUI/petInfoBg.png",
+      "width": 157,
+      "height": 69,
+      "sha256": "ecb8cfc2e3fdfaa40242b6308833aa7a92fd0377ff55d2615b86746dfd320dee"
+    },
+    {
+      "name": "fightingpetorbossinfo_boss_imge_skillbg",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_boss_imge_skillbg.png",
+      "width": 284,
+      "height": 34,
+      "sha256": "487dd63f751b7c5c6a82a41f9d5118b48d04732bbd159b78abe63f553aa12c11"
+    },
+    {
+      "name": "di_s9",
+      "file": "Assets/Art/Battle/OfficialUI/di_s9.png",
+      "width": 6,
+      "height": 6,
+      "sha256": "3f4965b4816bf32349ebc7354f7e930d0bc4882860d97857dc4854b8dbb6f4ca"
+    },
+    {
+      "name": "battle_btnReport2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_btnReport2.png",
+      "width": 174,
+      "height": 54,
+      "sha256": "178ba306495c2de013167fbea2ca3a9e4029706f2c204ca3feec74ae53b0f3bd"
+    },
+    {
+      "name": "fight_jingling",
+      "file": "Assets/Art/Battle/OfficialUI/fight_jingling.png",
+      "width": 32,
+      "height": 38,
+      "sha256": "eadc52aacde72e9dfa7fcd6676eb96e04d1d29d893ecf207f7a620fe619f30c2"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_2.png",
+      "width": 73,
+      "height": 44,
+      "sha256": "b014c970b6e4696880c2a47f9cd4997b2a990cd9d3884c19ed1328f50bb9fe8b"
+    },
+    {
+      "name": "petbufficon",
+      "file": "Assets/Art/Battle/OfficialUI/petbufficon.png",
+      "width": 23,
+      "height": 23,
+      "sha256": "bc4124f4c838ec604e0aed3388e00146692705404d96298fd52380eff51b49ec"
+    },
+    {
+      "name": "battle_player_info_bg1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_player_info_bg1.png",
+      "width": 437,
+      "height": 110,
+      "sha256": "fbef35d8f14563855c2751b49227e9d669c39e08c07506b922bae3af6355fc25"
+    },
+    {
+      "name": "battle_field_intro_pop_img_select_2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_field_intro_pop_img_select_2.png",
+      "width": 56,
+      "height": 56,
+      "sha256": "9efb278609b9a142879b6f13313dcac339b67d6a840c54d089635bb2caff4ad8"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_17",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_17.png",
+      "width": 77,
+      "height": 43,
+      "sha256": "00507d903dfafc5a767ea95184c5126e67bc22d156cfdeeb9889e48c7fb49403"
+    },
+    {
+      "name": "battle_type_icon_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_type_icon_bg.png",
+      "width": 38,
+      "height": 23,
+      "sha256": "aef93505d42914fb0529d4ef36a313924e30a11be943db3757f4bd58421790ff"
+    },
+    {
+      "name": "infoDi_S9",
+      "file": "Assets/Art/Battle/OfficialUI/infoDi_S9.png",
+      "width": 20,
+      "height": 20,
+      "sha256": "7a8274a933600cc3b325fcc5cd24f967d7d934866aea62b33d98ef26b36d9f1f"
+    },
+    {
+      "name": "battle_player_info_bg3",
+      "file": "Assets/Art/Battle/OfficialUI/battle_player_info_bg3.png",
+      "width": 455,
+      "height": 111,
+      "sha256": "e3be34d7bb7eb06881c8969e7d9315d9e404bda764ed68cf3c253b0ed55a772d"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_20",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_20.png",
+      "width": 80,
+      "height": 44,
+      "sha256": "89a4449dc5f5d78deef94e8a23954da56d979c073a7d8ab35b2713996d23f5e1"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_22",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_22.png",
+      "width": 81,
+      "height": 44,
+      "sha256": "fd0111db627bafdbc6abb26bde0b27070470fd580cc86f8787eb098ae9a13611"
+    },
+    {
+      "name": "imgNojiasu",
+      "file": "Assets/Art/Battle/OfficialUI/imgNojiasu.png",
+      "width": 40,
+      "height": 19,
+      "sha256": "acde3647483349bc9f19ce317fe3158bc72a4cdb03cd891027e4d46d87935468"
+    },
+    {
+      "name": "fight_shuxingdi",
+      "file": "Assets/Art/Battle/OfficialUI/fight_shuxingdi.png",
+      "width": 34,
+      "height": 34,
+      "sha256": "0519e43a2a3d3f22545c30ea5e16bd919a13c07355a2fe1fbcf2f575811d9c42"
+    },
+    {
+      "name": "imgBtntimebg",
+      "file": "Assets/Art/Battle/OfficialUI/imgBtntimebg.png",
+      "width": 52,
+      "height": 51,
+      "sha256": "0cc92bb4da926bd2a1fe155e2b432e333e187b3c5db3e8754e656a69992c6a30"
+    },
+    {
+      "name": "battle_lockedskill_imge_lockskillmask_1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_lockedskill_imge_lockskillmask_1.png",
+      "width": 268,
+      "height": 142,
+      "sha256": "cfe58e2fe68d98bb4a86c76704e1c8b56aa57f51502aa5c9c7a8d1fb380746c1"
+    },
+    {
+      "name": "battle_sign_buff_info_pop_imge_track",
+      "file": "Assets/Art/Battle/OfficialUI/battle_sign_buff_info_pop_imge_track.png",
+      "width": 4,
+      "height": 264,
+      "sha256": "62fb198811a75d14d9a7930814083fb2902d842f6316b70a98cb03be95741d7d"
+    },
+    {
+      "name": "imgpetInfoBg",
+      "file": "Assets/Art/Battle/OfficialUI/imgpetInfoBg.png",
+      "width": 248,
+      "height": 42,
+      "sha256": "969889cfa3c040e8d20ebe79507ebfbfd0daf0509a0f292bc740d3d8e7a7742e"
+    },
+    {
+      "name": "battle_sign_buff_info_pop_selected",
+      "file": "Assets/Art/Battle/OfficialUI/battle_sign_buff_info_pop_selected.png",
+      "width": 67,
+      "height": 68,
+      "sha256": "eb30ea508730ab94b6e93fbf311f52ec6d72e119adc8ec9d692003304ebbb73b"
+    },
+    {
+      "name": "lv2di",
+      "file": "Assets/Art/Battle/OfficialUI/lv2di.png",
+      "width": 38,
+      "height": 38,
+      "sha256": "c89544bf9088c0a8953c61220110868293369b0d7c5509bc1f642c9a06c4ad59"
+    },
+    {
+      "name": "battle_hp3_up",
+      "file": "Assets/Art/Battle/OfficialUI/battle_hp3_up.png",
+      "width": 322,
+      "height": 13,
+      "sha256": "3fca405172f8b139cf645c5268bf84dff22f0b2777abea185853e47a7bdc222f"
+    },
+    {
+      "name": "battle_hp2_down",
+      "file": "Assets/Art/Battle/OfficialUI/battle_hp2_down.png",
+      "width": 287,
+      "height": 10,
+      "sha256": "1068b93a6766a6c29c50023f46715c5bf5c3fca664268fae6a047033a51b4bbe"
+    },
+    {
+      "name": "imgjinzhi",
+      "file": "Assets/Art/Battle/OfficialUI/imgjinzhi.png",
+      "width": 113,
+      "height": 113,
+      "sha256": "04e9dcb477d45a7fa071a9846ee31bb2a08b0ef0112c6300059b7d2beb266bf3"
+    },
+    {
+      "name": "battle_lvbg_1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_lvbg_1.png",
+      "width": 81,
+      "height": 23,
+      "sha256": "4f7c63493ff7bb6eb6d3ad5faa6bb40d9001035e27fefad552712de238249ace"
+    },
+    {
+      "name": "battle_msg_battle_msg_btnup",
+      "file": "Assets/Art/Battle/OfficialUI/battle_msg_battle_msg_btnup.png",
+      "width": 409,
+      "height": 69,
+      "sha256": "118b0b9e810edf2655b4dbd04a534444948de6e947f7b10c85cbdc810160ce13"
+    },
+    {
+      "name": "battle_sign_buff_info_pop_icon",
+      "file": "Assets/Art/Battle/OfficialUI/battle_sign_buff_info_pop_icon.png",
+      "width": 34,
+      "height": 35,
+      "sha256": "0a301b6b6f248fa4357e1b6f350dba131726db83fe57e292800ae3dfee41fab4"
+    },
+    {
+      "name": "battle_sign_buff_info_pop_imge_slider",
+      "file": "Assets/Art/Battle/OfficialUI/battle_sign_buff_info_pop_imge_slider.png",
+      "width": 4,
+      "height": 35,
+      "sha256": "9171243fc11cfb271dcde8b29055da44650c18d8e07aef0c92fa3c8edfa325aa"
+    },
+    {
+      "name": "battle_selected_item",
+      "file": "Assets/Art/Battle/OfficialUI/battle_selected_item.png",
+      "width": 100,
+      "height": 129,
+      "sha256": "c6f4b464957f2203607f5385932bc056b535d876f26a494aebee28b57f9a9912"
+    },
+    {
+      "name": "battle_msg_imgreport_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_msg_imgreport_bg.png",
+      "width": 311,
+      "height": 31,
+      "sha256": "cbb1ab305afa7719a275ba20f8a73b1306d3003706090aa43970420ac24779ef"
+    },
+    {
+      "name": "battle_self_hp4_down",
+      "file": "Assets/Art/Battle/OfficialUI/battle_self_hp4_down.png",
+      "width": 322,
+      "height": 13,
+      "sha256": "608125cca129b4ac32c5b3164df687f49782a9df06c655da21761e0de7ca7667"
+    },
+    {
+      "name": "mianyitexiao",
+      "file": "Assets/Art/Battle/OfficialUI/mianyitexiao.png",
+      "width": 229,
+      "height": 47,
+      "sha256": "f036adde1604ad767b12a2e182635e108ddcb9e8973512de6c9a1d778212cb7b"
+    },
+    {
+      "name": "battle_loding_right_player_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_loding_right_player_bg.png",
+      "width": 679,
+      "height": 551,
+      "sha256": "ad4e228202e543ea6195280eb70a8601b4f3ac5ce40979f06c6ad806a8ee723d"
+    },
+    {
+      "name": "battle_msg_btnzhanbao1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_msg_btnzhanbao1.png",
+      "width": 185,
+      "height": 62,
+      "sha256": "f746feff5bad7aebf51648cb49ee656b4d812f1ead4faf4be8d27b908a846dab"
+    },
+    {
+      "name": "jiantou",
+      "file": "Assets/Art/Battle/OfficialUI/jiantou.png",
+      "width": 49,
+      "height": 21,
+      "sha256": "e6d7e019dbfaec2fa226f9aaff172120ab992835d99b2a76cfc083eb49f07ee4"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_3",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_3.png",
+      "width": 80,
+      "height": 44,
+      "sha256": "9ed0d7249e5c9daa592957c03a1d6abfa3c24e9b574ccaa7664049071a91b02a"
+    },
+    {
+      "name": "battle_blood_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_blood_bg.png",
+      "width": 81,
+      "height": 7,
+      "sha256": "1b92be008334a3e7fbbd8c7db53b44f3d4a91f66e72796146b615cd81e0f0902"
+    },
+    {
+      "name": "battle_hp4_down",
+      "file": "Assets/Art/Battle/OfficialUI/battle_hp4_down.png",
+      "width": 322,
+      "height": 13,
+      "sha256": "36ac370b83f0f8bf2de7eebb60638230123207d2833f66ba75148f23559cf917"
+    },
+    {
+      "name": "GBbg",
+      "file": "Assets/Art/Battle/OfficialUI/GBbg.png",
+      "width": 191,
+      "height": 113,
+      "sha256": "34f514f674ba86ab421a1f8f2c558eefe5d1c98e5732ec5a1dade581ea7f6435"
+    },
+    {
+      "name": "kangxingdi",
+      "file": "Assets/Art/Battle/OfficialUI/kangxingdi.png",
+      "width": 37,
+      "height": 37,
+      "sha256": "0556322d63ccc78ef6b9e3e247965fd3ffd549e4aeb94a4e8ceeee485f991107"
+    },
+    {
+      "name": "battle_msg_item_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_msg_item_bg.png",
+      "width": 404,
+      "height": 21,
+      "sha256": "f7c1e69ecb3875c7b9cd451548f75fbe44ceaf455d78f0718814f54088c1c558"
+    },
+    {
+      "name": "battle_imge_restraint_arrow_imge_3",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_arrow_imge_3.png",
+      "width": 32,
+      "height": 36,
+      "sha256": "b83255a1f073cef8e2e31105e1b98e028da5dbab16e234405171421cd5975170"
+    },
+    {
+      "name": "battle_self_hp1_up",
+      "file": "Assets/Art/Battle/OfficialUI/battle_self_hp1_up.png",
+      "width": 322,
+      "height": 13,
+      "sha256": "88f9237f05dd79ae37259660d7ed725e52ad02fd03c2174e7fa8ebe74749edea"
+    },
+    {
+      "name": "challenger_1",
+      "file": "Assets/Art/Battle/OfficialUI/challenger_1.png",
+      "width": 45,
+      "height": 45,
+      "sha256": "e1a921fb20e19f2c660e08f841288718b1dc80318bfc66ca68dd7227a7b51d0f"
+    },
+    {
+      "name": "btnYincang",
+      "file": "Assets/Art/Battle/OfficialUI/btnYincang.png",
+      "width": 48,
+      "height": 45,
+      "sha256": "c8cccefc5806c6bd14dbe992c9cc5549dd2f9ae6745ac2b434fc73f1775d210c"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_10",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_10.png",
+      "width": 76,
+      "height": 44,
+      "sha256": "769a52f4cbe87b814fbe94e09e8e1a922d45270415262d464b512513297ce0f1"
+    },
+    {
+      "name": "battle_msg_battle_msg_btndown",
+      "file": "Assets/Art/Battle/OfficialUI/battle_msg_battle_msg_btndown.png",
+      "width": 409,
+      "height": 65,
+      "sha256": "4dc40b8f0aeeb922279a42a9d3de02fa3f339bded69084d8c10a2a5c5b96b8ac"
+    },
+    {
+      "name": "battle_hp3_down",
+      "file": "Assets/Art/Battle/OfficialUI/battle_hp3_down.png",
+      "width": 322,
+      "height": 13,
+      "sha256": "53b9ed703010808c919daade1e7e230e573dac69e68569ac9c8036c9cc9d65eb"
+    },
+    {
+      "name": "fightingpetorbossinfo_boss_imge_title",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_boss_imge_title.png",
+      "width": 131,
+      "height": 31,
+      "sha256": "c2f4475da50ad4ac2947cbaf40fd00eef1cf3410ae20ee9d6c35fcefd7bf2d52"
+    },
+    {
+      "name": "battle_hp1_up",
+      "file": "Assets/Art/Battle/OfficialUI/battle_hp1_up.png",
+      "width": 322,
+      "height": 13,
+      "sha256": "89a925f58139d6ec8529f6bb2b198c3b93c02ce1bae8f94e94a9ccf9f8d9a5bd"
+    },
+    {
+      "name": "battle_imge_item_mask2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_item_mask2.png",
+      "width": 171,
+      "height": 125,
+      "sha256": "7ce1d0400ba5c71450658f245067f3b62dadc79b055ec2ec9005308ee60a52a9"
+    },
+    {
+      "name": "fightingpetorbossinfo_boss_buffbg_3",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_boss_buffbg_3.png",
+      "width": 369,
+      "height": 82,
+      "sha256": "2582a84705dccc825780fe9ec7e861f93c6e8da8ca8c1938903b15f7ae4ffe73"
+    },
+    {
+      "name": "petHeadBg 1",
+      "file": "Assets/Art/Battle/OfficialUI/petHeadBg_1.png",
+      "width": 195,
+      "height": 156,
+      "sha256": "c131f53d9419e638ef905c3e7a721eac237d16bf0b41d4d9e95aff8ae3a57911"
+    },
+    {
+      "name": "fight_msg_countdown_imgblueline",
+      "file": "Assets/Art/Battle/OfficialUI/fight_msg_countdown_imgblueline.png",
+      "width": 329,
+      "height": 13,
+      "sha256": "0f6b18921bd33f47ae18920e0d14b3aa1529b12bff6aa4e4dfc0ea2a7a751c12"
+    },
+    {
+      "name": "battle_self_info_bg2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_self_info_bg2.png",
+      "width": 455,
+      "height": 111,
+      "sha256": "32200ab401f5bfbcff0635885764d86711a213c169b5eee009e465719195c6be"
+    },
+    {
+      "name": "imgHp4",
+      "file": "Assets/Art/Battle/OfficialUI/imgHp4.png",
+      "width": 587,
+      "height": 6,
+      "sha256": "bfdf8dce2e0da4676875b2d225545b630ecafef18eeb0605a3bbbe7a56582d9d"
+    },
+    {
+      "name": "newpetbagMainPanel_tuceng 2299",
+      "file": "Assets/Art/Battle/OfficialUI/newpetbagMainPanel_tuceng_2299.png",
+      "width": 26,
+      "height": 27,
+      "sha256": "83607631a2dd98c0bb27a2a40784781f09ff1ef1faedc658ca253eee33751365"
+    },
+    {
+      "name": "fight_loading_pet_item_shoufa",
+      "file": "Assets/Art/Battle/OfficialUI/fight_loading_pet_item_shoufa.png",
+      "width": 40,
+      "height": 17,
+      "sha256": "062632e25dae385f004fd9f825f8ee84038f84f144e3de528a9a49851d5a3a3d"
+    },
+    {
+      "name": "battle_imge_battle_pet_head_restraint_bg_0",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_battle_pet_head_restraint_bg_0.png",
+      "width": 91,
+      "height": 21,
+      "sha256": "5d10c9e9e0b5a04ec0bf2fe57ea1e630dad929c9bdf91fb052c394be954cc5a3"
+    },
+    {
+      "name": "battle_lvbg_2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_lvbg_2.png",
+      "width": 81,
+      "height": 23,
+      "sha256": "a02803dbefb62949ea81e9c0fdf0e540ca686f7d27bd96fc83cff0668cf95223"
+    },
+    {
+      "name": "btnBattle",
+      "file": "Assets/Art/Battle/OfficialUI/btnBattle.png",
+      "width": 181,
+      "height": 181,
+      "sha256": "e5c42b06dd4ddfcb2f3cce33b0b8f64e8cd35c3339813d1e5950305eeb5049d4"
+    },
+    {
+      "name": "btnChange",
+      "file": "Assets/Art/Battle/OfficialUI/btnChange.png",
+      "width": 34,
+      "height": 34,
+      "sha256": "6b4c476f1c043933e5041b98604df926543066370ddbf87cc5a3d7560742b83e"
+    },
+    {
+      "name": "youxian",
+      "file": "Assets/Art/Battle/OfficialUI/youxian.png",
+      "width": 228,
+      "height": 47,
+      "sha256": "0f18f6a7d22122c5ea179ffd39c63f669318ad4c92524eb4cf965f33a70aebba"
+    },
+    {
+      "name": "btnBattle2",
+      "file": "Assets/Art/Battle/OfficialUI/btnBattle2.png",
+      "width": 151,
+      "height": 107,
+      "sha256": "1b103437aa412d91330f78a4b88b4b060137d7deff402beac3d2079f90d7f9d4"
+    },
+    {
+      "name": "battle_lvbg_3",
+      "file": "Assets/Art/Battle/OfficialUI/battle_lvbg_3.png",
+      "width": 92,
+      "height": 32,
+      "sha256": "1fd32bbfc7da669048211c7240120d523124882c182f40084d5751fc3179242b"
+    },
+    {
+      "name": "jiao",
+      "file": "Assets/Art/Battle/OfficialUI/jiao.png",
+      "width": 44,
+      "height": 68,
+      "sha256": "034bc021379461031cb72a2d4c12955780d5e96231f267fcf6bc5de9c0726b56"
+    },
+    {
+      "name": "grpHpdi",
+      "file": "Assets/Art/Battle/OfficialUI/grpHpdi.png",
+      "width": 24,
+      "height": 8,
+      "sha256": "f0a1c788522a8940c72c0abb3b2d013c8aaff3f0ebeaa9386c388001b20dfbdd"
+    },
+    {
+      "name": "ping1",
+      "file": "Assets/Art/Battle/OfficialUI/ping1.png",
+      "width": 22,
+      "height": 17,
+      "sha256": "de7edd176b45d14b11f25edfff4028800104936e9c8e768d0403a4fb36104f1b"
+    },
+    {
+      "name": "battle_clock_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_clock_bg.png",
+      "width": 208,
+      "height": 208,
+      "sha256": "af9408bbf144cac37c0b262f65b80c054514c24116bd3b1e01b34936f0001dfe"
+    },
+    {
+      "name": "imgBtnbag",
+      "file": "Assets/Art/Battle/OfficialUI/imgBtnbag.png",
+      "width": 177,
+      "height": 177,
+      "sha256": "b7d9fdc858d30e56cee382d78f8067bfeaa3da9e820a79699887e432a57ec907"
+    },
+    {
+      "name": "fight_msg_countdown_imgredline",
+      "file": "Assets/Art/Battle/OfficialUI/fight_msg_countdown_imgredline.png",
+      "width": 170,
+      "height": 13,
+      "sha256": "9ac31545928d8abcda1c52dafcf9d03e6bc6c34fc8e40f25c92230cc452c5736"
+    },
+    {
+      "name": "battle_field_intro_pop_title_1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_field_intro_pop_title_1.png",
+      "width": 113,
+      "height": 43,
+      "sha256": "dfeec62892b36934f87ee2dd3297c211deb28ec310b05a720a2fe385b4f783f7"
+    },
+    {
+      "name": "battle_lockedskill5_imge_lockskillmask_3",
+      "file": "Assets/Art/Battle/OfficialUI/battle_lockedskill5_imge_lockskillmask_3.png",
+      "width": 199,
+      "height": 197,
+      "sha256": "582af7fcfb7feb046fbc9285f754ba48c57592f84c9bf5ccf7e099a856c632cf"
+    },
+    {
+      "name": "imgFav",
+      "file": "Assets/Art/Battle/OfficialUI/imgFav.png",
+      "width": 56,
+      "height": 53,
+      "sha256": "334067b7cbba91b3a564092b2a4edaa9195ec67c713378588e5eb79cc7a82f3c"
+    },
+    {
+      "name": "imgjifang 1",
+      "file": "Assets/Art/Battle/OfficialUI/imgjifang_1.png",
+      "width": 114,
+      "height": 129,
+      "sha256": "3d752a02f11af43c605bed5a2c3d1735b11c337ec520c670061d27545b36d0c1"
+    },
+    {
+      "name": "btnDaoju",
+      "file": "Assets/Art/Battle/OfficialUI/btnDaoju.png",
+      "width": 151,
+      "height": 107,
+      "sha256": "b5752bde40a4b7f600e030463d9404d9bcaa1dc173a63ee09449488b44dfa57b"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_6",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_6.png",
+      "width": 81,
+      "height": 44,
+      "sha256": "9c4e7969ecaced0b1486d1f336885947de81ffa39cbe4dcc555c91de6d3e966a"
+    },
+    {
+      "name": "Diwumask",
+      "file": "Assets/Art/Battle/OfficialUI/Diwumask.png",
+      "width": 239,
+      "height": 220,
+      "sha256": "b61431e0f42f519b620c78b0bed4fe128d83a75d93b03349d538a9d144572008"
+    },
+    {
+      "name": "huzhao",
+      "file": "Assets/Art/Battle/OfficialUI/huzhao.png",
+      "width": 37,
+      "height": 37,
+      "sha256": "88719a5a9e295f620114505d074b2493f79b010e1f40217c8588b095903537d6"
+    },
+    {
+      "name": "battle_imge_currency_mask",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_currency_mask.png",
+      "width": 174,
+      "height": 94,
+      "sha256": "4e39cdb8e3dfa2e2493575767b11655189e4bed6d56c121b980227342628454f"
+    },
+    {
+      "name": "battle_chujue_2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_chujue_2.png",
+      "width": 25,
+      "height": 25,
+      "sha256": "4be69ec2e2ec0185a23ce6b531c2091577d81cf9ec6e30ffe84d316128ae1c68"
+    },
+    {
+      "name": "selectedArrow",
+      "file": "Assets/Art/Battle/OfficialUI/selectedArrow.png",
+      "width": 16,
+      "height": 25,
+      "sha256": "9db3516440969afae0d6a1d6cc1ed4232e86c036927ce9aaae984b400f60c898"
+    },
+    {
+      "name": "fight_imgHuDun1",
+      "file": "Assets/Art/Battle/OfficialUI/fight_imgHuDun1.png",
+      "width": 549,
+      "height": 6,
+      "sha256": "aceb7c9d894af05486ee61c5990dc71d25b7423aa9ee6a4204fca8de0c747b21"
+    },
+    {
+      "name": "pull",
+      "file": "Assets/Art/Battle/OfficialUI/pull.png",
+      "width": 34,
+      "height": 24,
+      "sha256": "d2e5391b975f6081697215396ec6af457600d651a566190c6d671757fb35f6cb"
+    },
+    {
+      "name": "battle_self_hp2_down",
+      "file": "Assets/Art/Battle/OfficialUI/battle_self_hp2_down.png",
+      "width": 287,
+      "height": 10,
+      "sha256": "8a0a521d7668955c54c5e7280aefa60fb54ae90c4185cc7a4a18826da798f609"
+    },
+    {
+      "name": "gender_2",
+      "file": "Assets/Art/Battle/OfficialUI/gender_2.png",
+      "width": 27,
+      "height": 27,
+      "sha256": "89dc1bb788da1bf426f4bf0e8671e49bb2dc032e447df674a0c854d4feea85d3"
+    },
+    {
+      "name": "tiaojiandi",
+      "file": "Assets/Art/Battle/OfficialUI/tiaojiandi.png",
+      "width": 20,
+      "height": 20,
+      "sha256": "c59c783c1a6144cf67ecd244c37614538b3ec4a300a994cfa442be789d2a806d"
+    },
+    {
+      "name": "line2",
+      "file": "Assets/Art/Battle/OfficialUI/line2.png",
+      "width": 348,
+      "height": 2,
+      "sha256": "dc6dde468aad7348231beded54d13e07fef3e7c26e510f4974ba7ec6437d92a5"
+    },
+    {
+      "name": "jdt_fx",
+      "file": "Assets/Art/Battle/OfficialUI/jdt_fx.png",
+      "width": 826,
+      "height": 201,
+      "sha256": "8462c3c67512f9a460da43fdc3b0ed761734695b8507c8dbf6cc0c4a5a20b013"
+    },
+    {
+      "name": "imgNoCancel",
+      "file": "Assets/Art/Battle/OfficialUI/imgNoCancel.png",
+      "width": 14,
+      "height": 14,
+      "sha256": "29e25ac0ce4551f1b8573f3c0f32d9dc338afd259d7d575e19d537208d1ac559"
+    },
+    {
+      "name": "btnPet",
+      "file": "Assets/Art/Battle/OfficialUI/btnPet.png",
+      "width": 181,
+      "height": 181,
+      "sha256": "8b43830f845727d3ea5428b31879c42b3beb4d169377ed15bee6bbc5795dbcee"
+    },
+    {
+      "name": "UIMask",
+      "file": "Assets/Art/Battle/OfficialUI/UIMask.png",
+      "width": 28,
+      "height": 28,
+      "sha256": "6b9a19efbdf70c33d05c0e1d927377a4bb032a87b2acd94aa9abaf4edb909969"
+    },
+    {
+      "name": "imgHpdi4",
+      "file": "Assets/Art/Battle/OfficialUI/imgHpdi4.png",
+      "width": 54,
+      "height": 8,
+      "sha256": "d817073098b334e199b9961dfcf2eb6bf5946f97944a3dfc94902568da50470d"
+    },
+    {
+      "name": "battle_blood",
+      "file": "Assets/Art/Battle/OfficialUI/battle_blood.png",
+      "width": 81,
+      "height": 7,
+      "sha256": "c2bba20a5806500ab79cbe5bc7378c6a8a6551c967d29e47565d1702ae7fd252"
+    },
+    {
+      "name": "kezhibg",
+      "file": "Assets/Art/Battle/OfficialUI/kezhibg.png",
+      "width": 132,
+      "height": 30,
+      "sha256": "7f0fd30d913a51e39156e1044a92a61f4538ef3934b5c6bb7e23d87616f6c8e4"
+    },
+    {
+      "name": "dikang",
+      "file": "Assets/Art/Battle/OfficialUI/dikang.png",
+      "width": 226,
+      "height": 47,
+      "sha256": "e6bbacee0e37f834da6b8db14496517ac31974580cf5bdf0d99699c312997124"
+    },
+    {
+      "name": "battle_lockedskill5_imge_lockskillmask_4",
+      "file": "Assets/Art/Battle/OfficialUI/battle_lockedskill5_imge_lockskillmask_4.png",
+      "width": 197,
+      "height": 197,
+      "sha256": "b5fabff6b308ed2224e3a2651b9c537e0cc2944137b6efbb857ecf318a5a9c38"
+    },
+    {
+      "name": "battle_hp1_down",
+      "file": "Assets/Art/Battle/OfficialUI/battle_hp1_down.png",
+      "width": 322,
+      "height": 13,
+      "sha256": "f78b90345adca92b68086142d0727ea4436c904179dea7a349c43e8c7260db63"
+    },
+    {
+      "name": "fight_loading_pet_item_chuzhan",
+      "file": "Assets/Art/Battle/OfficialUI/fight_loading_pet_item_chuzhan.png",
+      "width": 40,
+      "height": 17,
+      "sha256": "b97e2d1b49e93c3bb3bb389a0aa54a27d4327394f9aa62f8120bcca9e745996a"
+    },
+    {
+      "name": "battle_lockedskill_imge_lockskillmask_2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_lockedskill_imge_lockskillmask_2.png",
+      "width": 268,
+      "height": 142,
+      "sha256": "40575b215eb5555729d3c8c62f3de0a07ada54406ad3068556acbe8f48a1110a"
+    },
+    {
+      "name": "fightingpetorbossinfo_pet_imge_pop_bg",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_pet_imge_pop_bg.png",
+      "width": 753,
+      "height": 431,
+      "sha256": "e9a808e4b357a1c4846e8e6d965eaea90673fe842e6ce7b3158cf85c27dc277a"
+    },
+    {
+      "name": "imgBtnpet",
+      "file": "Assets/Art/Battle/OfficialUI/imgBtnpet.png",
+      "width": 177,
+      "height": 177,
+      "sha256": "f99139ab79e70f7ad31ca32cb821a935d9b270372c6e34d896836054b9c74baa"
+    },
+    {
+      "name": "battle_lockedskill_imge_lockskillmask_4",
+      "file": "Assets/Art/Battle/OfficialUI/battle_lockedskill_imge_lockskillmask_4.png",
+      "width": 268,
+      "height": 142,
+      "sha256": "f994935a0d0c91f11defc6955240290561c38b72a0712283afe26f160e00162e"
+    },
+    {
+      "name": "battle_btnRetreat",
+      "file": "Assets/Art/Battle/OfficialUI/battle_btnRetreat.png",
+      "width": 84,
+      "height": 84,
+      "sha256": "ad86d449f3e5a191ac7f40ba770834e461fca9ccb497ea1513a4eba0e3801fd5"
+    },
+    {
+      "name": "fight_roundbg",
+      "file": "Assets/Art/Battle/OfficialUI/fight_roundbg.png",
+      "width": 356,
+      "height": 50,
+      "sha256": "b5c814e0ac3896e71d8666e6f54d056442b431e6fbefcc432b4ed36603a02dcf"
+    },
+    {
+      "name": "battle_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_bg.png",
+      "width": 1136,
+      "height": 640,
+      "sha256": "d17d6947ddbe5f82b96bee04778590e01882ab70cef7617d98cb06c5e4f7eddb"
+    },
+    {
+      "name": "battle_lockedskill5_imge_lockskillmask_5",
+      "file": "Assets/Art/Battle/OfficialUI/battle_lockedskill5_imge_lockskillmask_5.png",
+      "width": 197,
+      "height": 218,
+      "sha256": "325e73ceaf37dc46e9308ae644d2d38a293fb48aaf7d763e691ad0fc129472c1"
+    },
+    {
+      "name": "imgBtnbattle",
+      "file": "Assets/Art/Battle/OfficialUI/imgBtnbattle.png",
+      "width": 177,
+      "height": 177,
+      "sha256": "755cafe230840129e14a5c5a1007e4ec1f6951b2412b298d6fc5766b03ef371b"
+    },
+    {
+      "name": "texing",
+      "file": "Assets/Art/Battle/OfficialUI/texing.png",
+      "width": 311,
+      "height": 47,
+      "sha256": "76c99ab0453d2199afbb0c616ca43d2918cc5e3d324d07c130ee5a0a1391d4bf"
+    },
+    {
+      "name": "battle_field_effect_midBg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_field_effect_midBg.png",
+      "width": 134,
+      "height": 86,
+      "sha256": "38941b93c14b2936c1db342f25c3d8feed831497ee18dcdbe1b793648816b033"
+    },
+    {
+      "name": "gender_1",
+      "file": "Assets/Art/Battle/OfficialUI/gender_1.png",
+      "width": 27,
+      "height": 27,
+      "sha256": "7a91fbf414bae6c23e2538ef110866420a1e67fc728b4036079e3638d1a6fe69"
+    },
+    {
+      "name": "battle_field_intro_pop_img_select_1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_field_intro_pop_img_select_1.png",
+      "width": 56,
+      "height": 56,
+      "sha256": "1277bb89cbc1c930d1e4fc6b77148f108c5c5a6b5247dcb9ba84373d5ea38c56"
+    },
+    {
+      "name": "battle_sign_buff_info_pop_imge_buff_icon_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_sign_buff_info_pop_imge_buff_icon_bg.png",
+      "width": 49,
+      "height": 49,
+      "sha256": "d6f2d74b00c8b29fb0f71d9cf4dd8d8fed1437f48b677ceec126b16314e245ae"
+    },
+    {
+      "name": "hudun",
+      "file": "Assets/Art/Battle/OfficialUI/hudun.png",
+      "width": 38,
+      "height": 37,
+      "sha256": "1d7c9d6f0740be7bae8b0e3a4dbaa7e703813c5a8e66a62186f6290029af2c49"
+    },
+    {
+      "name": "battle_head_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_head_bg.png",
+      "width": 80,
+      "height": 104,
+      "sha256": "3db750a9133b1caaadc2feb774b342b4d72f91ed9f1eaad4251e9cc05f98f908"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_18",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_18.png",
+      "width": 78,
+      "height": 44,
+      "sha256": "11e03e8ac5fdf4a887910ab2145678f8c2d133c8bcd899d8ff76d972d6a85e80"
+    },
+    {
+      "name": "fightingpetorbossinfo_pet_imge_effect_bg",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_pet_imge_effect_bg.png",
+      "width": 390,
+      "height": 247,
+      "sha256": "f43ceee23ed78fbc8d5ce344691f35c4fb9d3020af011b93602052ed5cbcd4a1"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_5",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_5.png",
+      "width": 74,
+      "height": 44,
+      "sha256": "9944819109c9cf70f3b1fbdb12c30358d9e27af2590976e93e1befdfdfa34a3f"
+    },
+    {
+      "name": "fightingpetorbossinfo_boss_scrollbar_bg",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_boss_scrollbar_bg.png",
+      "width": 3,
+      "height": 227,
+      "sha256": "0e574b2dcb4fe8a84b81e671b209d0c26989f7a75b2bb32999f8e55df97c73c1"
+    },
+    {
+      "name": "pet_eff_desc_panel_icon_now",
+      "file": "Assets/Art/Battle/OfficialUI/pet_eff_desc_panel_icon_now.png",
+      "width": 40,
+      "height": 46,
+      "sha256": "8208bf0398ddf608cd86d9b230edf72cf690a00a2f818b36b09fa1812786af05"
+    },
+    {
+      "name": "fightingpetorbossinfo_pet_imge_basic_info_bg",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_pet_imge_basic_info_bg.png",
+      "width": 584,
+      "height": 103,
+      "sha256": "3c65f3f1bce6f531446922f02ff20c11b6b2e89e84b5e9b6ae2e4030dab350de"
+    },
+    {
+      "name": "biaoqingyeqian",
+      "file": "Assets/Art/Battle/OfficialUI/biaoqingyeqian.png",
+      "width": 86,
+      "height": 62,
+      "sha256": "2400fc265b75c2c1886cad461ec2ed6284a52d6cc145e80a4eab6a757ccf52ed"
+    },
+    {
+      "name": "seffect",
+      "file": "Assets/Art/Battle/OfficialUI/seffect.png",
+      "width": 80,
+      "height": 80,
+      "sha256": "82fc7cf567eea2351ee8f5068c490416ef42d49b4d94415fb21f45d3e54b1315"
+    },
+    {
+      "name": "imgLine",
+      "file": "Assets/Art/Battle/OfficialUI/imgLine.png",
+      "width": 367,
+      "height": 2,
+      "sha256": "d4c8718c237bc5d1a2782c0e40a17b7683a601d604d51fc2c86726bbfb19da10"
+    },
+    {
+      "name": "battle_self_info_bg3",
+      "file": "Assets/Art/Battle/OfficialUI/battle_self_info_bg3.png",
+      "width": 455,
+      "height": 111,
+      "sha256": "ed5cc26e976134f9dcccf5786e7766faee61ec8675f42d8e37799aec26e2530e"
+    },
+    {
+      "name": "battle_imprint_icon",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imprint_icon.png",
+      "width": 47,
+      "height": 47,
+      "sha256": "cdce1f9e315c2dc68ab22a5ee19a3406db2add4ec76781865b307dcf6a3733a2"
+    },
+    {
+      "name": "challenger_0",
+      "file": "Assets/Art/Battle/OfficialUI/challenger_0.png",
+      "width": 45,
+      "height": 45,
+      "sha256": "92efd12fe0d2ad590550fa11a9677c7e67b15fb82a3e60e54c904f04ad98f714"
+    },
+    {
+      "name": "battle_sign_buff_info_pop_imge_list_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_sign_buff_info_pop_imge_list_bg.png",
+      "width": 76,
+      "height": 264,
+      "sha256": "8e7aaae80b387957b4f9d118c6dddd339e80359cb73c2cb03937f2d1ef6d98de"
+    },
+    {
+      "name": "chetui",
+      "file": "Assets/Art/Battle/OfficialUI/chetui.png",
+      "width": 57,
+      "height": 57,
+      "sha256": "f9e010bdf5933bbd6a06fb1a3dcd2e777fbdb24c37d22ff35d5c2831fd789032"
+    },
+    {
+      "name": "ping3",
+      "file": "Assets/Art/Battle/OfficialUI/ping3.png",
+      "width": 22,
+      "height": 17,
+      "sha256": "9296a23f4e7ae81b3e3e59e4f3ec50717536f72373edfc4ace82a6eff90a98cb"
+    },
+    {
+      "name": "battle_tip_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_tip_bg.png",
+      "width": 418,
+      "height": 148,
+      "sha256": "7d7101376da0682c48e3b168101469ae875a97312718413296dc8e3602e28cfa"
+    },
+    {
+      "name": "jdt",
+      "file": "Assets/Art/Battle/OfficialUI/jdt.png",
+      "width": 826,
+      "height": 201,
+      "sha256": "d17bba4de9c316b5b31bbbce4108845be3a5dcbdd2dc90cc7e057866cc874d67"
+    },
+    {
+      "name": "battle_sign_buff_info_pop_imge_buffdes_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_sign_buff_info_pop_imge_buffdes_bg.png",
+      "width": 335,
+      "height": 175,
+      "sha256": "5e716bb92c257a53e3ee99be06e8c25ce5ed8ee893e773f0246f909d73a1de7b"
+    },
+    {
+      "name": "battle_field_effect_rightBg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_field_effect_rightBg.png",
+      "width": 126,
+      "height": 78,
+      "sha256": "d2cadb2e0cb9e09b4825a66ce540a34e07320714af68fa15a8ca30d44658d230"
+    },
+    {
+      "name": "battle_self_hp1_down",
+      "file": "Assets/Art/Battle/OfficialUI/battle_self_hp1_down.png",
+      "width": 322,
+      "height": 13,
+      "sha256": "35b96d1647698e811f4eb108c1ba29033efa799bab3a8508cf44e8bef678e103"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_8",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_8.png",
+      "width": 81,
+      "height": 44,
+      "sha256": "d3e5bc54c73349a0b8a1706a303a684c448936753ab0a0ab446d9f894183cb47"
+    },
+    {
+      "name": "fight_shang",
+      "file": "Assets/Art/Battle/OfficialUI/fight_shang.png",
+      "width": 99,
+      "height": 99,
+      "sha256": "aa8f45e2c4b0725c933b511c0db9f8b8e4b10999ba15e4e2a4b0ae81dce5ba74"
+    },
+    {
+      "name": "iconDi",
+      "file": "Assets/Art/Battle/OfficialUI/iconDi.png",
+      "width": 104,
+      "height": 37,
+      "sha256": "8eafe5984719c83d9b935e59a8710d52443099031ff0013e92f04cc595ac9f3c"
+    },
+    {
+      "name": "battle_chujue_1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_chujue_1.png",
+      "width": 24,
+      "height": 24,
+      "sha256": "55d88c5476a1afdb1545a258d36f35773b8d26bdb8da190b1bf26abe736a8610"
+    },
+    {
+      "name": "petZhezhao",
+      "file": "Assets/Art/Battle/OfficialUI/petZhezhao.png",
+      "width": 13,
+      "height": 11,
+      "sha256": "dbc3084a44779564d173255bbfea512978a4074f7085e63baa6dcac48721e237"
+    },
+    {
+      "name": "fightingpetorbossinfo_boss_imge_effect_bg",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_boss_imge_effect_bg.png",
+      "width": 390,
+      "height": 26,
+      "sha256": "f2fb24a97ea03f1873a622c64c42eaead8f6a18c87441bc0e1342aad958c6fc6"
+    },
+    {
+      "name": "btnPet2",
+      "file": "Assets/Art/Battle/OfficialUI/btnPet2.png",
+      "width": 151,
+      "height": 107,
+      "sha256": "40d3c6e7cd0f40a1e8f3d52725643b859aa3ed11abfcddedb7fd84c9b57c4531"
+    },
+    {
+      "name": "shang",
+      "file": "Assets/Art/Battle/OfficialUI/shang.png",
+      "width": 83,
+      "height": 81,
+      "sha256": "063082c015ad2b3f0adfef64ad0a834e8213825c80d6d1bbd93a2814e366f0ab"
+    },
+    {
+      "name": "diwubg",
+      "file": "Assets/Art/Battle/OfficialUI/diwubg.png",
+      "width": 266,
+      "height": 255,
+      "sha256": "b869ae0ca843f69b9a3e62f1dbd1ffe862c94648cb8cb78fe0adff44cfc72c6f"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_7",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_7.png",
+      "width": 81,
+      "height": 44,
+      "sha256": "d755b45db4bb52a3a6efdc5cc73a0376f7b3fecee4743acf9bae01392eb58c36"
+    },
+    {
+      "name": "iconBg_s9",
+      "file": "Assets/Art/Battle/OfficialUI/iconBg_s9.png",
+      "width": 70,
+      "height": 37,
+      "sha256": "7dcfb39dc82c010fce7929ffa87f5383af562cacdbc45f6fcef4cd1a33a59bde"
+    },
+    {
+      "name": "battle_btnPetback",
+      "file": "Assets/Art/Battle/OfficialUI/battle_btnPetback.png",
+      "width": 84,
+      "height": 84,
+      "sha256": "5aa86ffac1740b06c6e3620e581fcff188b6945e7ad02bb4d84cef7bb83191fa"
+    },
+    {
+      "name": "battle_skill_reslut_2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_skill_reslut_2.png",
+      "width": 321,
+      "height": 48,
+      "sha256": "9d2ed7daa84d35ee72db5159ca7a54008c3949cde80254555ec399e40617f74c"
+    },
+    {
+      "name": "battle_sp_head_kuang 1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_sp_head_kuang_1.png",
+      "width": 50,
+      "height": 50,
+      "sha256": "cf07576c18eb84008807e401e1f8a4e35f69b44c4886eda2533b0051859896a9"
+    },
+    {
+      "name": "battle_msg_imgreport",
+      "file": "Assets/Art/Battle/OfficialUI/battle_msg_imgreport.png",
+      "width": 172,
+      "height": 31,
+      "sha256": "6b811ec7e413ff2ea6944c00f66afa1b7ee5a45dc3056e64e4805bde0f7f7984"
+    },
+    {
+      "name": "fight_imgBuff",
+      "file": "Assets/Art/Battle/OfficialUI/fight_imgBuff.png",
+      "width": 41,
+      "height": 41,
+      "sha256": "0a101203089625a24698b599ac39dd6c224284f0ec84c9f27fd6ca19e568505b"
+    },
+    {
+      "name": "battle_skill_bar_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_skill_bar_bg.png",
+      "width": 574,
+      "height": 77,
+      "sha256": "31a03258f41daefa708ec0bf80cfbe006ebc24eb42d02e2fb73cb6f0b89fa8a7"
+    },
+    {
+      "name": "battle_btnCatch",
+      "file": "Assets/Art/Battle/OfficialUI/battle_btnCatch.png",
+      "width": 84,
+      "height": 84,
+      "sha256": "100774547f5db0b1922bb9e8db87d32a409ba3df577dfc0eba458e1673698522"
+    },
+    {
+      "name": "battle_btnBag0",
+      "file": "Assets/Art/Battle/OfficialUI/battle_btnBag0.png",
+      "width": 84,
+      "height": 84,
+      "sha256": "c9446899e50565045d2236f100c9f5bb1592e996ea6c798060522586a97a9058"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_19",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_19.png",
+      "width": 76,
+      "height": 44,
+      "sha256": "84488d33c849ad2c1940a0eef6eceeb226619ab08259a7324181aa965103a292"
+    },
+    {
+      "name": "battle_skill_bar_bg2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_skill_bar_bg2.png",
+      "width": 574,
+      "height": 80,
+      "sha256": "b5e1d60c0198e65313eb9c402ddf2ff2102a6fc84be55abb484fa6ff2a9bf9c1"
+    },
+    {
+      "name": "btnbiaoqing",
+      "file": "Assets/Art/Battle/OfficialUI/btnbiaoqing.png",
+      "width": 52,
+      "height": 51,
+      "sha256": "e9f43ab5ee2fbd09d596a94982c7431172ee8ef8d5f0ca574526af3c294cdf21"
+    },
+    {
+      "name": "jineng 1",
+      "file": "Assets/Art/Battle/OfficialUI/jineng_1.png",
+      "width": 298,
+      "height": 172,
+      "sha256": "c735a74b466156bfbac8a116cd4f00f51d99a028fde7fb1df65ceab1bdee45f8"
+    },
+    {
+      "name": "battle_btnBg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_btnBg.png",
+      "width": 310,
+      "height": 298,
+      "sha256": "cde750828890230841d0f74136014f00fa4f28595db22e70309071de7a1038f4"
+    },
+    {
+      "name": "auto",
+      "file": "Assets/Art/Battle/OfficialUI/auto.png",
+      "width": 57,
+      "height": 57,
+      "sha256": "246c3caebac42c44d7266045118b7255ab23eccdb6aefbd082074d7a295d7311"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_14",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_14.png",
+      "width": 64,
+      "height": 43,
+      "sha256": "5cab0b28cec200f378ba181d1b6ece9593a3faf9f8040c00e0e32f57b51aeaba"
+    },
+    {
+      "name": "battle_imge_restraint_arrow_imge_4",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_arrow_imge_4.png",
+      "width": 33,
+      "height": 36,
+      "sha256": "c57e2995047642252cd317a3dcf51ec25c7f9d872d48fca92f8cb56e80620209"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_0",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_0.png",
+      "width": 77,
+      "height": 43,
+      "sha256": "3113df2c6326292fd78022cdd4d2124bcd37c21ea279abbbbeec8b66ca76c47e"
+    },
+    {
+      "name": "battle_pet_item_bg_sy",
+      "file": "Assets/Art/Battle/OfficialUI/battle_pet_item_bg_sy.png",
+      "width": 185,
+      "height": 114,
+      "sha256": "92b269e6442158b29ead81317d93ad10926e4d7212f7a0c709a88ebe7c2ad132"
+    },
+    {
+      "name": "hptiao",
+      "file": "Assets/Art/Battle/OfficialUI/hptiao.png",
+      "width": 129,
+      "height": 7,
+      "sha256": "00770b8a53745a0274c717e672e3c57e299301dee056bc05179fe5d27f5eb574"
+    },
+    {
+      "name": "battle_loding_pro1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_loding_pro1.png",
+      "width": 516,
+      "height": 5,
+      "sha256": "e551d48fb17a1da84613521b17f98bcfb8e1e156c98486be5f8611ee1ae65d86"
+    },
+    {
+      "name": "btnBattle 1",
+      "file": "Assets/Art/Battle/OfficialUI/btnBattle_1.png",
+      "width": 151,
+      "height": 107,
+      "sha256": "7ecf364b00886f3019d21c619b4057f8cac7bca90ca80b0d77e373b2dd3abb92"
+    },
+    {
+      "name": "jineng1_Vfx",
+      "file": "Assets/Art/Battle/OfficialUI/jineng1_Vfx.png",
+      "width": 276,
+      "height": 150,
+      "sha256": "e9bc1d470bbe84b23bb1daaae9524488faffc4f76d1a77f68c40ebc857d158a8"
+    },
+    {
+      "name": "petHeadBg",
+      "file": "Assets/Art/Battle/OfficialUI/petHeadBg.png",
+      "width": 14,
+      "height": 14,
+      "sha256": "a4206e3b2d96974e424a7811bd9a498e9ed24eccebd86181b89474336b798220"
+    },
+    {
+      "name": "battle_lock",
+      "file": "Assets/Art/Battle/OfficialUI/battle_lock.png",
+      "width": 24,
+      "height": 28,
+      "sha256": "7084c9ee74434486377b0af40dc4ba665055ced495c09bdff2d413beac1a9dab"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_3_",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_3_.png",
+      "width": 81,
+      "height": 44,
+      "sha256": "6e63b6d2ee53081e263549eef7cecf80d04f94109d65545618c508db524f643c"
+    },
+    {
+      "name": "btnDaoju2",
+      "file": "Assets/Art/Battle/OfficialUI/btnDaoju2.png",
+      "width": 151,
+      "height": 107,
+      "sha256": "e34ac53966b09b914069cc3ef3cc17bddcdfd2e01e3dbee96f4fa74df5894199"
+    },
+    {
+      "name": "battle_loding_proBg1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_loding_proBg1.png",
+      "width": 516,
+      "height": 5,
+      "sha256": "1caa2c8f3f02948fe8cc206a15b2d7950ef73431a915914ee06f22619657ad2c"
+    },
+    {
+      "name": "story_head_new",
+      "file": "Assets/Art/Battle/OfficialUI/story_head_new.png",
+      "width": 93,
+      "height": 93,
+      "sha256": "876b97f8188e38764eab4bf86419b1ea364a7de20943189a30fd98f40d4fd269"
+    },
+    {
+      "name": "battle_msg_btnzhanbao2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_msg_btnzhanbao2.png",
+      "width": 174,
+      "height": 58,
+      "sha256": "ddf37cfc20903a3536d5649439e4efd6eeae499a9a2fd9ee0e49bce36544233e"
+    },
+    {
+      "name": "gender_0",
+      "file": "Assets/Art/Battle/OfficialUI/gender_0.png",
+      "width": 27,
+      "height": 27,
+      "sha256": "786d6f4d636814aac01b969a455a668d41a68312f97d781ca2d23f618f82b718"
+    },
+    {
+      "name": "newpetbagMainPanel_tuceng 2300",
+      "file": "Assets/Art/Battle/OfficialUI/newpetbagMainPanel_tuceng_2300.png",
+      "width": 26,
+      "height": 27,
+      "sha256": "7a22631f754dca1bec5d8c0dd948c06a2206dcb3429cf0f82294e35242c10f8d"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_1.png",
+      "width": 76,
+      "height": 44,
+      "sha256": "c2bc78f1e804ed6f011d81f12b50330021fab6cf4723046c5771e4fc870d7145"
+    },
+    {
+      "name": "fightingpetorbossinfo_boss_scrollbar",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_boss_scrollbar.png",
+      "width": 3,
+      "height": 105,
+      "sha256": "d0b3ecdb19d62f54e0115b093524df7083b554676d7a6fa9c1f81f2e676b4f23"
+    },
+    {
+      "name": "btnPet 1",
+      "file": "Assets/Art/Battle/OfficialUI/btnPet_1.png",
+      "width": 151,
+      "height": 107,
+      "sha256": "9d6c1b237156ca2bd0996393d7113a54b52422f1e1516d9cc3f979db128d4fd1"
+    },
+    {
+      "name": "shuxingdisheng",
+      "file": "Assets/Art/Battle/OfficialUI/shuxingdisheng.png",
+      "width": 227,
+      "height": 46,
+      "sha256": "bb0eb9a7adafe1014d385bfe5eb7ac009fc2b21821607f6044ad6f6b3954ffeb"
+    },
+    {
+      "name": "battle_self_hp2_up",
+      "file": "Assets/Art/Battle/OfficialUI/battle_self_hp2_up.png",
+      "width": 287,
+      "height": 10,
+      "sha256": "6807abd401d33fab6310ea5e514193a54dae2390f5cb3a9ccc37901a9b7684cc"
+    },
+    {
+      "name": "btnBag",
+      "file": "Assets/Art/Battle/OfficialUI/btnBag.png",
+      "width": 181,
+      "height": 181,
+      "sha256": "fd995b59de9c42914b15659c273c0484ea626780beb35ac21247ae265b28a2a1"
+    },
+    {
+      "name": "battle_self_hp3_down",
+      "file": "Assets/Art/Battle/OfficialUI/battle_self_hp3_down.png",
+      "width": 322,
+      "height": 13,
+      "sha256": "45e6748a5c05b915fdcc8b225fe056aaea8ff048deef2d9b42d255a8b9a35114"
+    },
+    {
+      "name": "battle_type_icon",
+      "file": "Assets/Art/Battle/OfficialUI/battle_type_icon.png",
+      "width": 22,
+      "height": 23,
+      "sha256": "61728cac3a8c8de5eacf293e93ea16536cc18fbb1af7d1acfa3c8efb43f3cc73"
+    },
+    {
+      "name": "battle_sign_buff_info_pop_title",
+      "file": "Assets/Art/Battle/OfficialUI/battle_sign_buff_info_pop_title.png",
+      "width": 91,
+      "height": 25,
+      "sha256": "4957396eee6de462ba01bb273fe326f37b8c3280fa3d295926c146b28469f503"
+    },
+    {
+      "name": "battle_imge_item_mask",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_item_mask.png",
+      "width": 160,
+      "height": 112,
+      "sha256": "7d4e31295f22cfe80c9e8babbf0ed66ec170e90cb7f3be7e7018c9b3d65aac55"
+    },
+    {
+      "name": "fight_jingling_2",
+      "file": "Assets/Art/Battle/OfficialUI/fight_jingling_2.png",
+      "width": 32,
+      "height": 38,
+      "sha256": "cbe0eacc4603feee4e429b836de5c10a8297ff5f1a8b7982c953c1b162b3b6ac"
+    },
+    {
+      "name": "battle_field_intro_pop_img_select",
+      "file": "Assets/Art/Battle/OfficialUI/battle_field_intro_pop_img_select.png",
+      "width": 56,
+      "height": 56,
+      "sha256": "7ea541c135daf1a02e24080ddd0c290a24e9d932342b4b39ca51953c3ef7379f"
+    },
+    {
+      "name": "battle_imge_restraint_arrow_imge_0",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_arrow_imge_0.png",
+      "width": 33,
+      "height": 36,
+      "sha256": "0a3d71383a8767e3cf49c7b4e4a62b6cc6593f4978b3047dcd5471209ade934e"
+    },
+    {
+      "name": "pullbg",
+      "file": "Assets/Art/Battle/OfficialUI/pullbg.png",
+      "width": 107,
+      "height": 44,
+      "sha256": "5cfe4055f39ffa33da5a0a2c465862d0feaf188cde93ab8863e5faf352bfd5e4"
+    },
+    {
+      "name": "zhanbao",
+      "file": "Assets/Art/Battle/OfficialUI/zhanbao.png",
+      "width": 57,
+      "height": 57,
+      "sha256": "aef46cf122f2dea60f5559e6f17d20f4a66a07858f9aa0a372813c1801acdbaf"
+    },
+    {
+      "name": "petbg",
+      "file": "Assets/Art/Battle/OfficialUI/petbg.png",
+      "width": 14,
+      "height": 14,
+      "sha256": "d2d1c4fc1042aa197f48ce9e2aea7e21b16e48859271c85f60edc344a8fe3775"
+    },
+    {
+      "name": "battle_loding_rightBg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_loding_rightBg.png",
+      "width": 755,
+      "height": 640,
+      "sha256": "7d031719d744bb26a4533e80fcb7531bfaea5480c8175344777738312b4f165c"
+    },
+    {
+      "name": "mainStoryline_icon_zidong",
+      "file": "Assets/Art/Battle/OfficialUI/mainStoryline_icon_zidong.png",
+      "width": 62,
+      "height": 50,
+      "sha256": "d875585beba5cf42b3834ac33c09495f421367c04c2bcdbc2f08c3ceaa5cd524"
+    },
+    {
+      "name": "lifehead",
+      "file": "Assets/Art/Battle/OfficialUI/lifehead.png",
+      "width": 36,
+      "height": 38,
+      "sha256": "0ae531fe55e01a51a2de57ace56556a2571a53b71c64f0eafddc90244bcddbe7"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_23",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_23.png",
+      "width": 75,
+      "height": 44,
+      "sha256": "3a1d4400f9c18f2213285982188d16238be3291b3ad4edcd1f15b854605bad17"
+    },
+    {
+      "name": "battle_btnLose",
+      "file": "Assets/Art/Battle/OfficialUI/battle_btnLose.png",
+      "width": 84,
+      "height": 84,
+      "sha256": "b7104175280f646cab6b95f0254333e36aab7f9ae564be0f41752ad96d6f26e3"
+    },
+    {
+      "name": "topDi",
+      "file": "Assets/Art/Battle/OfficialUI/topDi.png",
+      "width": 375,
+      "height": 190,
+      "sha256": "689eee08b76e213025c9940a3cb2b13c60a302bc2bb1a9370ada331eaaf8e803"
+    },
+    {
+      "name": "battle_image_btn_mask_0",
+      "file": "Assets/Art/Battle/OfficialUI/battle_image_btn_mask_0.png",
+      "width": 118,
+      "height": 139,
+      "sha256": "c3e27b56a4e63380d650af7db608cbb242860ffc21a46a3d9656a00675be26d1"
+    },
+    {
+      "name": "battle_skill_runawayIcon",
+      "file": "Assets/Art/Battle/OfficialUI/battle_skill_runawayIcon.png",
+      "width": 15,
+      "height": 21,
+      "sha256": "16cee6a6d3df5f24e32ce254ed4cb089621f8986a33035e7876ab0aafcf8acc3"
+    },
+    {
+      "name": "battle_round_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_round_bg.png",
+      "width": 428,
+      "height": 91,
+      "sha256": "378dc71bdfb18ced74a9ebd677c8f33601882f4c2f00f3198086eaf6ac1f0d0d"
+    },
+    {
+      "name": "battle_lvbg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_lvbg.png",
+      "width": 92,
+      "height": 34,
+      "sha256": "3fe2814ddf3a4ade99ade660eee8f73c329fab0d8e6e3fd61d60a4a272d882cc"
+    },
+    {
+      "name": "board 1",
+      "file": "Assets/Art/Battle/OfficialUI/board_1.png",
+      "width": 90,
+      "height": 90,
+      "sha256": "d82472c289a746a2221e34f31e915dbf3a044c9f31281414041776fe9b518c77"
+    },
+    {
+      "name": "iconGB",
+      "file": "Assets/Art/Battle/OfficialUI/iconGB.png",
+      "width": 87,
+      "height": 87,
+      "sha256": "67eb84459d8c5781ab0ada2e0f5304987a0cff58099463d05a8e56e1c347089a"
+    },
+    {
+      "name": "btnYuandi",
+      "file": "Assets/Art/Battle/OfficialUI/btnYuandi.png",
+      "width": 58,
+      "height": 58,
+      "sha256": "8a1cd003ff1f6d76e28421a99616a7cd63263896bd88ba1121bccd0b37e27a8b"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_13",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_13.png",
+      "width": 66,
+      "height": 43,
+      "sha256": "7ec02b41b13c1f6cdc9f7d5a88eb9be448df268da235ad0b9f3faf10fd29e616"
+    },
+    {
+      "name": "battle_imge_restraint_arrow_imge_1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_arrow_imge_1.png",
+      "width": 32,
+      "height": 36,
+      "sha256": "3fd88d2b449d8734d51a57db6a7ebe65877b7ab0e328af835009313fc359f439"
+    },
+    {
+      "name": "battle_imge_restraint_arrow_imge_2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_arrow_imge_2.png",
+      "width": 33,
+      "height": 36,
+      "sha256": "51037444a708560a1ad62b7823c4e6146910afc2ec23962ac729e6ca34900646"
+    },
+    {
+      "name": "fightingpetorbossinfo_pet_imge_title",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_pet_imge_title.png",
+      "width": 103,
+      "height": 31,
+      "sha256": "7fb6be0f6308afb3eceff22594997728d9f73daf4434741ea82d0c2e18734208"
+    },
+    {
+      "name": "battle_failed",
+      "file": "Assets/Art/Battle/OfficialUI/battle_failed.png",
+      "width": 70,
+      "height": 41,
+      "sha256": "a82c94d124e5c2f3ec8da7767bf91d2f086421af6a1cf239ba3cb1f9d02c14a6"
+    },
+    {
+      "name": "battle_lockedskill5_imge_lockskillmask_2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_lockedskill5_imge_lockskillmask_2.png",
+      "width": 198,
+      "height": 198,
+      "sha256": "92cb10a98e6ec23e6099989ca916da82cb7f5c561e814e078cc312ea8939c63e"
+    },
+    {
+      "name": "battle_btnReport1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_btnReport1.png",
+      "width": 174,
+      "height": 54,
+      "sha256": "73d71bab63d79a003dc886e502888d38572e3a0443b8f6c127c7df5d7b1968cf"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_12",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_12.png",
+      "width": 66,
+      "height": 43,
+      "sha256": "c804a26afb5e6952d2623faf8ef5b755f3b9a4b7ee2f698a7be4b2265f574fd4"
+    },
+    {
+      "name": "fightingpetorbossinfo_boss_buffbg_2",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_boss_buffbg_2.png",
+      "width": 369,
+      "height": 58,
+      "sha256": "a1d284ea887f9cb6902f289d5e3662ab8b8d309d3d6446fb636936598112bf92"
+    },
+    {
+      "name": "ping2",
+      "file": "Assets/Art/Battle/OfficialUI/ping2.png",
+      "width": 22,
+      "height": 17,
+      "sha256": "afa5e74c395b9f23e17fa6786757439c8f0a7d5f93b1c9c3095613ca57453f7d"
+    },
+    {
+      "name": "petbgMask",
+      "file": "Assets/Art/Battle/OfficialUI/petbgMask.png",
+      "width": 14,
+      "height": 14,
+      "sha256": "772578c77cd637ed2aa5519243fdb9413bf8a8a8a2709110e537a39fea370df4"
+    },
+    {
+      "name": "lose",
+      "file": "Assets/Art/Battle/OfficialUI/lose.png",
+      "width": 92,
+      "height": 36,
+      "sha256": "6bcfc16e23af26bb56fa13188aea0b71d13112aad6d3d5288cd1f1c42228ccd3"
+    },
+    {
+      "name": "BtnBg",
+      "file": "Assets/Art/Battle/OfficialUI/BtnBg.png",
+      "width": 407,
+      "height": 314,
+      "sha256": "a1aae5652ad618c8bd553685eabb30d7ac54364223aa4c3d555a344e2db395db"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_21",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_21.png",
+      "width": 75,
+      "height": 44,
+      "sha256": "a9a21d79413b8a7039352b10a898166e846645a87f997db98e492cbc57b9e5b5"
+    },
+    {
+      "name": "battle_field_effect_nullIcon",
+      "file": "Assets/Art/Battle/OfficialUI/battle_field_effect_nullIcon.png",
+      "width": 25,
+      "height": 25,
+      "sha256": "5e0e1d5c8a3474b30e3664b74e73fe6943a2c145a049ca1c0e15a67686472939"
+    },
+    {
+      "name": "fight_imgCircleGreen",
+      "file": "Assets/Art/Battle/OfficialUI/fight_imgCircleGreen.png",
+      "width": 34,
+      "height": 34,
+      "sha256": "19d459a12ffb6d8ab4480f0f47eb56b9e21d394f02cbf417f92155866187a48e"
+    },
+    {
+      "name": "battle_field_intro_pop_title_2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_field_intro_pop_title_2.png",
+      "width": 113,
+      "height": 43,
+      "sha256": "d396b5ab50c5835a26dc6ad5f968f5c61bbcbd0ebdb539819cfcf0d686301a5a"
+    },
+    {
+      "name": "battle_clock_xinghuan",
+      "file": "Assets/Art/Battle/OfficialUI/battle_clock_xinghuan.png",
+      "width": 171,
+      "height": 171,
+      "sha256": "8947f30c600b6dfedf8c858459907f90cb61fd0a110d7254e60045fc0d4fea85"
+    },
+    {
+      "name": "pet_eff_desc_panel_icon_strong",
+      "file": "Assets/Art/Battle/OfficialUI/pet_eff_desc_panel_icon_strong.png",
+      "width": 40,
+      "height": 46,
+      "sha256": "cd3c804c6e0e20e00dc98a8ed8a582b56df38b8bc6467ae458231cae5bef3089"
+    },
+    {
+      "name": "img",
+      "file": "Assets/Art/Battle/OfficialUI/img.png",
+      "width": 72,
+      "height": 380,
+      "sha256": "13c56acbd5eee2761f5af17a612465dd468942896e0c1ebcd2688b641ff42321"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_9",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_9.png",
+      "width": 74,
+      "height": 44,
+      "sha256": "7867797b085a3a0b5ef9b268256701a1dc35d722beb2e6056dd3e1d2610a9c6b"
+    },
+    {
+      "name": "battle_imprint_icon_1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imprint_icon_1.png",
+      "width": 29,
+      "height": 29,
+      "sha256": "d3369ca431fc9e00a6d2efa80cc492e0d3aa99b53272767ebfed6ec38efce96c"
+    },
+    {
+      "name": "fightingpetorbossinfo_boss_buffbg",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_boss_buffbg.png",
+      "width": 369,
+      "height": 40,
+      "sha256": "a2cf480d6fa076d9eda5403bc75020b65bf3731e6fc75fd121ae49b8972fbe71"
+    },
+    {
+      "name": "battle_crit_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_crit_bg.png",
+      "width": 356,
+      "height": 156,
+      "sha256": "5c0d6cfe48dd5eb31d16afbeda59517558ec87d08d13990fa82152e898f7c2fb"
+    },
+    {
+      "name": "battle_skill_reslut_1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_skill_reslut_1.png",
+      "width": 230,
+      "height": 47,
+      "sha256": "bf321b03aacb359917cc5f3417fd820bdf952110b17ad8dc3aff4287caa106f9"
+    },
+    {
+      "name": "btnToolMask",
+      "file": "Assets/Art/Battle/OfficialUI/btnToolMask.png",
+      "width": 151,
+      "height": 107,
+      "sha256": "e6d017979ea2760ce02b0ea4059f923c982ef57e58fd4a1d8d5008434111585d"
+    },
+    {
+      "name": "fightingpetorbossinfo_boss_imge_skill_bg",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_boss_imge_skill_bg.png",
+      "width": 310,
+      "height": 247,
+      "sha256": "f434c4583855d4a1495cd32d4b5b6e1b08ab19710def6f70c4cb2c8297ccc16e"
+    },
+    {
+      "name": "jineng",
+      "file": "Assets/Art/Battle/OfficialUI/jineng.png",
+      "width": 303,
+      "height": 160,
+      "sha256": "064bff45539e3daa4f35c4617bb78af514f0ad865b6cb76a22ec0a9994f02e08"
+    },
+    {
+      "name": "fightingpetorbossinfo_pet_imge_head",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_pet_imge_head.png",
+      "width": 103,
+      "height": 103,
+      "sha256": "9ca3691d4e6df01a7551792d4d490f7e812df8d878b215859e49a2431c204ccc"
+    },
+    {
+      "name": "jineng_Vfx",
+      "file": "Assets/Art/Battle/OfficialUI/jineng_Vfx.png",
+      "width": 294,
+      "height": 139,
+      "sha256": "47dd193195eb6d52983f1ab162d3201cb723fd86312039176fb4cd4d94481774"
+    },
+    {
+      "name": "btnChetui2",
+      "file": "Assets/Art/Battle/OfficialUI/btnChetui2.png",
+      "width": 151,
+      "height": 107,
+      "sha256": "6ab581e3db42f1cec8ea7a4503fa6cfc04708f2f2b27f46c8df5b4dbe43cb2e2"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_4",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_4.png",
+      "width": 81,
+      "height": 44,
+      "sha256": "eed1d0146c0f18edba55c5011e4c50c2296685afa600586668399cfbc0e331a1"
+    },
+    {
+      "name": "diwu",
+      "file": "Assets/Art/Battle/OfficialUI/diwu.png",
+      "width": 323,
+      "height": 170,
+      "sha256": "4183e2247df50cfdd9550e37932738476de840d12de288a0479ddf11eb653144"
+    },
+    {
+      "name": "battle_lockedskill5_imge_lockskillmask_6",
+      "file": "Assets/Art/Battle/OfficialUI/battle_lockedskill5_imge_lockskillmask_6.png",
+      "width": 199,
+      "height": 197,
+      "sha256": "05d3673bd167f8b85a89724dc5e57a2e776b0e72fbee3cf8fd175be6ec4127ee"
+    },
+    {
+      "name": "battle_self_info_bg1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_self_info_bg1.png",
+      "width": 438,
+      "height": 111,
+      "sha256": "f9ea572d339132f2d6b356f0bae6389fddeb2d774a82671f4d8e0dac80a11476"
+    },
+    {
+      "name": "arrow_white",
+      "file": "Assets/Art/Battle/OfficialUI/arrow_white.png",
+      "width": 164,
+      "height": 49,
+      "sha256": "8e9aead28dd06a01a3bbba225590ba67f27a18a87d8020de14f89d69bff9e673"
+    },
+    {
+      "name": "diwubg_Vfx",
+      "file": "Assets/Art/Battle/OfficialUI/diwubg_Vfx.png",
+      "width": 240,
+      "height": 233,
+      "sha256": "70017c979895888e7cdb61259662f91b2158d556f78027ac4b16ef42022ae48c"
+    },
+    {
+      "name": "battle_hp2_up",
+      "file": "Assets/Art/Battle/OfficialUI/battle_hp2_up.png",
+      "width": 287,
+      "height": 10,
+      "sha256": "e0d1f93275d5eb59dafd9bc369c7c5feb3f4f5559adf312792af90da75c50921"
+    },
+    {
+      "name": "battle_clock_zhizhen",
+      "file": "Assets/Art/Battle/OfficialUI/battle_clock_zhizhen.png",
+      "width": 81,
+      "height": 3,
+      "sha256": "830009b38e3e4ee6e98226f130073a74cc22add889eed6d2b084c2503b924f87"
+    },
+    {
+      "name": "imgHuDun2",
+      "file": "Assets/Art/Battle/OfficialUI/imgHuDun2.png",
+      "width": 552,
+      "height": 6,
+      "sha256": "ac0bcfdda4e2f32484531cf70de338c1de365350f43d53a63348adaf45f9ed08"
+    },
+    {
+      "name": "battle_skill_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_skill_bg.png",
+      "width": 180,
+      "height": 100,
+      "sha256": "406fd83d9e5ffd7f3df405a109b484aceb9ab979d1111b48859be5536b4d3ddf"
+    },
+    {
+      "name": "fight_imgCircleRed",
+      "file": "Assets/Art/Battle/OfficialUI/fight_imgCircleRed.png",
+      "width": 34,
+      "height": 34,
+      "sha256": "197a4050fd9712f32862dbaffe5fe63b6119a6170e1860ee49a93bb3cf35d4e3"
+    },
+    {
+      "name": "infoDi_S9 1",
+      "file": "Assets/Art/Battle/OfficialUI/infoDi_S9_1.png",
+      "width": 20,
+      "height": 20,
+      "sha256": "e30ffffb94209c60f74cb450de8e8f1656befa87c8732f2a39c3af6d2fade7ee"
+    },
+    {
+      "name": "newpetbagMainPanel_tuceng 2299_2",
+      "file": "Assets/Art/Battle/OfficialUI/newpetbagMainPanel_tuceng_2299_2.png",
+      "width": 26,
+      "height": 27,
+      "sha256": "aa4fb6a42536386bef47b9d879a6cae94dfe7806ad77c483e317790bf1c6eff5"
+    },
+    {
+      "name": "diwu 1",
+      "file": "Assets/Art/Battle/OfficialUI/diwu_1.png",
+      "width": 274,
+      "height": 226,
+      "sha256": "852f00892b87d6505ad32ba073e502ef83ee2ea869e77567d2346af4a9fa2f22"
+    },
+    {
+      "name": "battle_sp_head_kuang",
+      "file": "Assets/Art/Battle/OfficialUI/battle_sp_head_kuang.png",
+      "width": 119,
+      "height": 119,
+      "sha256": "7834a058520712f19e5dd57d45fe6ff8682268077f9a9325932ad0038f54afb7"
+    },
+    {
+      "name": "lv1di",
+      "file": "Assets/Art/Battle/OfficialUI/lv1di.png",
+      "width": 38,
+      "height": 38,
+      "sha256": "69c47d2252901f62aa0b8f099f741eae013a873608b191764d997a4bfb44dd03"
+    },
+    {
+      "name": "kuang",
+      "file": "Assets/Art/Battle/OfficialUI/kuang.png",
+      "width": 52,
+      "height": 50,
+      "sha256": "d07ac735b3868992f074269aae84adc26404f2b32cb28848317a8548575b7119"
+    },
+    {
+      "name": "battle_pet_item_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_pet_item_bg.png",
+      "width": 185,
+      "height": 114,
+      "sha256": "d85fbeb679b1544156690842c4da65c45d6bbf5ce1bba769a98eed295c6d2723"
+    },
+    {
+      "name": "battle_field_effect_leftBg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_field_effect_leftBg.png",
+      "width": 126,
+      "height": 78,
+      "sha256": "b6f3a385d20fd7ce5bca48197c65f68b6f65511dff374954705ec118a580fda1"
+    },
+    {
+      "name": "battle_jiasu",
+      "file": "Assets/Art/Battle/OfficialUI/battle_jiasu.png",
+      "width": 54,
+      "height": 64,
+      "sha256": "4351b05082dac35d931f19378e11cee840935c8816898fa3002efeb635191f74"
+    },
+    {
+      "name": "fightingpetorbossinfo_pet_imge_resistence_bg",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_pet_imge_resistence_bg.png",
+      "width": 310,
+      "height": 247,
+      "sha256": "04b51ceef6ee0b0d1f1658a10509d8230c6f4a8765048aac419bb8e0a18f9a9e"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_15",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_15.png",
+      "width": 69,
+      "height": 43,
+      "sha256": "0beaae2b5b47c9c3e2b1a1f57f96f24a6650de7dfb1f3efc4bf0304c95633ee5"
+    },
+    {
+      "name": "imgHp4 1",
+      "file": "Assets/Art/Battle/OfficialUI/imgHp4_1.png",
+      "width": 342,
+      "height": 5,
+      "sha256": "d13a56719f5ad5647e642c357ed5fadf4f4d186d4155cc57f1b54afa7891e550"
+    },
+    {
+      "name": "battle_hp4_up",
+      "file": "Assets/Art/Battle/OfficialUI/battle_hp4_up.png",
+      "width": 322,
+      "height": 13,
+      "sha256": "45f6e6bcac1f052caf74c9bcf1bf56f664fedeb32c16c5dfbcd854a4523d1c85"
+    },
+    {
+      "name": "imgHp1",
+      "file": "Assets/Art/Battle/OfficialUI/imgHp1.png",
+      "width": 578,
+      "height": 26,
+      "sha256": "a97c8e88fb2501e0d393eadb5890d569c0395cfdd29a350d9880f89f04ef0e93"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_16",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_16.png",
+      "width": 65,
+      "height": 43,
+      "sha256": "3bb2fcb77ba72ddacffbd8e151f65653cc8d449da4db6519dc62ae3af2961ff7"
+    },
+    {
+      "name": "btnXianshi",
+      "file": "Assets/Art/Battle/OfficialUI/btnXianshi.png",
+      "width": 48,
+      "height": 43,
+      "sha256": "9996b7bd4c8ac392d27e811140ce1ee4bf27e4c01e346123ab6a504c47d4c856"
+    },
+    {
+      "name": "battle_clock_bg2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_clock_bg2.png",
+      "width": 234,
+      "height": 173,
+      "sha256": "28c602350eb0bd6a93b8d5e9d4dc7d6e8b5e1983a01153c74929c7acf8215a0f"
+    },
+    {
+      "name": "zhuangban",
+      "file": "Assets/Art/Battle/OfficialUI/zhuangban.png",
+      "width": 320,
+      "height": 47,
+      "sha256": "02d02df11581690927e4047f26a0e9146d62db6653a90dd6348423143820e961"
+    },
+    {
+      "name": "battle_loding_leftBg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_loding_leftBg.png",
+      "width": 763,
+      "height": 640,
+      "sha256": "08a919ad952b657efc9e29fda13173a13ecc575e4aa46580c3b554a52b5f48c8"
+    },
+    {
+      "name": "battle_lockedskill_imge_lockskillmask_3",
+      "file": "Assets/Art/Battle/OfficialUI/battle_lockedskill_imge_lockskillmask_3.png",
+      "width": 268,
+      "height": 142,
+      "sha256": "4b545adc2a3da1b7e7edccabf6f38e3fbb88913ab97325741955341ceb958362"
+    },
+    {
+      "name": "fightingpetorbossinfo_boss_buffbg_4",
+      "file": "Assets/Art/Battle/OfficialUI/fightingpetorbossinfo_boss_buffbg_4.png",
+      "width": 369,
+      "height": 102,
+      "sha256": "dd6bc0165b452d39196149abcc345e825d6706da66ddd4cda548ea4a186dc263"
+    },
+    {
+      "name": "battle_image_btn_mask_1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_image_btn_mask_1.png",
+      "width": 77,
+      "height": 77,
+      "sha256": "81b7ab3e26a9dfc1ebc518b6b3f6a792a169dbe6220438d62963f5da3ed20f12"
+    },
+    {
+      "name": "imgHpdi1",
+      "file": "Assets/Art/Battle/OfficialUI/imgHpdi1.png",
+      "width": 56,
+      "height": 27,
+      "sha256": "f0f09d794a5800413a558d49659aa4ba52267d6e937366f11025cd6c83dc02f1"
+    },
+    {
+      "name": "story_di2_new",
+      "file": "Assets/Art/Battle/OfficialUI/story_di2_new.png",
+      "width": 119,
+      "height": 96,
+      "sha256": "d5ed52d62675f329779265833eee5ec1b33134abbc580b29a150c79613c59abf"
+    },
+    {
+      "name": "imgCrit",
+      "file": "Assets/Art/Battle/OfficialUI/imgCrit.png",
+      "width": 100,
+      "height": 71,
+      "sha256": "31a11a809eb2d4e35083e900edd26e5155d4e885ef08c011af2bc6291672b7b5"
+    },
+    {
+      "name": "battle_back",
+      "file": "Assets/Art/Battle/OfficialUI/battle_back.png",
+      "width": 54,
+      "height": 64,
+      "sha256": "f6df5cc86bde056b264275efe0ea7e24c99a5d40419906e4f3472e418f476e53"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_24",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_24.png",
+      "width": 76,
+      "height": 43,
+      "sha256": "65a7e43a03094a42051e4419949fca613e3ccfa4b2176043bc8a7c3c5b5bef96"
+    },
+    {
+      "name": "battle_selected",
+      "file": "Assets/Art/Battle/OfficialUI/battle_selected.png",
+      "width": 197,
+      "height": 155,
+      "sha256": "980c1ad2896a00f9f4b99d967cd33ce597d6019de2140c32bcf0dcbb8731a7ab"
+    },
+    {
+      "name": "battle_self_hp4_up",
+      "file": "Assets/Art/Battle/OfficialUI/battle_self_hp4_up.png",
+      "width": 322,
+      "height": 13,
+      "sha256": "41bf824a402ee2531d107fbbcfcb53f79e52775f2314850c91e86a5c06443f27"
+    },
+    {
+      "name": "masknormal",
+      "file": "Assets/Art/Battle/OfficialUI/masknormal.png",
+      "width": 87,
+      "height": 90,
+      "sha256": "0c946b9b50e31ddee0a4327b49f8bb6763c228d31f5cfc8449ff23a7a5addcf1"
+    },
+    {
+      "name": "btnChetui",
+      "file": "Assets/Art/Battle/OfficialUI/btnChetui.png",
+      "width": 151,
+      "height": 107,
+      "sha256": "9dd7c31944e06a7118dfaf73b32dccadc1b61f01abee9f68dbb43b32dac11e3f"
+    },
+    {
+      "name": "battle_imge_restraint_words_imge_11",
+      "file": "Assets/Art/Battle/OfficialUI/battle_imge_restraint_words_imge_11.png",
+      "width": 80,
+      "height": 44,
+      "sha256": "94e7535a0433d609652b8fa1ee0b6f547d1ba85efed51c9662c68be660582685"
+    },
+    {
+      "name": "story_head2_new",
+      "file": "Assets/Art/Battle/OfficialUI/story_head2_new.png",
+      "width": 89,
+      "height": 89,
+      "sha256": "94cbac7b472dec80875134811946f3008ed0bb9ef94c786e3571c8403597e487"
+    },
+    {
+      "name": "battle_loding_left_player_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_loding_left_player_bg.png",
+      "width": 677,
+      "height": 551,
+      "sha256": "6a0db065981ee0c856a40585452e494e3e9b3fe8152970b354be9ee99b895770"
+    },
+    {
+      "name": "battle_player_info_bg2",
+      "file": "Assets/Art/Battle/OfficialUI/battle_player_info_bg2.png",
+      "width": 455,
+      "height": 122,
+      "sha256": "518fcdd3eb3f35d49338fffc07cf3f7cfe8edf8a9f6777217ebdeea119cc66bc"
+    },
+    {
+      "name": "battle_self_hp3_up",
+      "file": "Assets/Art/Battle/OfficialUI/battle_self_hp3_up.png",
+      "width": 322,
+      "height": 13,
+      "sha256": "f8911a4b35d40fc69a4e1644e4d53d220e0799b6e0158f0c9a8eeba1a1f67762"
+    },
+    {
+      "name": "jdt_fx02",
+      "file": "Assets/Art/Battle/OfficialUI/jdt_fx02.png",
+      "width": 826,
+      "height": 201,
+      "sha256": "6162bbfce2793df4fbf574ee269176f4464fbe40677197bb279aab341d6b68f7"
+    },
+    {
+      "name": "imgHp",
+      "file": "Assets/Art/Battle/OfficialUI/imgHp.png",
+      "width": 574,
+      "height": 24,
+      "sha256": "ad0f4d3db69332594da84e58234dd79bc63d55a87f9856a887575dbd0c855310"
+    },
+    {
+      "name": "battle_msg_msg_bg",
+      "file": "Assets/Art/Battle/OfficialUI/battle_msg_msg_bg.png",
+      "width": 418,
+      "height": 232,
+      "sha256": "7459da66177072efde0133923b66782756319650439531327497d22cd7c4bece"
+    },
+    {
+      "name": "battle_lockedskill5_imge_lockskillmask_1",
+      "file": "Assets/Art/Battle/OfficialUI/battle_lockedskill5_imge_lockskillmask_1.png",
+      "width": 197,
+      "height": 197,
+      "sha256": "b19006713cbd7b73cb626068c149ed3e42bec70975edb51c1afa58777da964d4"
+    }
+  ],
+  "retrievedDate": "2026-10-01",
+  "verifiedAgainstOfficialDownload": true,
+  "currentSitePackageVersion": "20260928155626",
+  "bundleSha256": "836a42516ae1f7db467dcab94c5820c02109beaaa00d712a7dd14f4976ca6397"
+}

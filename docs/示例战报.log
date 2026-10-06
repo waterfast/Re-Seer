@@ -1,0 +1,114 @@
+# 中文战报｜规则 classic-prototype-v2｜随机 xorshift32-rejection-v1｜种子 42
+1|r1|round||use0|root0|frame0:0|0|第 1 回合
+2|r1|skill|rey|use1|root1|frame1:0|0|雷伊使用「闪电斗气」
+3|r1|event||use1|root1|frame2:1|0|SkillStartedEvent
+4|r1|event||use1|root1|frame3:1|0|AfterSkillCoreEvent
+5|r1|stage|rey|use1|root1|frame4:3|1|雷伊的防御等级 +1（现为 1）
+6|r1|event||use1|root1|frame5:4|0|StageChangedEvent
+7|r1|stage|rey|use1|root1|frame6:3|1|雷伊的特防等级 +1（现为 1）
+8|r1|event||use1|root1|frame7:6|0|StageChangedEvent
+9|r1|event||use1|root1|frame8:1|0|SkillFinishedEvent
+10|r1|skill|gaia|use2|root9|frame9:0|0|盖亚使用「返璞归真」
+11|r1|event||use2|root9|frame10:9|0|SkillStartedEvent
+12|r1|event||use2|root9|frame11:9|0|AfterSkillCoreEvent
+13|r1|stage|gaia|use2|root9|frame12:11|2|盖亚的攻击等级 +2（现为 2）
+14|r1|event||use2|root9|frame13:12|0|StageChangedEvent
+15|r1|stage|gaia|use2|root9|frame14:11|2|盖亚的命中等级 +2（现为 2）
+16|r1|event||use2|root9|frame15:14|0|StageChangedEvent
+17|r1|event||use2|root9|frame16:9|0|SkillFinishedEvent
+18|r1|event||use0|root17|frame18:17|0|RoundEndingEvent
+19|r2|round||use0|root0|frame0:0|0|第 2 回合
+20|r2|skill|gaia|use3|root19|frame19:0|0|盖亚使用「破元闪」
+21|r2|event||use3|root19|frame20:19|0|SkillStartedEvent
+22|r2|chance||use3|root19|frame19:0|10000|Hit 概率 10000/10000：成功
+23|r2|damage|gaia|use3|root19|frame21:19|138|雷伊受到 138 点伤害，HP 862/1000
+24|r2|event||use3|root19|frame22:21|0|DamageAppliedEvent
+25|r2|event||use3|root19|frame23:19|0|AfterSkillCoreEvent
+26|r2|event||use3|root19|frame24:19|0|SkillFinishedEvent
+27|r2|skill|rey|use4|root25|frame25:0|0|雷伊使用「元气电光球」
+28|r2|event||use4|root25|frame26:25|0|SkillStartedEvent
+29|r2|damage|rey|use4|root25|frame27:25|202|盖亚受到 202 点伤害，HP 798/1000
+30|r2|event||use4|root25|frame28:27|0|DamageAppliedEvent
+31|r2|random||use4|root25|frame28:27|5431|抽样#1 Passive=5431/10000
+32|r2|chance||use4|root25|frame28:27|5000|Passive 概率 5000/10000：失败
+33|r2|event||use4|root25|frame29:25|0|AfterSkillCoreEvent
+34|r2|random||use4|root25|frame29:25|8347|抽样#2 Secondary=8347/10000
+35|r2|chance||use4|root25|frame29:25|500|Secondary 概率 500/10000：失败
+36|r2|event||use4|root25|frame30:25|0|SkillFinishedEvent
+37|r2|event||use0|root31|frame32:31|0|RoundEndingEvent
+38|r3|round||use0|root0|frame0:0|0|第 3 回合
+39|r3|skill|rey|use5|root33|frame33:0|0|雷伊使用「极光刃」
+40|r3|event||use5|root33|frame34:33|0|SkillStartedEvent
+41|r3|chance||use5|root33|frame33:0|10000|Hit 概率 10000/10000：成功
+42|r3|damage|rey|use5|root33|frame35:33|133|盖亚受到 133 点伤害，HP 665/1000
+43|r3|event||use5|root33|frame36:35|0|DamageAppliedEvent
+44|r3|random||use5|root33|frame36:35|7058|抽样#3 Passive=7058/10000
+45|r3|chance||use5|root33|frame36:35|5000|Passive 概率 5000/10000：失败
+46|r3|event||use5|root33|frame37:33|0|AfterSkillCoreEvent
+47|r3|stage|gaia|use5|root33|frame39:38|-2|盖亚的攻击等级 -2（现为 0）
+48|r3|event||use5|root33|frame40:39|0|StageChangedEvent
+49|r3|stage|gaia|use5|root33|frame41:38|-2|盖亚的命中等级 -2（现为 0）
+50|r3|event||use5|root33|frame42:41|0|StageChangedEvent
+51|r3|event||use5|root33|frame43:33|0|SkillFinishedEvent
+52|r3|skill|gaia|use6|root44|frame44:0|0|盖亚使用「石破天惊」
+53|r3|event||use6|root44|frame45:44|0|SkillStartedEvent
+54|r3|chance||use6|root44|frame44:0|10000|Hit 概率 10000/10000：成功
+55|r3|damage|gaia|use6|root44|frame46:44|172|雷伊受到 172 点伤害，HP 690/1000
+56|r3|event||use6|root44|frame47:46|0|DamageAppliedEvent
+57|r3|event||use6|root44|frame48:44|0|AfterSkillCoreEvent
+58|r3|stage|rey|use6|root44|frame50:49|-1|雷伊的防御等级 -1（现为 0）
+59|r3|event||use6|root44|frame51:50|0|StageChangedEvent
+60|r3|stage|rey|use6|root44|frame52:49|-1|雷伊的特防等级 -1（现为 0）
+61|r3|event||use6|root44|frame53:52|0|StageChangedEvent
+62|r3|event||use6|root44|frame54:44|0|SkillFinishedEvent
+63|r3|event||use0|root55|frame56:55|0|RoundEndingEvent
+64|r4|round||use0|root0|frame0:0|0|第 4 回合
+65|r4|skill|gaia|use7|root57|frame57:0|0|盖亚使用「破元闪」
+66|r4|event||use7|root57|frame58:57|0|SkillStartedEvent
+67|r4|chance||use7|root57|frame57:0|10000|Hit 概率 10000/10000：成功
+68|r4|damage|gaia|use7|root57|frame59:57|104|雷伊受到 104 点伤害，HP 586/1000
+69|r4|event||use7|root57|frame60:59|0|DamageAppliedEvent
+70|r4|event||use7|root57|frame61:57|0|AfterSkillCoreEvent
+71|r4|event||use7|root57|frame62:57|0|SkillFinishedEvent
+72|r4|skill|rey|use8|root63|frame63:0|0|雷伊使用「雷神觉醒」
+73|r4|event||use8|root63|frame64:63|0|SkillStartedEvent
+74|r4|event||use8|root63|frame65:63|0|AfterSkillCoreEvent
+75|r4|stage|rey|use8|root63|frame66:65|2|雷伊的攻击等级 +2（现为 2）
+76|r4|event||use8|root63|frame67:66|0|StageChangedEvent
+77|r4|stage|rey|use8|root63|frame68:65|2|雷伊的速度等级 +2（现为 2）
+78|r4|event||use8|root63|frame69:68|0|StageChangedEvent
+79|r4|event||use8|root63|frame70:63|0|SkillFinishedEvent
+80|r4|event||use0|root71|frame72:71|0|RoundEndingEvent
+81|r5|round||use0|root0|frame0:0|0|第 5 回合
+82|r5|skill|gaia|use9|root73|frame73:0|0|盖亚使用「破元闪」
+83|r5|event||use9|root73|frame74:73|0|SkillStartedEvent
+84|r5|chance||use9|root73|frame73:0|10000|Hit 概率 10000/10000：成功
+85|r5|damage|gaia|use9|root73|frame75:73|104|雷伊受到 104 点伤害，HP 482/1000
+86|r5|event||use9|root73|frame76:75|0|DamageAppliedEvent
+87|r5|event||use9|root73|frame77:73|0|AfterSkillCoreEvent
+88|r5|event||use9|root73|frame78:73|0|SkillFinishedEvent
+89|r5|skill|rey|use10|root79|frame79:0|0|雷伊使用「雷神天明闪」
+90|r5|event||use10|root79|frame80:79|0|SkillStartedEvent
+91|r5|random||use10|root79|frame80:79|6015|抽样#4 DamageMultiplier=6015/10000
+92|r5|chance||use10|root79|frame80:79|1000|DamageMultiplier 概率 1000/10000：失败
+93|r5|damage|rey|use10|root79|frame81:79|486|盖亚受到 486 点伤害，HP 179/1000
+94|r5|event||use10|root79|frame82:81|0|DamageAppliedEvent
+95|r5|random||use10|root79|frame82:81|3555|抽样#5 Passive=3555/10000
+96|r5|chance||use10|root79|frame82:81|5000|Passive 概率 5000/10000：成功
+97|r5|random||use10|root79|frame82:81|2|抽样#6 魂印状态持续时间=2/3
+98|r5|passive|rey|use10|root79|frame82:81|0|雷伊魂印触发：令对手麻痹
+99|r5|status|gaia|use10|root79|frame83:82|3|盖亚进入麻痹，持续 3 个回合末
+100|r5|event||use10|root79|frame84:83|0|StatusAppliedEvent
+101|r5|event||use10|root79|frame85:79|0|AfterSkillCoreEvent
+102|r5|event||use10|root79|frame86:79|0|SkillFinishedEvent
+103|r5|event||use0|root87|frame88:87|0|RoundEndingEvent
+104|r6|round||use0|root0|frame0:0|0|第 6 回合
+105|r6|skill|rey|use11|root89|frame89:0|0|雷伊使用「雷神天明闪」
+106|r6|event||use11|root89|frame90:89|0|SkillStartedEvent
+107|r6|random||use11|root89|frame90:89|6839|抽样#7 DamageMultiplier=6839/10000
+108|r6|chance||use11|root89|frame90:89|1000|DamageMultiplier 概率 1000/10000：失败
+109|r6|damage|rey|use11|root89|frame91:89|179|盖亚受到 179 点伤害，HP 0/1000
+110|r6|event||use11|root89|frame92:91|0|DamageAppliedEvent
+111|r6|event||use11|root89|frame93:89|0|AfterSkillCoreEvent
+112|r6|event||use11|root89|frame94:89|0|SkillFinishedEvent
+113|r6|end||use0|root0|frame0:0|0|战斗结束：雷伊获胜

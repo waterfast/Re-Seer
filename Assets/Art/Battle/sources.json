@@ -1,0 +1,58 @@
+{
+  "_说明": "淘米公开资源的本地研究引用；版权归原权利人，提取不代表取得发布授权。",
+  "retrievedDate": "2026-09-09",
+  "packageVersion": "20260904173604",
+  "extractor": "UnityPy 1.25.3 / 原始 Texture2D 解码",
+  "assets": [
+    {
+      "file": "Assets/Art/Battle/rey.png",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/657525ec6342e44f87d412f4c149bffe",
+      "sourceAsset": "Assets/Art/Ui/assets/pet/body/70.png",
+      "textureName": "70",
+      "bundleMd5": "657525ec6342e44f87d412f4c149bffe",
+      "pngSha256": "e727728fd5ff19d8ca37beb93eed8f6a8f138b6cd9694ec7ead2b46e3ea48180",
+      "width": 356,
+      "height": 708
+    },
+    {
+      "file": "Assets/Art/Battle/gaia.png",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/6bcbc0b21e5fc8161a3805ddd962c628",
+      "sourceAsset": "Assets/Art/Ui/assets/pet/body/261.png",
+      "textureName": "261",
+      "bundleMd5": "6bcbc0b21e5fc8161a3805ddd962c628",
+      "pngSha256": "2a0ab62c5b8f0708108e6685588dff35d0a4937eac2e8117caf94797a36109d1",
+      "width": 260,
+      "height": 428
+    },
+    {
+      "file": "Assets/Art/Battle/arena.png",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/1e67a21076d1bff49bbd5386a72dfec8",
+      "sourceAsset": "Assets/Game/UI/battle：Texture2D battle_bg",
+      "textureName": "battle_bg",
+      "bundleMd5": "1e67a21076d1bff49bbd5386a72dfec8",
+      "pngSha256": "d17d6947ddbe5f82b96bee04778590e01882ab70cef7617d98cb06c5e4f7eddb",
+      "width": 1136,
+      "height": 640
+    },
+    {
+      "file": "Assets/Art/Battle/rey-head.png",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/1400be6cc627e9577df0496cbaa52a90",
+      "sourceAsset": "Assets/Art/Ui/assets/pet/head/70.png",
+      "textureName": "70",
+      "bundleMd5": "1400be6cc627e9577df0496cbaa52a90",
+      "pngSha256": "c4bf8adf89b73a32b19152d6e76b9a49cc7cca2659c34fb756fb6b5369a2a1e7",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "file": "Assets/Art/Battle/gaia-head.png",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/8e3841f3ba204c666887a058c1d0d176",
+      "sourceAsset": "Assets/Art/Ui/assets/pet/head/261.png",
+      "textureName": "261",
+      "bundleMd5": "8e3841f3ba204c666887a058c1d0d176",
+      "pngSha256": "cb36a248262dc221912aff4ffccb619c1fa3475c626943b7732769d24d9da8ec",
+      "width": 200,
+      "height": 200
+    }
+  ]
+}

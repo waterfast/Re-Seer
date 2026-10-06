@@ -1,0 +1,175 @@
+{
+  "_说明": "官网原始美术的本地研究引用。",
+  "retrievedDate": "2026-09-09",
+  "packageVersion": "20260904173604",
+  "assets": [
+    {
+      "file": "Assets/Art/Battle/UI/battle_player_info_bg1.png",
+      "object": "battle_player_info_bg1",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/1e67a21076d1bff49bbd5386a72dfec8",
+      "bundleMd5": "1e67a21076d1bff49bbd5386a72dfec8",
+      "pngSha256": "fbef35d8f14563855c2751b49227e9d669c39e08c07506b922bae3af6355fc25"
+    },
+    {
+      "file": "Assets/Art/Battle/UI/battle_blood_bg.png",
+      "object": "battle_blood_bg",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/1e67a21076d1bff49bbd5386a72dfec8",
+      "bundleMd5": "1e67a21076d1bff49bbd5386a72dfec8",
+      "pngSha256": "1b92be008334a3e7fbbd8c7db53b44f3d4a91f66e72796146b615cd81e0f0902"
+    },
+    {
+      "file": "Assets/Art/Battle/UI/battle_clock_bg.png",
+      "object": "battle_clock_bg",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/1e67a21076d1bff49bbd5386a72dfec8",
+      "bundleMd5": "1e67a21076d1bff49bbd5386a72dfec8",
+      "pngSha256": "af9408bbf144cac37c0b262f65b80c054514c24116bd3b1e01b34936f0001dfe"
+    },
+    {
+      "file": "Assets/Art/Battle/UI/battle_blood.png",
+      "object": "battle_blood",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/1e67a21076d1bff49bbd5386a72dfec8",
+      "bundleMd5": "1e67a21076d1bff49bbd5386a72dfec8",
+      "pngSha256": "c2bba20a5806500ab79cbe5bc7378c6a8a6551c967d29e47565d1702ae7fd252"
+    },
+    {
+      "file": "Assets/Art/Battle/UI/diwubg.png",
+      "object": "diwubg",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/1e67a21076d1bff49bbd5386a72dfec8",
+      "bundleMd5": "1e67a21076d1bff49bbd5386a72dfec8",
+      "pngSha256": "b869ae0ca843f69b9a3e62f1dbd1ffe862c94648cb8cb78fe0adff44cfc72c6f"
+    },
+    {
+      "file": "Assets/Art/Battle/UI/battle_skill_bar_bg.png",
+      "object": "battle_skill_bar_bg",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/1e67a21076d1bff49bbd5386a72dfec8",
+      "bundleMd5": "1e67a21076d1bff49bbd5386a72dfec8",
+      "pngSha256": "31a03258f41daefa708ec0bf80cfbe006ebc24eb42d02e2fb73cb6f0b89fa8a7"
+    },
+    {
+      "file": "Assets/Art/Battle/UI/battle_round_bg.png",
+      "object": "battle_round_bg",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/1e67a21076d1bff49bbd5386a72dfec8",
+      "bundleMd5": "1e67a21076d1bff49bbd5386a72dfec8",
+      "pngSha256": "378dc71bdfb18ced74a9ebd677c8f33601882f4c2f00f3198086eaf6ac1f0d0d"
+    },
+    {
+      "file": "Assets/Art/Battle/UI/battle_self_info_bg1.png",
+      "object": "battle_self_info_bg1",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/1e67a21076d1bff49bbd5386a72dfec8",
+      "bundleMd5": "1e67a21076d1bff49bbd5386a72dfec8",
+      "pngSha256": "f9ea572d339132f2d6b356f0bae6389fddeb2d774a82671f4d8e0dac80a11476"
+    },
+    {
+      "file": "Assets/Art/Battle/UI/battle_skill_bg.png",
+      "object": "battle_skill_bg",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/1e67a21076d1bff49bbd5386a72dfec8",
+      "bundleMd5": "1e67a21076d1bff49bbd5386a72dfec8",
+      "pngSha256": "406fd83d9e5ffd7f3df405a109b484aceb9ab979d1111b48859be5536b4d3ddf"
+    },
+    {
+      "file": "Assets/Art/Battle/Types/normal.png",
+      "object": "8",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/53ee4cf1e8320361c4aa9b7114c1fffa",
+      "bundleMd5": "53ee4cf1e8320361c4aa9b7114c1fffa",
+      "pngSha256": "c89fa8dd37c0c47652a57889c3b788828cec69a89084b50f6259f2e8ee6c03d0"
+    },
+    {
+      "file": "Assets/Art/Battle/Types/electric.png",
+      "object": "5",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/53ee4cf1e8320361c4aa9b7114c1fffa",
+      "bundleMd5": "53ee4cf1e8320361c4aa9b7114c1fffa",
+      "pngSha256": "9af007c2493684038ef5d0956de139e1a52276d780e493509e4958e7dbd4b906"
+    },
+    {
+      "file": "Assets/Art/Battle/Types/fighting.png",
+      "object": "11",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/53ee4cf1e8320361c4aa9b7114c1fffa",
+      "bundleMd5": "53ee4cf1e8320361c4aa9b7114c1fffa",
+      "pngSha256": "35aa30e2f24e6a9949014992f1ee0eeda810025aa62d9184e6f11a54218cd9b1"
+    },
+    {
+      "file": "Assets/Art/Battle/Fonts/hp_damage_num_0.png",
+      "object": "hp_damage_num_0",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/e6ae1b6a24e07173fddd3e9af2475c7e",
+      "bundleMd5": "e6ae1b6a24e07173fddd3e9af2475c7e",
+      "pngSha256": "7269ee091fe2e04e1f0a5bbf4c75a97b0624f8f5d3dd0a56932d38551d23ed0c"
+    },
+    {
+      "file": "Assets/Art/Battle/Fonts/minus.png",
+      "object": "hp_damage_num / 45",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/e6ae1b6a24e07173fddd3e9af2475c7e",
+      "bundleMd5": "e6ae1b6a24e07173fddd3e9af2475c7e",
+      "pngSha256": "5e8d91e4733a46edfcfc04074da0f75874e7f8a29f583a9864b55710979eed7d"
+    },
+    {
+      "file": "Assets/Art/Battle/Fonts/0.png",
+      "object": "hp_damage_num / 48",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/e6ae1b6a24e07173fddd3e9af2475c7e",
+      "bundleMd5": "e6ae1b6a24e07173fddd3e9af2475c7e",
+      "pngSha256": "5b46df14b76d3d6991536c5a45417d4abc86ca0460c0eecc7c0a9ce489240585"
+    },
+    {
+      "file": "Assets/Art/Battle/Fonts/1.png",
+      "object": "hp_damage_num / 49",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/e6ae1b6a24e07173fddd3e9af2475c7e",
+      "bundleMd5": "e6ae1b6a24e07173fddd3e9af2475c7e",
+      "pngSha256": "22aa78f2a71a0c8521aafc89252b6692c24581442cc0b2b20f80cd1a4aebe193"
+    },
+    {
+      "file": "Assets/Art/Battle/Fonts/2.png",
+      "object": "hp_damage_num / 50",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/e6ae1b6a24e07173fddd3e9af2475c7e",
+      "bundleMd5": "e6ae1b6a24e07173fddd3e9af2475c7e",
+      "pngSha256": "192a73120971d868fb366297273447b0f0d4f50883a3f3b367ed1aa03b68485b"
+    },
+    {
+      "file": "Assets/Art/Battle/Fonts/3.png",
+      "object": "hp_damage_num / 51",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/e6ae1b6a24e07173fddd3e9af2475c7e",
+      "bundleMd5": "e6ae1b6a24e07173fddd3e9af2475c7e",
+      "pngSha256": "54aa87796f6d22cdd02e8d5dfe9404c150a055cdd9b02df035f3ce5fbd19e143"
+    },
+    {
+      "file": "Assets/Art/Battle/Fonts/4.png",
+      "object": "hp_damage_num / 52",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/e6ae1b6a24e07173fddd3e9af2475c7e",
+      "bundleMd5": "e6ae1b6a24e07173fddd3e9af2475c7e",
+      "pngSha256": "edc32d0cf43cbe30bb7c96a020cf949ca7711b81b08eb05f06f2d576354c2d8d"
+    },
+    {
+      "file": "Assets/Art/Battle/Fonts/5.png",
+      "object": "hp_damage_num / 53",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/e6ae1b6a24e07173fddd3e9af2475c7e",
+      "bundleMd5": "e6ae1b6a24e07173fddd3e9af2475c7e",
+      "pngSha256": "2048b93f072acf5b165950a256864777eb43a629032666af57ca140670939758"
+    },
+    {
+      "file": "Assets/Art/Battle/Fonts/6.png",
+      "object": "hp_damage_num / 54",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/e6ae1b6a24e07173fddd3e9af2475c7e",
+      "bundleMd5": "e6ae1b6a24e07173fddd3e9af2475c7e",
+      "pngSha256": "d3c2e4b0eb906eebcf8eef3dfa26f6cab0aed4c51ffc52724c16883bd822d661"
+    },
+    {
+      "file": "Assets/Art/Battle/Fonts/7.png",
+      "object": "hp_damage_num / 55",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/e6ae1b6a24e07173fddd3e9af2475c7e",
+      "bundleMd5": "e6ae1b6a24e07173fddd3e9af2475c7e",
+      "pngSha256": "4c42d0452f378a469922df75377699f3805290334ae3d08bf7977b8871b0acab"
+    },
+    {
+      "file": "Assets/Art/Battle/Fonts/8.png",
+      "object": "hp_damage_num / 56",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/e6ae1b6a24e07173fddd3e9af2475c7e",
+      "bundleMd5": "e6ae1b6a24e07173fddd3e9af2475c7e",
+      "pngSha256": "8bcbf2aabbb93366db155a0fc1c85d3f115052b4eea7c234c26e54d3babc7540"
+    },
+    {
+      "file": "Assets/Art/Battle/Fonts/9.png",
+      "object": "hp_damage_num / 57",
+      "sourceUrl": "https://newseer.61.com/Assets/WebGL/DefaultPackage/e6ae1b6a24e07173fddd3e9af2475c7e",
+      "bundleMd5": "e6ae1b6a24e07173fddd3e9af2475c7e",
+      "pngSha256": "c24437a74e4cabecab415f1f5fd80667f80f7072047052cab3aae4d43784aaad"
+    }
+  ]
+}

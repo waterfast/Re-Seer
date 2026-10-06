@@ -1,0 +1,8 @@
+<Project>
+  <!-- 本机旧版 SDK 在受限环境并行启动构建节点不稳定；顺序构建并禁用共享编译进程。 -->
+  <PropertyGroup>
+    <BuildInParallel>false</BuildInParallel>
+    <RestoreDisableParallel>true</RestoreDisableParallel>
+    <UseSharedCompilation>false</UseSharedCompilation>
+  </PropertyGroup>
+</Project>

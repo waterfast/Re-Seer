@@ -1,0 +1,1867 @@
+{
+  "sourceFile": "docs/OfficialReference/20261001/fight.swf",
+  "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+  "sourceSha256": "d3382d52150d1189e24664f840090b80d923fbdb4ee831ee78e4fc03f3dcc6df",
+  "extractedDate": "2026-10-01",
+  "tool": "JPEXS 26.2.1",
+  "zoom": 3,
+  "authoredFrameRate": 24,
+  "method": "Static rendering. No ActionScript executed. Trim boxes recorded; animation/name frames retain shared canvases.",
+  "assets": [
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/standard-reference.png",
+      "characterId": 475,
+      "role": "sprite first frame",
+      "frame": 1,
+      "originalCanvas": [
+        659,
+        739
+      ],
+      "trimBox": [
+        57,
+        57,
+        602,
+        682
+      ],
+      "size": [
+        545,
+        625
+      ],
+      "sha256": "e264d75dae490e857c05af3c46ae28b9414386271e90c9736b006123759dd1ad"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/special-5-reference.png",
+      "characterId": 2084,
+      "role": "sprite first frame",
+      "frame": 1,
+      "originalCanvas": [
+        635,
+        682
+      ],
+      "trimBox": [
+        27,
+        27,
+        608,
+        654
+      ],
+      "size": [
+        581,
+        627
+      ],
+      "sha256": "a84bbf1debe77a2860cbecafb0ab4f700e47827ced20c9220fc82320227ae46f"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/special-6-reference.png",
+      "characterId": 2092,
+      "role": "sprite first frame",
+      "frame": 1,
+      "originalCanvas": [
+        612,
+        658
+      ],
+      "trimBox": [
+        15,
+        15,
+        597,
+        642
+      ],
+      "size": [
+        582,
+        627
+      ],
+      "sha256": "f593a234825608bd0129842f348489fec7a7ba8878b27ec550aa42a62131ad8a"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/special-3.png",
+      "characterId": 2095,
+      "role": "sprite first frame",
+      "frame": 1,
+      "originalCanvas": [
+        582,
+        630
+      ],
+      "trimBox": [
+        0,
+        0,
+        552,
+        630
+      ],
+      "size": [
+        552,
+        630
+      ],
+      "sha256": "b127ad47700c85adc778326fc460d7bc7b9fed6c48572a8d832d7b9101a98df7"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/special-1.png",
+      "characterId": 2098,
+      "role": "sprite first frame",
+      "frame": 1,
+      "originalCanvas": [
+        579,
+        627
+      ],
+      "trimBox": [
+        0,
+        0,
+        552,
+        627
+      ],
+      "size": [
+        552,
+        627
+      ],
+      "sha256": "0dd9591da61cc45e57ba4a0aacd49cebc6ce8d94d806d35b18ffddc65e8d64f6"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/special-2.png",
+      "characterId": 2101,
+      "role": "sprite first frame",
+      "frame": 1,
+      "originalCanvas": [
+        579,
+        627
+      ],
+      "trimBox": [
+        0,
+        0,
+        555,
+        627
+      ],
+      "size": [
+        555,
+        627
+      ],
+      "sha256": "550292ec5ff6c8edc4b6fb66754dce51408bc110467273b3b763db2f8ece9cdf"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/standard-ring.png",
+      "characterId": 358,
+      "role": "shape",
+      "frame": null,
+      "originalCanvas": [
+        519,
+        519
+      ],
+      "trimBox": [
+        0,
+        0,
+        519,
+        519
+      ],
+      "size": [
+        519,
+        519
+      ],
+      "sha256": "2019a8bcf58c0a62271e69376a2eeaafb984c4d5345361276e9ee46c285a8a69"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/standard-center.png",
+      "characterId": 372,
+      "role": "shape",
+      "frame": null,
+      "originalCanvas": [
+        393,
+        393
+      ],
+      "trimBox": [
+        0,
+        0,
+        393,
+        393
+      ],
+      "size": [
+        393,
+        393
+      ],
+      "sha256": "abb9137ab58566d320c97fe132a5744729f86ac058e20e2526ded946a1494ae1"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/side-orb.png",
+      "characterId": 387,
+      "role": "shape",
+      "frame": null,
+      "originalCanvas": [
+        119,
+        125
+      ],
+      "trimBox": [
+        0,
+        0,
+        119,
+        125
+      ],
+      "size": [
+        119,
+        125
+      ],
+      "sha256": "dbd7bdd87874924bad8975f65bdc39b5900b48c6b9d8c1448f90f1d1a451999b"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/special-5-ring.png",
+      "characterId": 2081,
+      "role": "shape",
+      "frame": null,
+      "originalCanvas": [
+        519,
+        519
+      ],
+      "trimBox": [
+        0,
+        0,
+        519,
+        519
+      ],
+      "size": [
+        519,
+        519
+      ],
+      "sha256": "2019a8bcf58c0a62271e69376a2eeaafb984c4d5345361276e9ee46c285a8a69"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/special-5-emblem.png",
+      "characterId": 2083,
+      "role": "shape",
+      "frame": null,
+      "originalCanvas": [
+        540,
+        540
+      ],
+      "trimBox": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "size": [
+        540,
+        540
+      ],
+      "sha256": "3cd6f9d752ec9371bbc366931a87f371e629254e6280faab825349312d7c8b02"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/special-6-ring.png",
+      "characterId": 2085,
+      "role": "shape",
+      "frame": null,
+      "originalCanvas": [
+        519,
+        519
+      ],
+      "trimBox": [
+        0,
+        0,
+        519,
+        519
+      ],
+      "size": [
+        519,
+        519
+      ],
+      "sha256": "2019a8bcf58c0a62271e69376a2eeaafb984c4d5345361276e9ee46c285a8a69"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/special-6-emblem.png",
+      "characterId": 2087,
+      "role": "shape",
+      "frame": null,
+      "originalCanvas": [
+        540,
+        540
+      ],
+      "trimBox": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "size": [
+        540,
+        540
+      ],
+      "sha256": "3835b0b608a27d1b871e768434a3de7fdcbec696aa9a0e62fcca7cc497c942f0"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/special-6-orbs.png",
+      "characterId": 2088,
+      "role": "shape",
+      "frame": null,
+      "originalCanvas": [
+        324,
+        293
+      ],
+      "trimBox": [
+        0,
+        0,
+        324,
+        293
+      ],
+      "size": [
+        324,
+        293
+      ],
+      "sha256": "475a31f4ff5935398f372c0fb6c2d20cdf734f0810fc6eb60d12b0352039a4fe"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/special-3-base.png",
+      "characterId": 2094,
+      "role": "shape",
+      "frame": null,
+      "originalCanvas": [
+        582,
+        630
+      ],
+      "trimBox": [
+        0,
+        0,
+        552,
+        630
+      ],
+      "size": [
+        552,
+        630
+      ],
+      "sha256": "b127ad47700c85adc778326fc460d7bc7b9fed6c48572a8d832d7b9101a98df7"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/special-1-base.png",
+      "characterId": 2097,
+      "role": "shape",
+      "frame": null,
+      "originalCanvas": [
+        579,
+        627
+      ],
+      "trimBox": [
+        0,
+        0,
+        552,
+        627
+      ],
+      "size": [
+        552,
+        627
+      ],
+      "sha256": "0dd9591da61cc45e57ba4a0aacd49cebc6ce8d94d806d35b18ffddc65e8d64f6"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/special-2-base.png",
+      "characterId": 2100,
+      "role": "shape",
+      "frame": null,
+      "originalCanvas": [
+        579,
+        627
+      ],
+      "trimBox": [
+        0,
+        0,
+        555,
+        627
+      ],
+      "size": [
+        555,
+        627
+      ],
+      "sha256": "550292ec5ff6c8edc4b6fb66754dce51408bc110467273b3b763db2f8ece9cdf"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/mechanical-header.png",
+      "characterId": 371,
+      "role": "sprite",
+      "frame": 1,
+      "originalCanvas": [
+        446,
+        547
+      ],
+      "trimBox": [
+        15,
+        15,
+        431,
+        532
+      ],
+      "size": [
+        416,
+        517
+      ],
+      "sha256": "fb4bbaa71d1700a1cff2f56887aeee8b7d76c4bf4e5ca4b74447466c61bed4bc"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/side-marker.png",
+      "characterId": 473,
+      "role": "sprite",
+      "frame": 1,
+      "originalCanvas": [
+        173,
+        179
+      ],
+      "trimBox": [
+        27,
+        27,
+        146,
+        152
+      ],
+      "size": [
+        119,
+        125
+      ],
+      "sha256": "6e2064b4d4a704ae433de95ac2984e805c2fcb1d6ea8618224db7f14fbdb0612"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/001.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 1,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "d8294ab63a97b458ae27819213c443a2618790b5898f20b48f22cdafe7efed73"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/002.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 2,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "d8294ab63a97b458ae27819213c443a2618790b5898f20b48f22cdafe7efed73"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/003.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 3,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "eda5a1eb6196ef071cd0374f5fb375c0f013dbcd4352ef0db9e2e02faa26d5c6"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/004.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 4,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "eda5a1eb6196ef071cd0374f5fb375c0f013dbcd4352ef0db9e2e02faa26d5c6"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/005.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 5,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "8c59b9bd8c0d8b620c0e7440781e29e217bf967f7e202b9210f098ebc52b3f68"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/006.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 6,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "8c59b9bd8c0d8b620c0e7440781e29e217bf967f7e202b9210f098ebc52b3f68"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/007.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 7,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "0e25e0704d5aee05245e98ed3f74a16e3f17f45a568cf4a9b7bc4ca4bbcfb1e7"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/008.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 8,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "0e25e0704d5aee05245e98ed3f74a16e3f17f45a568cf4a9b7bc4ca4bbcfb1e7"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/009.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 9,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "d89a369e2a4e2f7373ab29cfaf7274176e7fdf90faeb9a2a3287f6940825fd22"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/010.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 10,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "c09224986fcfd28dfb5820d2ab3da9427048b5ca202bae86a2e9eadb96df35ab"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/011.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 11,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "07b1c3dc05966649fb7b5114a19ef243268a83e9290d7705c8bae23ecb7d6699"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/012.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 12,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "3e7efb565bb09de0d5d85702dc1d1740ff42a38f76ba8a7a07cab2383a1e4612"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/013.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 13,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "3f6d46be47833c0d7569f5e43251e2c476fb3bf24587ca811884d900391df923"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/014.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 14,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "9dd9d3e62123c9051792eb3b748b9d20eea4b6e269ed847f11a79d16291bd477"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/015.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 15,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "ea0e36dbcd58321c909d5505136e79f2751e5fac4ddfc94b44175df6ec591127"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/016.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 16,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "ea0e36dbcd58321c909d5505136e79f2751e5fac4ddfc94b44175df6ec591127"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/017.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 17,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "c3755f02157a234079af995b7b738ce2b73d14a69c84e85528cc1f0be7678fa4"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/018.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 18,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "c3755f02157a234079af995b7b738ce2b73d14a69c84e85528cc1f0be7678fa4"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/019.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 19,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "e8450d65b0af8204363758597be3134a90b01d3d6387d9969b31a36ea60a0152"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/020.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 20,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "e8450d65b0af8204363758597be3134a90b01d3d6387d9969b31a36ea60a0152"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/021.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 21,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "9720c21f1549961b8e5f58f98997a12317355dc942691308e58d01b8a88641f1"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/022.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 22,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "9720c21f1549961b8e5f58f98997a12317355dc942691308e58d01b8a88641f1"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/023.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 23,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "6ebe60b2250bf4c503ee36797f04025288e0019b6a1e3dbf8411247642f1f744"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/024.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 24,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "adb1157ffebdf3d7392049022b6c11103859c49e3e4bbc5aef46cb6bf1f73663"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/025.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 25,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "23296772f6174ea4a32bb74c2d9598da85df1de7351660e423d8ca28b46c4f3b"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/026.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 26,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "e44adbb894c01c932d014f3883916e819ab6415df2ee4b33e5a2bd2293ae12aa"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/027.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 27,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "4f1a7790cfe33625a1c5ebe8903388e168f1af390372041cc092938655d0f4ed"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/028.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 28,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "06dda68191a564571fd062cffd7ad39aed7711794824b8396c9d17fb9a51bda1"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/029.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 29,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "936ee32d9760ec3ff9cb41b8d732518dec853d5b6fff5a98ba6a844f925841b7"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/030.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 30,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "c2985ae9cbecc6bd3ee9c6073ca161bbd9c7345e547c157f80db12e0389cc626"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/031.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 31,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "f9d9902a09346ba9972c2e8663a789a625a3b64a0240c4af526a9aebeed3d7e6"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/032.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 32,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "eca04233dbb6713e83c8d899dee6bda7836165eac9cc53a18ad34ec690b21698"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/033.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 33,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "4a4cbe6e1da794877064464ff478855273185ea89811446ebceeae57aa473aed"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/034.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 34,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "f3dde588beb97f831af3d317114ef8a3da7b24968450d288b71e734a4e8a74ae"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/035.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 35,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "acd1c2f25dcc2d90c8d0ac915168d8ba15db5d5dc908d60b5823693177812467"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/036.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 36,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/037.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 37,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/038.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 38,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/039.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 39,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/040.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 40,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/041.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 41,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/042.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 42,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/043.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 43,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/044.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 44,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/045.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 45,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/046.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 46,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/047.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 47,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/048.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 48,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/049.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 49,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/050.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 50,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/051.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 51,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/052.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 52,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/053.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 53,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/054.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 54,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/055.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 55,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/056.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 56,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/057.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 57,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/058.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 58,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/059.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 59,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/060.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 60,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/061.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 61,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/062.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 62,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/063.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 63,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/064.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 64,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/065.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 65,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/066.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 66,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/067.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 67,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/CenterEffect/068.png",
+      "characterId": 442,
+      "role": "authored frame",
+      "frame": 68,
+      "originalCanvas": [
+        627,
+        617
+      ],
+      "trimBox": null,
+      "size": [
+        627,
+        617
+      ],
+      "sha256": "104f45885a0adf9caab7db30a30e948c391e124259a124566eee026a355b94ca"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/001.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 1,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "debd8a1129fb7addbce9ef0d126d469f6ef0523543b16a306f57a294d8889d2d"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/002.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 2,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "991643cf1491bfcdf4c5f554d230b7a3f65b18f5e42b4b5b3f966259c5ded4d6"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/003.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 3,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "27824ba7b8129c9c80e762a4d48bb80348f22fc7803b703d4bbc148ac237609a"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/004.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 4,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "9646acc0141c4080dd3a1a716024eb42801a5e49d2816cf919063da2c5ce47a1"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/005.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 5,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "5a848c0f829158e5c17e13c7c85d621c0ba1cce422e9566eae2a9cafb3e8ad22"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/006.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 6,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "217c86200ffdacfd4e686a8d6fa3c25673a674479e3bc5a7b8fcac8d83a8b167"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/007.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 7,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "ee5043aad70157e0faed143ee049467a1a6125aa12bdff4968c0ef7874cba6fd"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/008.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 8,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "77396570bc500e8e873a46784bda88fc47ddf554d7b1e0ff053ca0585a9ee2c2"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/009.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 9,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "ecf30e960b1358f519b326a988e231e954305370a46ce882b0215d9ed2eb8b79"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/010.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 10,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "0dbcced0f5bed4f6c75e204d6cb31c771415181d5ec41d1f0de03c251bdf95a9"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/011.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 11,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "19d11d970995400627a4d3da8d95e4ca2c3cdbe77f6196e7abd4fee900e200a7"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/012.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 12,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "333452749ebed18393fca3b843c05f56ae8371b4648882b783568e0082be51ad"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/013.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 13,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "c14c9e8d06d344e8c90d03c4ad4bbd6028ddaa1f5a19a804a79a3d6bc0fdc64b"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/014.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 14,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "5f2300c46b111023f631edcdc8d321a9a37542c1e718298724412ba51e412749"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/015.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 15,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "4479e8328bf4ae7803d354466db20e6fe5e878bfa4a12882c45a367b2a7ef7b2"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/016.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 16,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "f416d0adc75d65ec3442b8ae7ecbdd691003ecca54760017cb84de2106acdae7"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/017.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 17,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "8d2be7d36430fda0b1199a147f80bf83514976aed97b97d79a6fc05104c1a47d"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/018.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 18,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "f1bddea8b2693d0b23a655afd73009ac9021290860dcc4765974c574df85b1b9"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/NameArt/019.png",
+      "characterId": 469,
+      "role": "authored frame",
+      "frame": 19,
+      "originalCanvas": [
+        345,
+        327
+      ],
+      "trimBox": null,
+      "size": [
+        345,
+        327
+      ],
+      "sha256": "9bd2c531d7bea434e369f22034d828a7cd95672fd4a533ddf4b0d7879fb80fdf"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/center-button-up.png",
+      "characterId": 381,
+      "role": "up",
+      "frame": 1,
+      "originalCanvas": [
+        461,
+        465
+      ],
+      "trimBox": null,
+      "size": [
+        461,
+        465
+      ],
+      "sha256": "6051dceca2a57d2d5279732556947291fe953645fe6496a0f4510d62112c20fc"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/center-button-over.png",
+      "characterId": 381,
+      "role": "over",
+      "frame": 2,
+      "originalCanvas": [
+        461,
+        465
+      ],
+      "trimBox": null,
+      "size": [
+        461,
+        465
+      ],
+      "sha256": "7048e21c20ffda19f2b483b7eac881a6d2d43eb0a6d965aba476039f536d3b2a"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/center-button-down.png",
+      "characterId": 381,
+      "role": "down",
+      "frame": 3,
+      "originalCanvas": [
+        461,
+        465
+      ],
+      "trimBox": null,
+      "size": [
+        461,
+        465
+      ],
+      "sha256": "dbcdaaf702a2d9a2c61b6452d8c93120f223e0d7a811606cb387d8cc64795bc6"
+    },
+    {
+      "file": "Assets/Art/Battle/Flash/FifthSkill/Parts/center-button-hittest.png",
+      "characterId": 381,
+      "role": "hittest",
+      "frame": 4,
+      "originalCanvas": [
+        461,
+        465
+      ],
+      "trimBox": null,
+      "size": [
+        461,
+        465
+      ],
+      "sha256": "7ad81b63ccd8fd354d8b5f0dcfe94a9cd8061f87368c7646aea32ed7bd979fb6"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "_说明": "官方位图字形度量，UV 原点在左下。",
+  "m_Name": "hp_damage_num",
+  "m_LineSpacing": 32.0,
+  "m_DefaultMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -7593473396255896121
+  },
+  "m_FontSize": 32.0,
+  "m_Texture": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_AsciiStartOffset": 0,
+  "m_Tracking": 1.0,
+  "m_CharacterSpacing": 0,
+  "m_CharacterPadding": 1,
+  "m_ConvertCase": 0,
+  "m_CharacterRects": [
+    {
+      "index": 45,
+      "uv": {
+        "x": 0.8203125,
+        "y": 0.73046875,
+        "width": 0.1171875,
+        "height": 0.1328125
+      },
+      "vert": {
+        "x": 0.0,
+        "y": 26.0,
+        "width": 30.0,
+        "height": -34.0
+      },
+      "advance": 30.0,
+      "flipped": false
+    },
+    {
+      "index": 48,
+      "uv": {
+        "x": 0.0,
+        "y": 0.5859375,
+        "width": 0.1171875,
+        "height": 0.1328125
+      },
+      "vert": {
+        "x": 0.0,
+        "y": 26.0,
+        "width": 30.0,
+        "height": -34.0
+      },
+      "advance": 30.0,
+      "flipped": false
+    },
+    {
+      "index": 49,
+      "uv": {
+        "x": 0.12109375,
+        "y": 0.5859375,
+        "width": 0.1171875,
+        "height": 0.1328125
+      },
+      "vert": {
+        "x": 0.0,
+        "y": 26.0,
+        "width": 30.0,
+        "height": -34.0
+      },
+      "advance": 30.0,
+      "flipped": false
+    },
+    {
+      "index": 50,
+      "uv": {
+        "x": 0.2421875,
+        "y": 0.5859375,
+        "width": 0.1171875,
+        "height": 0.1328125
+      },
+      "vert": {
+        "x": 0.0,
+        "y": 26.0,
+        "width": 30.0,
+        "height": -34.0
+      },
+      "advance": 30.0,
+      "flipped": false
+    },
+    {
+      "index": 51,
+      "uv": {
+        "x": 0.36328125,
+        "y": 0.5859375,
+        "width": 0.1171875,
+        "height": 0.1328125
+      },
+      "vert": {
+        "x": 0.0,
+        "y": 26.0,
+        "width": 30.0,
+        "height": -34.0
+      },
+      "advance": 30.0,
+      "flipped": false
+    },
+    {
+      "index": 52,
+      "uv": {
+        "x": 0.484375,
+        "y": 0.5859375,
+        "width": 0.1171875,
+        "height": 0.1328125
+      },
+      "vert": {
+        "x": 0.0,
+        "y": 26.0,
+        "width": 30.0,
+        "height": -34.0
+      },
+      "advance": 30.0,
+      "flipped": false
+    },
+    {
+      "index": 53,
+      "uv": {
+        "x": 0.60546875,
+        "y": 0.5859375,
+        "width": 0.1171875,
+        "height": 0.1328125
+      },
+      "vert": {
+        "x": 0.0,
+        "y": 26.0,
+        "width": 30.0,
+        "height": -34.0
+      },
+      "advance": 30.0,
+      "flipped": false
+    },
+    {
+      "index": 54,
+      "uv": {
+        "x": 0.7265625,
+        "y": 0.5859375,
+        "width": 0.1171875,
+        "height": 0.1328125
+      },
+      "vert": {
+        "x": 0.0,
+        "y": 26.0,
+        "width": 30.0,
+        "height": -34.0
+      },
+      "advance": 30.0,
+      "flipped": false
+    },
+    {
+      "index": 55,
+      "uv": {
+        "x": 0.84765625,
+        "y": 0.59375,
+        "width": 0.1171875,
+        "height": 0.1328125
+      },
+      "vert": {
+        "x": 0.0,
+        "y": 26.0,
+        "width": 30.0,
+        "height": -34.0
+      },
+      "advance": 30.0,
+      "flipped": false
+    },
+    {
+      "index": 56,
+      "uv": {
+        "x": 0.0,
+        "y": 0.44921875,
+        "width": 0.1171875,
+        "height": 0.1328125
+      },
+      "vert": {
+        "x": 0.0,
+        "y": 26.0,
+        "width": 30.0,
+        "height": -34.0
+      },
+      "advance": 30.0,
+      "flipped": false
+    },
+    {
+      "index": 57,
+      "uv": {
+        "x": 0.12109375,
+        "y": 0.44921875,
+        "width": 0.1171875,
+        "height": 0.1328125
+      },
+      "vert": {
+        "x": 0.0,
+        "y": 26.0,
+        "width": 30.0,
+        "height": -34.0
+      },
+      "advance": 30.0,
+      "flipped": false
+    },
+    {
+      "index": 107,
+      "uv": {
+        "x": 0.515625,
+        "y": 0.8671875,
+        "width": 0.40625,
+        "height": 0.1328125
+      },
+      "vert": {
+        "x": 0.0,
+        "y": 26.0,
+        "width": 104.0,
+        "height": -34.0
+      },
+      "advance": 104.0,
+      "flipped": false
+    },
+    {
+      "index": 109,
+      "uv": {
+        "x": 0.0,
+        "y": 0.72265625,
+        "width": 0.40625,
+        "height": 0.1328125
+      },
+      "vert": {
+        "x": 0.0,
+        "y": 26.0,
+        "width": 104.0,
+        "height": -34.0
+      },
+      "advance": 104.0,
+      "flipped": false
+    },
+    {
+      "index": 114,
+      "uv": {
+        "x": 0.41015625,
+        "y": 0.72265625,
+        "width": 0.40625,
+        "height": 0.1328125
+      },
+      "vert": {
+        "x": 0.0,
+        "y": 26.0,
+        "width": 104.0,
+        "height": -34.0
+      },
+      "advance": 104.0,
+      "flipped": false
+    },
+    {
+      "index": 119,
+      "uv": {
+        "x": 0.0,
+        "y": 0.859375,
+        "width": 0.51171875,
+        "height": 0.140625
+      },
+      "vert": {
+        "x": 0.0,
+        "y": 26.0,
+        "width": 131.0,
+        "height": -36.0
+      },
+      "advance": 131.0,
+      "flipped": false
+    }
+  ],
+  "m_KerningValues": [],
+  "m_PixelScale": 0.10000000149011612,
+  "m_FontData": [],
+  "m_Ascent": 26.0,
+  "m_Descent": -6.0,
+  "m_DefaultStyle": 0,
+  "m_FontNames": [],
+  "m_FallbackFonts": [],
+  "m_FontRenderingMode": 0,
+  "m_UseLegacyBoundsCalculation": false,
+  "m_ShouldRoundAdvanceValue": true
+}

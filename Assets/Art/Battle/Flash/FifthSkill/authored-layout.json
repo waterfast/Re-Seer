@@ -1,0 +1,1123 @@
+{
+  "units": "twips (20 per Flash pixel)",
+  "sprites": {
+    "691": [
+      {
+        "characterId": 618,
+        "name": "switchMC",
+        "depth": 1,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "15",
+          "scaleX": "1.0999756",
+          "scaleY": "1.0999756",
+          "translateX": "15280",
+          "translateY": "144"
+        }
+      },
+      {
+        "characterId": 619,
+        "name": null,
+        "depth": 30,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "characterId": 620,
+        "name": null,
+        "depth": 31,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "11",
+          "scaleX": "1.7064209",
+          "scaleY": "1.263794",
+          "translateX": "172",
+          "translateY": "715"
+        }
+      },
+      {
+        "characterId": 623,
+        "name": "imageCon",
+        "depth": 32,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "329",
+          "translateY": "1125"
+        }
+      },
+      {
+        "characterId": 624,
+        "name": null,
+        "depth": 37,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "characterId": 628,
+        "name": null,
+        "depth": 38,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "11",
+          "translateX": "30",
+          "translateY": "791"
+        }
+      },
+      {
+        "characterId": 630,
+        "name": null,
+        "depth": 237,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "11",
+          "translateX": "177",
+          "translateY": "752"
+        }
+      },
+      {
+        "characterId": 631,
+        "name": null,
+        "depth": 246,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "characterId": 633,
+        "name": null,
+        "depth": 247,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "19",
+          "nTranslateBits": "14",
+          "scaleX": "2.718628",
+          "scaleY": "0.5",
+          "translateX": "5821",
+          "translateY": "756"
+        }
+      },
+      {
+        "characterId": 645,
+        "name": "vip_lv_icon",
+        "depth": 249,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "13",
+          "scaleX": "0.94999695",
+          "scaleY": "0.94999695",
+          "translateX": "486",
+          "translateY": "2324"
+        }
+      },
+      {
+        "characterId": 657,
+        "name": "catch_btn",
+        "depth": 271,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "15",
+          "scaleX": "1.0814819",
+          "scaleY": "1.0814819",
+          "translateX": "15570",
+          "translateY": "146"
+        }
+      },
+      {
+        "characterId": 663,
+        "name": "item_btn",
+        "depth": 279,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "16",
+          "scaleX": "1.0814819",
+          "scaleY": "1.0814819",
+          "translateX": "17415",
+          "translateY": "129"
+        }
+      },
+      {
+        "characterId": 671,
+        "name": "fight_btn",
+        "depth": 288,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "16",
+          "scaleX": "1.0814819",
+          "scaleY": "1.0814819",
+          "translateX": "16392",
+          "translateY": "884"
+        }
+      },
+      {
+        "characterId": 677,
+        "name": "pet_btn",
+        "depth": 296,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "15",
+          "scaleX": "1.0814819",
+          "scaleY": "1.0814819",
+          "translateX": "15566",
+          "translateY": "1539"
+        }
+      },
+      {
+        "characterId": 690,
+        "name": "btnMc",
+        "depth": 305,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "16",
+          "translateX": "18238",
+          "translateY": "2147"
+        }
+      }
+    ],
+    "475": [
+      {
+        "characterId": 358,
+        "name": null,
+        "depth": 3,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "characterId": 371,
+        "name": null,
+        "depth": 4,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "821",
+          "translateY": "-1761"
+        }
+      },
+      {
+        "characterId": 372,
+        "name": null,
+        "depth": 59,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "characterId": 233,
+        "name": null,
+        "depth": 60,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "16",
+          "nTranslateBits": "13",
+          "scaleX": "0.44732666",
+          "scaleY": "0.44732666",
+          "translateX": "1092",
+          "translateY": "3223"
+        }
+      },
+      {
+        "characterId": 233,
+        "name": null,
+        "depth": 62,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "16",
+          "nTranslateBits": "13",
+          "scaleX": "0.30999756",
+          "scaleY": "0.30999756",
+          "translateX": "1278",
+          "translateY": "3088"
+        }
+      },
+      {
+        "characterId": 233,
+        "name": null,
+        "depth": 64,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "13",
+          "scaleX": "0.5774536",
+          "scaleY": "0.5774536",
+          "translateX": "2428",
+          "translateY": "1750"
+        }
+      },
+      {
+        "characterId": 381,
+        "name": "clickIcon",
+        "depth": 66,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "554",
+          "translateY": "1253"
+        }
+      },
+      {
+        "characterId": 379,
+        "name": null,
+        "depth": 83,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "characterId": 233,
+        "name": null,
+        "depth": 84,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "16",
+          "nTranslateBits": "13",
+          "scaleX": "0.30999756",
+          "scaleY": "0.30999756",
+          "translateX": "2471",
+          "translateY": "1283"
+        }
+      },
+      {
+        "characterId": 382,
+        "name": null,
+        "depth": 88,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "characterId": 233,
+        "name": null,
+        "depth": 89,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "16",
+          "nTranslateBits": "13",
+          "scaleX": "0.30999756",
+          "scaleY": "0.30999756",
+          "translateX": "2992",
+          "translateY": "2028"
+        }
+      },
+      {
+        "characterId": 383,
+        "name": null,
+        "depth": 91,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "characterId": 386,
+        "name": null,
+        "depth": 92,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "13",
+          "translateX": "2912",
+          "translateY": "2358"
+        }
+      },
+      {
+        "characterId": 387,
+        "name": null,
+        "depth": 100,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "13",
+          "translateX": "2402",
+          "translateY": "723"
+        }
+      },
+      {
+        "characterId": 442,
+        "name": "mcMovie",
+        "depth": 101,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "720",
+          "translateY": "2000"
+        }
+      },
+      {
+        "characterId": 443,
+        "name": "max_pp_txt",
+        "depth": 119,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "13",
+          "scaleX": "0.9911804",
+          "scaleY": "0.9911804",
+          "translateX": "3226",
+          "translateY": "1896"
+        }
+      },
+      {
+        "characterId": 444,
+        "name": "pp_txt",
+        "depth": 120,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "18",
+          "nTranslateBits": "13",
+          "scaleX": "1.0614624",
+          "scaleY": "1.0614624",
+          "translateX": "3011",
+          "translateY": "1615"
+        }
+      },
+      {
+        "characterId": 445,
+        "name": "iconMC",
+        "depth": 121,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "13",
+          "translateX": "3249",
+          "translateY": "2713"
+        }
+      },
+      {
+        "characterId": 469,
+        "name": "nameMc",
+        "depth": 123,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "13",
+          "translateX": "1680",
+          "translateY": "2463"
+        }
+      },
+      {
+        "characterId": 470,
+        "name": "damage_txt",
+        "depth": 127,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "true",
+          "hasScale": "true",
+          "nRotateBits": "14",
+          "nScaleBits": "17",
+          "nTranslateBits": "13",
+          "rotateSkew0": "-0.007217407",
+          "rotateSkew1": "-0.124923706",
+          "scaleX": "0.8922119",
+          "scaleY": "0.89297485",
+          "translateX": "2568",
+          "translateY": "919"
+        }
+      },
+      {
+        "characterId": 473,
+        "name": "runawayIcon",
+        "depth": 128,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "1647",
+          "translateY": "248"
+        }
+      },
+      {
+        "characterId": 474,
+        "name": "runawayNumTx",
+        "depth": 133,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "13",
+          "translateX": "2113",
+          "translateY": "456"
+        }
+      },
+      {
+        "characterId": 445,
+        "name": "lockMaskMc",
+        "depth": 134,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      }
+    ],
+    "2084": [
+      {
+        "characterId": 2081,
+        "name": null,
+        "depth": 3,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "characterId": 371,
+        "name": null,
+        "depth": 4,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "821",
+          "translateY": "-1761"
+        }
+      },
+      {
+        "characterId": 372,
+        "name": null,
+        "depth": 59,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "characterId": 233,
+        "name": null,
+        "depth": 60,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "16",
+          "nTranslateBits": "13",
+          "scaleX": "0.44732666",
+          "scaleY": "0.44732666",
+          "translateX": "1092",
+          "translateY": "3223"
+        }
+      },
+      {
+        "characterId": 233,
+        "name": null,
+        "depth": 62,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "16",
+          "nTranslateBits": "13",
+          "scaleX": "0.30999756",
+          "scaleY": "0.30999756",
+          "translateX": "1278",
+          "translateY": "3088"
+        }
+      },
+      {
+        "characterId": 233,
+        "name": null,
+        "depth": 64,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "13",
+          "scaleX": "0.5774536",
+          "scaleY": "0.5774536",
+          "translateX": "2428",
+          "translateY": "1750"
+        }
+      },
+      {
+        "characterId": 2083,
+        "name": null,
+        "depth": 66,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "characterId": 233,
+        "name": null,
+        "depth": 67,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "16",
+          "nTranslateBits": "13",
+          "scaleX": "0.30999756",
+          "scaleY": "0.30999756",
+          "translateX": "2471",
+          "translateY": "1283"
+        }
+      },
+      {
+        "characterId": 233,
+        "name": null,
+        "depth": 69,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "16",
+          "nTranslateBits": "13",
+          "scaleX": "0.30999756",
+          "scaleY": "0.30999756",
+          "translateX": "2992",
+          "translateY": "2028"
+        }
+      },
+      {
+        "characterId": 445,
+        "name": "iconMC",
+        "depth": 71,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "13",
+          "translateX": "3249",
+          "translateY": "2713"
+        }
+      },
+      {
+        "characterId": 473,
+        "name": "runawayIcon",
+        "depth": 73,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "1647",
+          "translateY": "248"
+        }
+      },
+      {
+        "characterId": 473,
+        "name": "runawayIcon",
+        "depth": 78,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "13",
+          "translateX": "2501",
+          "translateY": "593"
+        }
+      },
+      {
+        "characterId": 473,
+        "name": "runawayIcon",
+        "depth": 83,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "13",
+          "translateX": "3010",
+          "translateY": "1370"
+        }
+      },
+      {
+        "characterId": 445,
+        "name": "lockMaskMc",
+        "depth": 88,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      }
+    ],
+    "2092": [
+      {
+        "characterId": 2085,
+        "name": null,
+        "depth": 3,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "characterId": 371,
+        "name": null,
+        "depth": 4,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "821",
+          "translateY": "-1761"
+        }
+      },
+      {
+        "characterId": 372,
+        "name": null,
+        "depth": 59,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "characterId": 233,
+        "name": null,
+        "depth": 60,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "16",
+          "nTranslateBits": "13",
+          "scaleX": "0.44732666",
+          "scaleY": "0.44732666",
+          "translateX": "1092",
+          "translateY": "3223"
+        }
+      },
+      {
+        "characterId": 233,
+        "name": null,
+        "depth": 62,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "16",
+          "nTranslateBits": "13",
+          "scaleX": "0.30999756",
+          "scaleY": "0.30999756",
+          "translateX": "1278",
+          "translateY": "3088"
+        }
+      },
+      {
+        "characterId": 233,
+        "name": null,
+        "depth": 64,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "17",
+          "nTranslateBits": "13",
+          "scaleX": "0.5774536",
+          "scaleY": "0.5774536",
+          "translateX": "2428",
+          "translateY": "1750"
+        }
+      },
+      {
+        "characterId": 2087,
+        "name": null,
+        "depth": 67,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "characterId": 233,
+        "name": null,
+        "depth": 68,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "16",
+          "nTranslateBits": "13",
+          "scaleX": "0.30999756",
+          "scaleY": "0.30999756",
+          "translateX": "2471",
+          "translateY": "1283"
+        }
+      },
+      {
+        "characterId": 233,
+        "name": null,
+        "depth": 70,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "true",
+          "nRotateBits": "0",
+          "nScaleBits": "16",
+          "nTranslateBits": "13",
+          "scaleX": "0.30999756",
+          "scaleY": "0.30999756",
+          "translateX": "2992",
+          "translateY": "2028"
+        }
+      },
+      {
+        "characterId": 445,
+        "name": "iconMC",
+        "depth": 72,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "13",
+          "translateX": "3249",
+          "translateY": "2713"
+        }
+      },
+      {
+        "characterId": 2088,
+        "name": null,
+        "depth": 82,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      },
+      {
+        "characterId": 2091,
+        "name": null,
+        "depth": 83,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "12",
+          "translateX": "2030",
+          "translateY": "596"
+        }
+      },
+      {
+        "characterId": 2091,
+        "name": null,
+        "depth": 85,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "13",
+          "translateX": "2885",
+          "translateY": "946"
+        }
+      },
+      {
+        "characterId": 2091,
+        "name": null,
+        "depth": 87,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "13",
+          "translateX": "3395",
+          "translateY": "1716"
+        }
+      },
+      {
+        "characterId": 445,
+        "name": "lockMaskMc",
+        "depth": 89,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      }
+    ],
+    "2095": [
+      {
+        "characterId": 2094,
+        "name": null,
+        "depth": 1,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      }
+    ],
+    "2098": [
+      {
+        "characterId": 2097,
+        "name": null,
+        "depth": 1,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      }
+    ],
+    "2101": [
+      {
+        "characterId": 2100,
+        "name": null,
+        "depth": 1,
+        "matrix": {
+          "type": "MATRIX",
+          "hasRotate": "false",
+          "hasScale": "false",
+          "nRotateBits": "0",
+          "nScaleBits": "0",
+          "nTranslateBits": "1",
+          "translateX": "0",
+          "translateY": "0"
+        }
+      }
+    ]
+  }
+}

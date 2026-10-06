@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 048386a2999498a46bc477d95eed8007, type: 3}
+  m_Name: SkillDatabase
+  m_EditorClassIdentifier: 
+  contentVersion: 1
+  skills:
+  - id: demo_thunder
+    nameKey: skill.demo_thunder.name
+    descriptionKey: skill.demo_thunder.description
+    fallbackName: 雷光冲击
+    fallbackDescription: 以雷光冲击目标，威力 {power}，命中率 {accuracy}%。
+    elementId: electric
+    category: Physical
+    power: 120
+    accuracy: 10000
+    maxPp: 10
+    ppCost: 1
+    priority: 0
+    target: enemy
+    effects:
+    - effectId: damage
+      parameters:
+      - key: multiplier
+        value: '1'
+    icon:
+      fileID: 21300000
+      guid: 905bd7418df902c4ab54c25aa16ad558
+      type: 3
+    animationKey: ''
+    vfxKey: ''
+    sfxKey: ''
+  - id: demo_break
+    nameKey: skill.demo_break.name
+    descriptionKey: skill.demo_break.description
+    fallbackName: 破势重拳
+    fallbackDescription: 先解除目标的防御强化，再造成威力 {power} 的伤害。
+    elementId: fighting
+    category: Physical
+    power: 90
+    accuracy: 10000
+    maxPp: 15
+    ppCost: 1
+    priority: 0
+    target: enemy
+    effects:
+    - effectId: clear_defense_boost
+      parameters:
+      - key: target
+        value: enemy
+    - effectId: damage
+      parameters: []
+    icon:
+      fileID: 21300000
+      guid: 9a1c475bf18a5344a92b707f08881f3f
+      type: 3
+    animationKey: ''
+    vfxKey: ''
+    sfxKey: ''
+  - id: demo_focus
+    nameKey: skill.demo_focus.name
+    descriptionKey: skill.demo_focus.description
+    fallbackName: 凝神蓄势
+    fallbackDescription: 集中精神，使自身攻击提升 2 级。此招不造成伤害。
+    elementId: normal
+    category: Status
+    power: 0
+    accuracy: 10000
+    maxPp: 20
+    ppCost: 1
+    priority: 0
+    target: self
+    effects:
+    - effectId: raise_stat
+      parameters:
+      - key: attack_stages
+        value: '2'
+    icon:
+      fileID: 21300000
+      guid: b1800b231a6a6e945b1fcfc38dcfcaa7
+      type: 3
+    animationKey: ''
+    vfxKey: ''
+    sfxKey: ''
+  - id: demo_spark
+    nameKey: skill.demo_spark.name
+    descriptionKey: skill.demo_spark.description
+    fallbackName: 电磁脉冲
+    fallbackDescription: 释放威力 {power} 的电脉冲；命中后有 30% 概率使目标麻痹。
+    elementId: electric
+    category: Special
+    power: 65
+    accuracy: 10000
+    maxPp: 25
+    ppCost: 1
+    priority: 0
+    target: enemy
+    effects:
+    - effectId: damage
+      parameters: []
+    - effectId: apply_status
+      parameters:
+      - key: chance
+        value: '0.3'
+      - key: statusId
+        value: paralysis
+    icon:
+      fileID: 21300000
+      guid: 905bd7418df902c4ab54c25aa16ad558
+      type: 3
+    animationKey: ''
+    vfxKey: ''
+    sfxKey: ''
