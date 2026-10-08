@@ -916,7 +916,7 @@
       "characterId": 1795,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/1.png",
+      "file": "Assets/Art/UI/Types/1.png",
       "width": 75,
       "height": 92,
       "sourceCanvas": [
@@ -944,7 +944,7 @@
       "characterId": 1793,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/2.png",
+      "file": "Assets/Art/UI/Types/2.png",
       "width": 63,
       "height": 96,
       "sourceCanvas": [
@@ -972,7 +972,7 @@
       "characterId": 1791,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/3.png",
+      "file": "Assets/Art/UI/Types/3.png",
       "width": 59,
       "height": 94,
       "sourceCanvas": [
@@ -1000,7 +1000,7 @@
       "characterId": 1817,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/4.png",
+      "file": "Assets/Art/UI/Types/4.png",
       "width": 75,
       "height": 84,
       "sourceCanvas": [
@@ -1028,7 +1028,7 @@
       "characterId": 1815,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/5.png",
+      "file": "Assets/Art/UI/Types/5.png",
       "width": 76,
       "height": 89,
       "sourceCanvas": [
@@ -1056,7 +1056,7 @@
       "characterId": 1813,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/6.png",
+      "file": "Assets/Art/UI/Types/6.png",
       "width": 75,
       "height": 92,
       "sourceCanvas": [
@@ -1084,7 +1084,7 @@
       "characterId": 1811,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/7.png",
+      "file": "Assets/Art/UI/Types/7.png",
       "width": 83,
       "height": 82,
       "sourceCanvas": [
@@ -1112,7 +1112,7 @@
       "characterId": 1809,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/8.png",
+      "file": "Assets/Art/UI/Types/8.png",
       "width": 74,
       "height": 91,
       "sourceCanvas": [
@@ -1140,7 +1140,7 @@
       "characterId": 1807,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/9.png",
+      "file": "Assets/Art/UI/Types/9.png",
       "width": 65,
       "height": 91,
       "sourceCanvas": [
@@ -1168,7 +1168,7 @@
       "characterId": 3567,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/10.png",
+      "file": "Assets/Art/UI/Types/10.png",
       "width": 94,
       "height": 78,
       "sourceCanvas": [
@@ -1196,7 +1196,7 @@
       "characterId": 3540,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/11.png",
+      "file": "Assets/Art/UI/Types/11.png",
       "width": 85,
       "height": 82,
       "sourceCanvas": [
@@ -1224,7 +1224,7 @@
       "characterId": 3542,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/12.png",
+      "file": "Assets/Art/UI/Types/12.png",
       "width": 90,
       "height": 87,
       "sourceCanvas": [
@@ -1252,7 +1252,7 @@
       "characterId": 3544,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/13.png",
+      "file": "Assets/Art/UI/Types/13.png",
       "width": 74,
       "height": 84,
       "sourceCanvas": [
@@ -1280,7 +1280,7 @@
       "characterId": 3546,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/14.png",
+      "file": "Assets/Art/UI/Types/14.png",
       "width": 75,
       "height": 79,
       "sourceCanvas": [
@@ -1308,7 +1308,7 @@
       "characterId": 3507,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/15.png",
+      "file": "Assets/Art/UI/Types/15.png",
       "width": 90,
       "height": 83,
       "sourceCanvas": [
@@ -1336,7 +1336,7 @@
       "characterId": 3509,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/16.png",
+      "file": "Assets/Art/UI/Types/16.png",
       "width": 92,
       "height": 95,
       "sourceCanvas": [
@@ -1364,7 +1364,7 @@
       "characterId": 3511,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/17.png",
+      "file": "Assets/Art/UI/Types/17.png",
       "width": 82,
       "height": 82,
       "sourceCanvas": [
@@ -1392,7 +1392,7 @@
       "characterId": 3513,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/18.png",
+      "file": "Assets/Art/UI/Types/18.png",
       "width": 84,
       "height": 89,
       "sourceCanvas": [
@@ -1420,7 +1420,7 @@
       "characterId": 3498,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/19.png",
+      "file": "Assets/Art/UI/Types/19.png",
       "width": 103,
       "height": 93,
       "sourceCanvas": [
@@ -1448,7 +1448,7 @@
       "characterId": 3814,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/20.png",
+      "file": "Assets/Art/UI/Types/20.png",
       "width": 79,
       "height": 96,
       "sourceCanvas": [
@@ -1479,7 +1479,7 @@
       "characterId": 3816,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/21.png",
+      "file": "Assets/Art/UI/Types/21.png",
       "width": 101,
       "height": 80,
       "sourceCanvas": [
@@ -1510,7 +1510,7 @@
       "characterId": 3806,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/22.png",
+      "file": "Assets/Art/UI/Types/22.png",
       "width": 98,
       "height": 88,
       "sourceCanvas": [
@@ -1541,7 +1541,7 @@
       "characterId": 3808,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/23.png",
+      "file": "Assets/Art/UI/Types/23.png",
       "width": 94,
       "height": 89,
       "sourceCanvas": [
@@ -1572,7 +1572,7 @@
       "characterId": 3810,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/24.png",
+      "file": "Assets/Art/UI/Types/24.png",
       "width": 86,
       "height": 85,
       "sourceCanvas": [
@@ -1603,7 +1603,7 @@
       "characterId": 3812,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/25.png",
+      "file": "Assets/Art/UI/Types/25.png",
       "width": 93,
       "height": 79,
       "sourceCanvas": [
@@ -1634,7 +1634,7 @@
       "characterId": 3679,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/26.png",
+      "file": "Assets/Art/UI/Types/26.png",
       "width": 121,
       "height": 98,
       "sourceCanvas": [
@@ -1665,7 +1665,7 @@
       "characterId": 3681,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/27.png",
+      "file": "Assets/Art/UI/Types/27.png",
       "width": 93,
       "height": 77,
       "sourceCanvas": [
@@ -1696,7 +1696,7 @@
       "characterId": 3683,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/28.png",
+      "file": "Assets/Art/UI/Types/28.png",
       "width": 106,
       "height": 86,
       "sourceCanvas": [
@@ -1727,7 +1727,7 @@
       "characterId": 3685,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/29.png",
+      "file": "Assets/Art/UI/Types/29.png",
       "width": 94,
       "height": 94,
       "sourceCanvas": [
@@ -1758,7 +1758,7 @@
       "characterId": 3659,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/30.png",
+      "file": "Assets/Art/UI/Types/30.png",
       "width": 98,
       "height": 77,
       "sourceCanvas": [
@@ -1789,7 +1789,7 @@
       "characterId": 3672,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/31.png",
+      "file": "Assets/Art/UI/Types/31.png",
       "width": 96,
       "height": 84,
       "sourceCanvas": [
@@ -1820,7 +1820,7 @@
       "characterId": 3674,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/32.png",
+      "file": "Assets/Art/UI/Types/32.png",
       "width": 91,
       "height": 82,
       "sourceCanvas": [
@@ -1851,7 +1851,7 @@
       "characterId": 3649,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/33.png",
+      "file": "Assets/Art/UI/Types/33.png",
       "width": 73,
       "height": 102,
       "sourceCanvas": [
@@ -1882,7 +1882,7 @@
       "characterId": 3653,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/34.png",
+      "file": "Assets/Art/UI/Types/34.png",
       "width": 110,
       "height": 124,
       "sourceCanvas": [
@@ -1913,7 +1913,7 @@
       "characterId": 3655,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/35.png",
+      "file": "Assets/Art/UI/Types/35.png",
       "width": 82,
       "height": 83,
       "sourceCanvas": [
@@ -1944,7 +1944,7 @@
       "characterId": 3657,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/36.png",
+      "file": "Assets/Art/UI/Types/36.png",
       "width": 69,
       "height": 93,
       "sourceCanvas": [
@@ -1975,7 +1975,7 @@
       "characterId": 3610,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/37.png",
+      "file": "Assets/Art/UI/Types/37.png",
       "width": 84,
       "height": 85,
       "sourceCanvas": [
@@ -2006,7 +2006,7 @@
       "characterId": 3612,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/38.png",
+      "file": "Assets/Art/UI/Types/38.png",
       "width": 103,
       "height": 82,
       "sourceCanvas": [
@@ -2037,7 +2037,7 @@
       "characterId": 3614,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/39.png",
+      "file": "Assets/Art/UI/Types/39.png",
       "width": 97,
       "height": 90,
       "sourceCanvas": [
@@ -2068,7 +2068,7 @@
       "characterId": 4748,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/40.png",
+      "file": "Assets/Art/UI/Types/40.png",
       "width": 77,
       "height": 97,
       "sourceCanvas": [
@@ -2099,7 +2099,7 @@
       "characterId": 4750,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/41.png",
+      "file": "Assets/Art/UI/Types/41.png",
       "width": 89,
       "height": 76,
       "sourceCanvas": [
@@ -2130,7 +2130,7 @@
       "characterId": 4752,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/42.png",
+      "file": "Assets/Art/UI/Types/42.png",
       "width": 88,
       "height": 88,
       "sourceCanvas": [
@@ -2161,7 +2161,7 @@
       "characterId": 4754,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/43.png",
+      "file": "Assets/Art/UI/Types/43.png",
       "width": 100,
       "height": 86,
       "sourceCanvas": [
@@ -2192,7 +2192,7 @@
       "characterId": 4729,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/44.png",
+      "file": "Assets/Art/UI/Types/44.png",
       "width": 81,
       "height": 95,
       "sourceCanvas": [
@@ -2223,7 +2223,7 @@
       "characterId": 4731,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/45.png",
+      "file": "Assets/Art/UI/Types/45.png",
       "width": 87,
       "height": 87,
       "sourceCanvas": [
@@ -2254,7 +2254,7 @@
       "characterId": 4733,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/46.png",
+      "file": "Assets/Art/UI/Types/46.png",
       "width": 100,
       "height": 84,
       "sourceCanvas": [
@@ -2285,7 +2285,7 @@
       "characterId": 4746,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/47.png",
+      "file": "Assets/Art/UI/Types/47.png",
       "width": 88,
       "height": 85,
       "sourceCanvas": [
@@ -2316,7 +2316,7 @@
       "characterId": 4672,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/48.png",
+      "file": "Assets/Art/UI/Types/48.png",
       "width": 84,
       "height": 92,
       "sourceCanvas": [
@@ -2347,7 +2347,7 @@
       "characterId": 4674,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/49.png",
+      "file": "Assets/Art/UI/Types/49.png",
       "width": 85,
       "height": 91,
       "sourceCanvas": [
@@ -2378,7 +2378,7 @@
       "characterId": 4587,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/50.png",
+      "file": "Assets/Art/UI/Types/50.png",
       "width": 70,
       "height": 94,
       "sourceCanvas": [
@@ -2409,7 +2409,7 @@
       "characterId": 4664,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/51.png",
+      "file": "Assets/Art/UI/Types/51.png",
       "width": 102,
       "height": 81,
       "sourceCanvas": [
@@ -2440,7 +2440,7 @@
       "characterId": 4666,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/52.png",
+      "file": "Assets/Art/UI/Types/52.png",
       "width": 94,
       "height": 98,
       "sourceCanvas": [
@@ -2471,7 +2471,7 @@
       "characterId": 4668,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/53.png",
+      "file": "Assets/Art/UI/Types/53.png",
       "width": 103,
       "height": 68,
       "sourceCanvas": [
@@ -2502,7 +2502,7 @@
       "characterId": 4670,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/54.png",
+      "file": "Assets/Art/UI/Types/54.png",
       "width": 99,
       "height": 87,
       "sourceCanvas": [
@@ -2533,7 +2533,7 @@
       "characterId": 4591,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/55.png",
+      "file": "Assets/Art/UI/Types/55.png",
       "width": 96,
       "height": 87,
       "sourceCanvas": [
@@ -2564,7 +2564,7 @@
       "characterId": 4655,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/56.png",
+      "file": "Assets/Art/UI/Types/56.png",
       "width": 88,
       "height": 87,
       "sourceCanvas": [
@@ -2595,7 +2595,7 @@
       "characterId": 4657,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/57.png",
+      "file": "Assets/Art/UI/Types/57.png",
       "width": 79,
       "height": 101,
       "sourceCanvas": [
@@ -2626,7 +2626,7 @@
       "characterId": 4662,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/58.png",
+      "file": "Assets/Art/UI/Types/58.png",
       "width": 85,
       "height": 90,
       "sourceCanvas": [
@@ -2657,7 +2657,7 @@
       "characterId": 4577,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/59.png",
+      "file": "Assets/Art/UI/Types/59.png",
       "width": 105,
       "height": 73,
       "sourceCanvas": [
@@ -2688,7 +2688,7 @@
       "characterId": 4996,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/60.png",
+      "file": "Assets/Art/UI/Types/60.png",
       "width": 83,
       "height": 87,
       "sourceCanvas": [
@@ -2719,7 +2719,7 @@
       "characterId": 4998,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/61.png",
+      "file": "Assets/Art/UI/Types/61.png",
       "width": 84,
       "height": 84,
       "sourceCanvas": [
@@ -2750,7 +2750,7 @@
       "characterId": 5048,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/62.png",
+      "file": "Assets/Art/UI/Types/62.png",
       "width": 105,
       "height": 84,
       "sourceCanvas": [
@@ -2781,7 +2781,7 @@
       "characterId": 5050,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/63.png",
+      "file": "Assets/Art/UI/Types/63.png",
       "width": 82,
       "height": 87,
       "sourceCanvas": [
@@ -2812,7 +2812,7 @@
       "characterId": 5052,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/64.png",
+      "file": "Assets/Art/UI/Types/64.png",
       "width": 96,
       "height": 79,
       "sourceCanvas": [
@@ -2843,7 +2843,7 @@
       "characterId": 5062,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/65.png",
+      "file": "Assets/Art/UI/Types/65.png",
       "width": 94,
       "height": 86,
       "sourceCanvas": [
@@ -2874,7 +2874,7 @@
       "characterId": 5024,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/66.png",
+      "file": "Assets/Art/UI/Types/66.png",
       "width": 75,
       "height": 98,
       "sourceCanvas": [
@@ -2905,7 +2905,7 @@
       "characterId": 5028,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/67.png",
+      "file": "Assets/Art/UI/Types/67.png",
       "width": 91,
       "height": 96,
       "sourceCanvas": [
@@ -2936,7 +2936,7 @@
       "characterId": 5040,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/68.png",
+      "file": "Assets/Art/UI/Types/68.png",
       "width": 95,
       "height": 92,
       "sourceCanvas": [
@@ -2967,7 +2967,7 @@
       "characterId": 5044,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/69.png",
+      "file": "Assets/Art/UI/Types/69.png",
       "width": 78,
       "height": 96,
       "sourceCanvas": [
@@ -2998,7 +2998,7 @@
       "characterId": 4817,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/70.png",
+      "file": "Assets/Art/UI/Types/70.png",
       "width": 105,
       "height": 90,
       "sourceCanvas": [
@@ -3029,7 +3029,7 @@
       "characterId": 4819,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/71.png",
+      "file": "Assets/Art/UI/Types/71.png",
       "width": 85,
       "height": 90,
       "sourceCanvas": [
@@ -3060,7 +3060,7 @@
       "characterId": 4823,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/72.png",
+      "file": "Assets/Art/UI/Types/72.png",
       "width": 82,
       "height": 97,
       "sourceCanvas": [
@@ -3091,7 +3091,7 @@
       "characterId": 4946,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/73.png",
+      "file": "Assets/Art/UI/Types/73.png",
       "width": 85,
       "height": 99,
       "sourceCanvas": [
@@ -3122,7 +3122,7 @@
       "characterId": 4950,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/74.png",
+      "file": "Assets/Art/UI/Types/74.png",
       "width": 81,
       "height": 101,
       "sourceCanvas": [
@@ -3153,7 +3153,7 @@
       "characterId": 4954,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/75.png",
+      "file": "Assets/Art/UI/Types/75.png",
       "width": 103,
       "height": 83,
       "sourceCanvas": [
@@ -3184,7 +3184,7 @@
       "characterId": 4958,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/76.png",
+      "file": "Assets/Art/UI/Types/76.png",
       "width": 81,
       "height": 82,
       "sourceCanvas": [
@@ -3215,7 +3215,7 @@
       "characterId": 4858,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/77.png",
+      "file": "Assets/Art/UI/Types/77.png",
       "width": 82,
       "height": 88,
       "sourceCanvas": [
@@ -3246,7 +3246,7 @@
       "characterId": 4901,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/78.png",
+      "file": "Assets/Art/UI/Types/78.png",
       "width": 78,
       "height": 97,
       "sourceCanvas": [
@@ -3277,7 +3277,7 @@
       "characterId": 4905,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/79.png",
+      "file": "Assets/Art/UI/Types/79.png",
       "width": 77,
       "height": 95,
       "sourceCanvas": [
@@ -3308,7 +3308,7 @@
       "characterId": 4319,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/80.png",
+      "file": "Assets/Art/UI/Types/80.png",
       "width": 81,
       "height": 104,
       "sourceCanvas": [
@@ -3339,7 +3339,7 @@
       "characterId": 4328,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/81.png",
+      "file": "Assets/Art/UI/Types/81.png",
       "width": 87,
       "height": 92,
       "sourceCanvas": [
@@ -3370,7 +3370,7 @@
       "characterId": 4338,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/82.png",
+      "file": "Assets/Art/UI/Types/82.png",
       "width": 212,
       "height": 152,
       "sourceCanvas": [
@@ -3401,7 +3401,7 @@
       "characterId": 4342,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/83.png",
+      "file": "Assets/Art/UI/Types/83.png",
       "width": 94,
       "height": 92,
       "sourceCanvas": [
@@ -3432,7 +3432,7 @@
       "characterId": 4375,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/84.png",
+      "file": "Assets/Art/UI/Types/84.png",
       "width": 100,
       "height": 96,
       "sourceCanvas": [
@@ -3463,7 +3463,7 @@
       "characterId": 4377,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/85.png",
+      "file": "Assets/Art/UI/Types/85.png",
       "width": 88,
       "height": 92,
       "sourceCanvas": [
@@ -3494,7 +3494,7 @@
       "characterId": 4381,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/86.png",
+      "file": "Assets/Art/UI/Types/86.png",
       "width": 96,
       "height": 84,
       "sourceCanvas": [
@@ -3525,7 +3525,7 @@
       "characterId": 4385,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/87.png",
+      "file": "Assets/Art/UI/Types/87.png",
       "width": 80,
       "height": 97,
       "sourceCanvas": [
@@ -3556,7 +3556,7 @@
       "characterId": 4371,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/88.png",
+      "file": "Assets/Art/UI/Types/88.png",
       "width": 80,
       "height": 105,
       "sourceCanvas": [
@@ -3587,7 +3587,7 @@
       "characterId": 4373,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/89.png",
+      "file": "Assets/Art/UI/Types/89.png",
       "width": 106,
       "height": 80,
       "sourceCanvas": [
@@ -3618,7 +3618,7 @@
       "characterId": 4243,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/90.png",
+      "file": "Assets/Art/UI/Types/90.png",
       "width": 103,
       "height": 88,
       "sourceCanvas": [
@@ -3649,7 +3649,7 @@
       "characterId": 4223,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/91.png",
+      "file": "Assets/Art/UI/Types/91.png",
       "width": 83,
       "height": 93,
       "sourceCanvas": [
@@ -3680,7 +3680,7 @@
       "characterId": 4227,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/92.png",
+      "file": "Assets/Art/UI/Types/92.png",
       "width": 75,
       "height": 98,
       "sourceCanvas": [
@@ -3711,7 +3711,7 @@
       "characterId": 4235,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/93.png",
+      "file": "Assets/Art/UI/Types/93.png",
       "width": 99,
       "height": 102,
       "sourceCanvas": [
@@ -3742,7 +3742,7 @@
       "characterId": 4237,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/94.png",
+      "file": "Assets/Art/UI/Types/94.png",
       "width": 104,
       "height": 67,
       "sourceCanvas": [
@@ -3773,7 +3773,7 @@
       "characterId": 4249,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/95.png",
+      "file": "Assets/Art/UI/Types/95.png",
       "width": 97,
       "height": 96,
       "sourceCanvas": [
@@ -3804,7 +3804,7 @@
       "characterId": 4254,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/96.png",
+      "file": "Assets/Art/UI/Types/96.png",
       "width": 170,
       "height": 127,
       "sourceCanvas": [
@@ -3835,7 +3835,7 @@
       "characterId": 4256,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/97.png",
+      "file": "Assets/Art/UI/Types/97.png",
       "width": 107,
       "height": 79,
       "sourceCanvas": [
@@ -3866,7 +3866,7 @@
       "characterId": 4261,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/98.png",
+      "file": "Assets/Art/UI/Types/98.png",
       "width": 82,
       "height": 105,
       "sourceCanvas": [
@@ -3897,7 +3897,7 @@
       "characterId": 4245,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/99.png",
+      "file": "Assets/Art/UI/Types/99.png",
       "width": 108,
       "height": 82,
       "sourceCanvas": [
@@ -3928,7 +3928,7 @@
       "characterId": 4379,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/100.png",
+      "file": "Assets/Art/UI/Types/100.png",
       "width": 99,
       "height": 99,
       "sourceCanvas": [
@@ -3959,7 +3959,7 @@
       "characterId": 4383,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/101.png",
+      "file": "Assets/Art/UI/Types/101.png",
       "width": 74,
       "height": 98,
       "sourceCanvas": [
@@ -3990,7 +3990,7 @@
       "characterId": 4387,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/102.png",
+      "file": "Assets/Art/UI/Types/102.png",
       "width": 102,
       "height": 79,
       "sourceCanvas": [
@@ -4021,7 +4021,7 @@
       "characterId": 4321,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/103.png",
+      "file": "Assets/Art/UI/Types/103.png",
       "width": 90,
       "height": 89,
       "sourceCanvas": [
@@ -4052,7 +4052,7 @@
       "characterId": 4332,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/104.png",
+      "file": "Assets/Art/UI/Types/104.png",
       "width": 94,
       "height": 96,
       "sourceCanvas": [
@@ -4083,7 +4083,7 @@
       "characterId": 4340,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/105.png",
+      "file": "Assets/Art/UI/Types/105.png",
       "width": 73,
       "height": 104,
       "sourceCanvas": [
@@ -4114,7 +4114,7 @@
       "characterId": 4344,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/106.png",
+      "file": "Assets/Art/UI/Types/106.png",
       "width": 106,
       "height": 86,
       "sourceCanvas": [
@@ -4145,7 +4145,7 @@
       "characterId": 4353,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/107.png",
+      "file": "Assets/Art/UI/Types/107.png",
       "width": 179,
       "height": 168,
       "sourceCanvas": [
@@ -4176,7 +4176,7 @@
       "characterId": 4357,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/108.png",
+      "file": "Assets/Art/UI/Types/108.png",
       "width": 104,
       "height": 122,
       "sourceCanvas": [
@@ -4207,7 +4207,7 @@
       "characterId": 4362,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/109.png",
+      "file": "Assets/Art/UI/Types/109.png",
       "width": 88,
       "height": 89,
       "sourceCanvas": [
@@ -4238,7 +4238,7 @@
       "characterId": 4103,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/110.png",
+      "file": "Assets/Art/UI/Types/110.png",
       "width": 108,
       "height": 47,
       "sourceCanvas": [
@@ -4269,7 +4269,7 @@
       "characterId": 4105,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/111.png",
+      "file": "Assets/Art/UI/Types/111.png",
       "width": 60,
       "height": 103,
       "sourceCanvas": [
@@ -4300,7 +4300,7 @@
       "characterId": 4109,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/112.png",
+      "file": "Assets/Art/UI/Types/112.png",
       "width": 84,
       "height": 102,
       "sourceCanvas": [
@@ -4331,7 +4331,7 @@
       "characterId": 4113,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/113.png",
+      "file": "Assets/Art/UI/Types/113.png",
       "width": 99,
       "height": 95,
       "sourceCanvas": [
@@ -4362,7 +4362,7 @@
       "characterId": 4062,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/114.png",
+      "file": "Assets/Art/UI/Types/114.png",
       "width": 103,
       "height": 94,
       "sourceCanvas": [
@@ -4393,7 +4393,7 @@
       "characterId": 4068,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/115.png",
+      "file": "Assets/Art/UI/Types/115.png",
       "width": 95,
       "height": 95,
       "sourceCanvas": [
@@ -4424,7 +4424,7 @@
       "characterId": 4070,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/116.png",
+      "file": "Assets/Art/UI/Types/116.png",
       "width": 89,
       "height": 89,
       "sourceCanvas": [
@@ -4455,7 +4455,7 @@
       "characterId": 4084,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/117.png",
+      "file": "Assets/Art/UI/Types/117.png",
       "width": 92,
       "height": 85,
       "sourceCanvas": [
@@ -4486,7 +4486,7 @@
       "characterId": 4086,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/118.png",
+      "file": "Assets/Art/UI/Types/118.png",
       "width": 82,
       "height": 86,
       "sourceCanvas": [
@@ -4517,7 +4517,7 @@
       "characterId": 4089,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/119.png",
+      "file": "Assets/Art/UI/Types/119.png",
       "width": 102,
       "height": 117,
       "sourceCanvas": [
@@ -4548,7 +4548,7 @@
       "characterId": 4188,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/120.png",
+      "file": "Assets/Art/UI/Types/120.png",
       "width": 93,
       "height": 92,
       "sourceCanvas": [
@@ -4579,7 +4579,7 @@
       "characterId": 4190,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/121.png",
+      "file": "Assets/Art/UI/Types/121.png",
       "width": 93,
       "height": 115,
       "sourceCanvas": [
@@ -4610,7 +4610,7 @@
       "characterId": 4195,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/122.png",
+      "file": "Assets/Art/UI/Types/122.png",
       "width": 89,
       "height": 104,
       "sourceCanvas": [
@@ -4641,7 +4641,7 @@
       "characterId": 4197,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/123.png",
+      "file": "Assets/Art/UI/Types/123.png",
       "width": 93,
       "height": 94,
       "sourceCanvas": [
@@ -4672,7 +4672,7 @@
       "characterId": 4206,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/124.png",
+      "file": "Assets/Art/UI/Types/124.png",
       "width": 83,
       "height": 75,
       "sourceCanvas": [
@@ -4703,7 +4703,7 @@
       "characterId": 4144,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/125.png",
+      "file": "Assets/Art/UI/Types/125.png",
       "width": 83,
       "height": 77,
       "sourceCanvas": [
@@ -4734,7 +4734,7 @@
       "characterId": 4146,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/126.png",
+      "file": "Assets/Art/UI/Types/126.png",
       "width": 84,
       "height": 78,
       "sourceCanvas": [
@@ -4765,7 +4765,7 @@
       "characterId": 4148,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/127.png",
+      "file": "Assets/Art/UI/Types/127.png",
       "width": 77,
       "height": 88,
       "sourceCanvas": [
@@ -4796,7 +4796,7 @@
       "characterId": 4151,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/128.png",
+      "file": "Assets/Art/UI/Types/128.png",
       "width": 89,
       "height": 78,
       "sourceCanvas": [
@@ -4827,7 +4827,7 @@
       "characterId": 4186,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/129.png",
+      "file": "Assets/Art/UI/Types/129.png",
       "width": 96,
       "height": 96,
       "sourceCanvas": [
@@ -4858,7 +4858,7 @@
       "characterId": 3882,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/130.png",
+      "file": "Assets/Art/UI/Types/130.png",
       "width": 84,
       "height": 91,
       "sourceCanvas": [
@@ -4889,7 +4889,7 @@
       "characterId": 3886,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/131.png",
+      "file": "Assets/Art/UI/Types/131.png",
       "width": 620,
       "height": 748,
       "sourceCanvas": [
@@ -4920,7 +4920,7 @@
       "characterId": 3891,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/132.png",
+      "file": "Assets/Art/UI/Types/132.png",
       "width": 75,
       "height": 109,
       "sourceCanvas": [
@@ -4948,7 +4948,7 @@
       "characterId": 1087,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/221.png",
+      "file": "Assets/Art/UI/Types/221.png",
       "width": 99,
       "height": 94,
       "sourceCanvas": [
@@ -4976,7 +4976,7 @@
       "characterId": 1089,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/222.png",
+      "file": "Assets/Art/UI/Types/222.png",
       "width": 77,
       "height": 95,
       "sourceCanvas": [
@@ -5004,7 +5004,7 @@
       "characterId": 1097,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/223.png",
+      "file": "Assets/Art/UI/Types/223.png",
       "width": 99,
       "height": 92,
       "sourceCanvas": [
@@ -5032,7 +5032,7 @@
       "characterId": 1078,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/224.png",
+      "file": "Assets/Art/UI/Types/224.png",
       "width": 95,
       "height": 95,
       "sourceCanvas": [
@@ -5060,7 +5060,7 @@
       "characterId": 1080,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/225.png",
+      "file": "Assets/Art/UI/Types/225.png",
       "width": 91,
       "height": 95,
       "sourceCanvas": [
@@ -5088,7 +5088,7 @@
       "characterId": 1082,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/226.png",
+      "file": "Assets/Art/UI/Types/226.png",
       "width": 89,
       "height": 98,
       "sourceCanvas": [
@@ -5116,7 +5116,7 @@
       "characterId": 6431,
       "state": "up",
       "renderScale": 3,
-      "file": "Assets/Resources/UI/Types/prop.png",
+      "file": "Assets/Art/UI/Types/prop.png",
       "width": 91,
       "height": 101,
       "sourceCanvas": [

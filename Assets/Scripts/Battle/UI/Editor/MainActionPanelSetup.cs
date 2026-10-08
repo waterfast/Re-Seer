@@ -49,6 +49,7 @@ public static class MainActionPanelSetup
             if (main == null) main = root.AddComponent<MainActionPanel>();
             var mainSettings = new SerializedObject(main);
             mainSettings.FindProperty("skillPanel").objectReferenceValue = skillPanel;
+            mainSettings.FindProperty("fifthSkillButton").objectReferenceValue = root.GetComponentInChildren<FifthSkillButton>(true);
             mainSettings.FindProperty("skillDatabase").objectReferenceValue =
                 AssetDatabase.LoadAssetAtPath<SkillDatabaseSO>("Assets/Game Data/SkillDatabase.asset");
             mainSettings.ApplyModifiedPropertiesWithoutUndo();

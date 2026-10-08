@@ -14,7 +14,7 @@
 | `UI/*reference*.png` | 原设计时组合参考 | 含占位头像、示例数字、提示或蓝色占位矩形；不能作为运行时完整面板 |
 | `Assets/Art/Pet/avatar` | 按精灵编号命名的头像（已迁移） | 与 `Pets/catalog.csv` 或 `catalog.json` 联查中文名和属性编号 |
 | `Assets/Art/Pet/pets` | 按编号命名的完整战斗元件首帧（已迁移） | 与同编号头像配套；这是静态首帧，不是战斗动画或骨骼资源 |
-| `Assets/Resources/UI/Types` | 138 种属性原图，加 1 张属性技能图 | 数字文件名就是官方属性 ID；`prop.png` 对应属性技能 |
+| `Assets/Art/UI/Types` | 138 种属性原图，加 1 张属性技能图 | 数字文件名就是官方属性 ID；`prop.png` 对应属性技能 |
 
 所有 PNG 配有 Unity Sprite 导入设置和独立 GUID，保持透明度，不生成 mipmap。UI 与属性矢量按 3 倍导出，精灵图按 1 倍导出；PNG 像素尺寸不是 Flash 原界面的逻辑尺寸。现有场景和预制体未修改。
 
@@ -44,7 +44,7 @@
 
 ## 属性图
 
-![属性总览](../../../../Resources/UI/Types/preview.jpg)
+![属性总览](../../../UI/Types/preview.jpg)
 
 `Types/catalog.json` 保存中文名、英文名、双属性组成和原始 CharacterId。当前公开 Flash UI 包导出 26 种单属性、112 种双属性，以及属性技能图，共 139 张 PNG；当前配置中的属性 ID 133 在此 UI 包中没有对应导出符号，明确记为缺失。
 

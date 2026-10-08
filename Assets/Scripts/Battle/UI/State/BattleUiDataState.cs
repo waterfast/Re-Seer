@@ -25,6 +25,7 @@ namespace ReSeer.Battle.UI
     {
         private readonly List<BattleUiSkillSlot> skills = new List<BattleUiSkillSlot>();
         public IReadOnlyList<BattleUiSkillSlot> Skills => skills.AsReadOnly();
+        public BattleUiSkillSlot? FifthSkill { get; private set; }
         public int SelfHp { get; private set; }
         public int SelfMaxHp { get; private set; }
         public int OpponentHp { get; private set; }
@@ -53,11 +54,12 @@ namespace ReSeer.Battle.UI
             HealthChanged?.Invoke(self, current, maximum);
         }
 
-        public void SetSkills(IEnumerable<BattleUiSkillSlot> snapshot)
+        public void SetSkills(IEnumerable<BattleUiSkillSlot> snapshot, BattleUiSkillSlot? fifthSkill = null)
         {
             if (snapshot == null) throw new ArgumentNullException(nameof(snapshot));
             skills.Clear();
             skills.AddRange(snapshot);
+            FifthSkill = fifthSkill;
             SkillsChanged?.Invoke();
         }
 

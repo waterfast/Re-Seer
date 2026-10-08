@@ -7,7 +7,7 @@ namespace ReSeer.Battle.Art
     /// <summary>UI 属性图按官方编号加载；英文属性和双属性通过同一份素材清单解析。</summary>
     public static class TypeIconResources
     {
-        private const string Root = "UI/Types/";
+        private static TypeIconCatalog catalog;
         private static Dictionary<string, string> aliases;
         private static Dictionary<string, string> pairs;
         private static Dictionary<string, string> petTypes;
@@ -35,7 +35,7 @@ namespace ReSeer.Battle.Art
             string typeId;
             if (ids.Count == 1) typeId = ids[0];
             else if (!pairs.TryGetValue(PairKey(ids.ToArray()), out typeId)) return null;
-            return Resources.Load<Sprite>(Root + typeId);
+            return catalog.Get(typeId);
         }
 
         /// <summary>只传精灵编号的预览入口，使用本地官方配置的属性；正式状态优先使用 Elements。</summary>
@@ -44,7 +44,8 @@ namespace ReSeer.Battle.Art
             if (string.IsNullOrEmpty(petId)) return null;
             if (petTypes == null)
             {
-                var json = Resources.Load<TextAsset>(Root + "PetTypes");
+                EnsureTypes();
+                var json = catalog != null ? catalog.PetDefinitions : null;
                 if (json == null) return null;
                 petTypes = new Dictionary<string, string>(StringComparer.Ordinal);
                 foreach (var pet in JsonUtility.FromJson<PetList>(json.text).entries) petTypes[pet.petId] = pet.typeId;
@@ -55,7 +56,8 @@ namespace ReSeer.Battle.Art
         private static void EnsureTypes()
         {
             if (aliases != null) return;
-            var json = Resources.Load<TextAsset>(Root + "catalog");
+            if (catalog == null) catalog = Resources.Load<TypeIconCatalog>(TypeIconCatalog.ResourceName);
+            var json = catalog != null ? catalog.TypeDefinitions : null;
             if (json == null) return;
             aliases = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
             pairs = new Dictionary<string, string>(StringComparer.Ordinal);
@@ -79,6 +81,6 @@ namespace ReSeer.Battle.Art
         }
 
         [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
-        private static void ResetSession() { aliases = null; pairs = null; petTypes = null; }
+        private static void ResetSession() { catalog = null; aliases = null; pairs = null; petTypes = null; }
     }
 }

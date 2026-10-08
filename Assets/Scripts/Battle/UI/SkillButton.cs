@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using ReSeer.Skills;
+using ReSeer.Battle.Art;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Events;
@@ -141,7 +142,8 @@ namespace ReSeer.Pets
             maxPP = Mathf.Max(0, skill.maxPp);
             currentPP = Mathf.Clamp(remainingPP, 0, maxPP);
             ppCost = Mathf.Max(1, skill.ppCost);
-            SetElementIcon(skill.icon);
+            // 和血条共用属性清单；未收录的自定义属性仍可使用技能指定的图片。
+            SetElementIcon(TypeIconResources.Get(new[] { skill.elementId }) ?? skill.icon);
             RefreshView();
         }
 

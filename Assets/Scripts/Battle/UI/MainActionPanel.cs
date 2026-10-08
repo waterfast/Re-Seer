@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using ReSeer.Battle.UI;
 using ReSeer.Skills;
 using UnityEngine;
 
@@ -7,6 +8,7 @@ using UnityEngine;
 public class MainActionPanel : MonoBehaviour
 {
     [SerializeField] private SkillPanel skillPanel;
+    [SerializeField] private FifthSkillButton fifthSkillButton;
     [SerializeField] private SkillDatabaseSO skillDatabase;
 
     [Header("临时技能库预览（接入精灵数据后关闭）")]
@@ -36,6 +38,65 @@ public class MainActionPanel : MonoBehaviour
     {
         // 战斗控制层若已传入真实技能与剩余 PP，演示数据不能覆盖它。
         if (loadPreviewOnStart && !hasBoundSkills) LoadDatabasePreview();
+    }
+
+    /// <summary>
+    /// 用已确认的技能快照刷新技能槽；技能 ID 在这里由配置的技能库解析成技能定义。
+    /// 只要有一个 ID 解析不出来就整体放弃，避免显示出一份残缺的技能表。
+    /// </summary>
+    public void ShowSkills(IReadOnlyList<BattleUiSkillSlot> slots, BattleUiSkillSlot? fifthSlot = null)
+    {
+        if (slots == null) throw new ArgumentNullException(nameof(slots));
+        if (skillDatabase == null)
+            throw new InvalidOperationException("请配置 MainActionPanel 的技能库。");
+
+        var skills = new List<SkillData>(slots.Count);
+        var currentPp = new List<int>(slots.Count);
+        var available = new List<bool>(slots.Count);
+        foreach (BattleUiSkillSlot slot in slots)
+        {
+            if (!skillDatabase.TryGet(slot.SkillId, out var skill))
+            {
+                Debug.LogWarning($"技能库中找不到技能：{slot.SkillId}，本次技能刷新已取消。", this);
+                return;
+            }
+            skills.Add(skill);
+            ValidateMaximum(slot, skill);
+            currentPp.Add(slot.CurrentPp);
+            available.Add(slot.Available);
+        }
+        SkillData fifthSkill = null;
+        if (fifthSlot.HasValue)
+        {
+            if (fifthSkillButton == null)
+                throw new InvalidOperationException("请配置 MainActionPanel 的第五技能按钮。");
+            if (!skillDatabase.TryGet(fifthSlot.Value.SkillId, out fifthSkill))
+            {
+                Debug.LogWarning($"技能库中找不到第五技能：{fifthSlot.Value.SkillId}，本次技能刷新已取消。", this);
+                return;
+            }
+            ValidateMaximum(fifthSlot.Value, fifthSkill);
+        }
+        ShowSkills(skills, currentPp);
+        skillPanel.SetAvailability(available);
+        if (fifthSkillButton != null)
+        {
+            fifthSkillButton.gameObject.SetActive(fifthSkill != null);
+            if (fifthSkill != null)
+            {
+                if (fifthSkillButton.BoundSkill != fifthSkill)
+                    fifthSkillButton.Bind(fifthSkill, fifthSlot.Value.CurrentPp);
+                else fifthSkillButton.SetCurrentPP(fifthSlot.Value.CurrentPp);
+                fifthSkillButton.SetInteractable(fifthSlot.Value.Available);
+            }
+        }
+    }
+
+    private static void ValidateMaximum(BattleUiSkillSlot slot, SkillData skill)
+    {
+        // 目前最大 PP 来自技能定义；提前拒绝矛盾快照，避免按钮静默截断后看似不更新。
+        if (slot.MaxPp != skill.maxPp)
+            throw new ArgumentException($"技能 {slot.SkillId} 的最大 PP 应为 {skill.maxPp}，收到 {slot.MaxPp}。");
     }
 
     public void ShowSkills(IReadOnlyList<SkillData> skills, IReadOnlyList<int> currentPp)

@@ -34,7 +34,7 @@ MonoBehaviour:
         value: '1'
     icon:
       fileID: 21300000
-      guid: 905bd7418df902c4ab54c25aa16ad558
+      guid: 4bb60451e4c7445d919fbca7e29ba51c
       type: 3
     animationKey: ''
     vfxKey: ''
@@ -61,7 +61,7 @@ MonoBehaviour:
       parameters: []
     icon:
       fileID: 21300000
-      guid: 9a1c475bf18a5344a92b707f08881f3f
+      guid: ef5c1c77d4b54df988098a28c37bbf13
       type: 3
     animationKey: ''
     vfxKey: ''
@@ -86,7 +86,7 @@ MonoBehaviour:
         value: '2'
     icon:
       fileID: 21300000
-      guid: b1800b231a6a6e945b1fcfc38dcfcaa7
+      guid: bef4dcee2cb044a2a156745366308ba3
       type: 3
     animationKey: ''
     vfxKey: ''
@@ -115,7 +115,7 @@ MonoBehaviour:
         value: paralysis
     icon:
       fileID: 21300000
-      guid: 905bd7418df902c4ab54c25aa16ad558
+      guid: 4bb60451e4c7445d919fbca7e29ba51c
       type: 3
     animationKey: ''
     vfxKey: ''

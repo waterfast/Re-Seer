@@ -44,7 +44,7 @@ HpBar 只显示上层传入的数值，不计算伤害或修改战斗状态。�
 
 ## 属性图标同步
 
-素材集中在 `Assets/Resources/UI/Types`，139 张原图保留原 GUID。运行时按 `Resources.Load<Sprite>("UI/Types/88")` 加载，`catalog.json` 保存属性名称、双属性组成和来源。
+素材集中在 `Assets/Art/UI/Types`，139 张原图保留原 GUID。运行时通过 `TypeIconCatalog` 中的 Sprite 引用加载；技能与血条共用 `TypeIconResources` 查询，`catalog.json` 保存属性名称、双属性组成和来源。
 
 `BindPet(BattlePetState)` 同步使用 `Elements`；五参数的简单预览按 `PetTypes.json` 查默认属性，武心婵 4500 对应 88。该映射来自已有的本地官方 XML。清空精灵或传入未知属性会清空旧图标，扣血保持图标不变。
 

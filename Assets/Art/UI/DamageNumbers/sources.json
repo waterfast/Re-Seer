@@ -1,0 +1,364 @@
+{
+  "sourceUrl": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+  "localSource": "docs/OfficialReference/20261006/dll/PetFightDLL_201308.swf",
+  "sourceSha256": "54ea78e3e1cc9df8b0660cd9313a8960f077a399c4ac1c5e59cc2e53dee23466",
+  "notes": "205 is the critical digit set, not the normal damage set. Normal digits reuse existing H5 hp_damage_num glyphs unchanged.",
+  "assets": [
+    {
+      "file": "Assets/Art/UI/DamageNumbers/Critical/0.png",
+      "characterId": 205,
+      "frame": 1,
+      "renderScale": 3,
+      "crop": [
+        0,
+        0,
+        231,
+        222
+      ],
+      "sha256": "ed999f8bab9080447ad90f54821dde226b2f96f8a7a858364d50e3106bcc260d"
+    },
+    {
+      "file": "Assets/Art/UI/DamageNumbers/Critical/1.png",
+      "characterId": 205,
+      "frame": 2,
+      "renderScale": 3,
+      "crop": [
+        0,
+        0,
+        159,
+        222
+      ],
+      "sha256": "ad95571c158111e8a6da8bf1fff082a4017159dfa1e8fa57a834178a0b889a2d"
+    },
+    {
+      "file": "Assets/Art/UI/DamageNumbers/Critical/2.png",
+      "characterId": 205,
+      "frame": 3,
+      "renderScale": 3,
+      "crop": [
+        0,
+        0,
+        230,
+        222
+      ],
+      "sha256": "8021af3eb01fb44c41422ba226599166494423ca9ddd0e4401fcf87219385816"
+    },
+    {
+      "file": "Assets/Art/UI/DamageNumbers/Critical/3.png",
+      "characterId": 205,
+      "frame": 4,
+      "renderScale": 3,
+      "crop": [
+        0,
+        0,
+        238,
+        222
+      ],
+      "sha256": "434c176c8acd833679203d6616e04b63830f4b8ed3e015a0bb099d01602f9409"
+    },
+    {
+      "file": "Assets/Art/UI/DamageNumbers/Critical/4.png",
+      "characterId": 205,
+      "frame": 5,
+      "renderScale": 3,
+      "crop": [
+        0,
+        0,
+        223,
+        222
+      ],
+      "sha256": "26657673e0d4972da3eb8306a41bd14576b9f781c2c0107b219eb75cd9489db6"
+    },
+    {
+      "file": "Assets/Art/UI/DamageNumbers/Critical/5.png",
+      "characterId": 205,
+      "frame": 6,
+      "renderScale": 3,
+      "crop": [
+        0,
+        0,
+        240,
+        222
+      ],
+      "sha256": "62c7acd6c551f3e625e81fb910fbaf2f4e624dfb7b68e17f9108189e3b42ad09"
+    },
+    {
+      "file": "Assets/Art/UI/DamageNumbers/Critical/6.png",
+      "characterId": 205,
+      "frame": 7,
+      "renderScale": 3,
+      "crop": [
+        0,
+        0,
+        236,
+        222
+      ],
+      "sha256": "099f398bed5ade29ad391f1c2b1b58764faf00ae3939a5864415a5d069977819"
+    },
+    {
+      "file": "Assets/Art/UI/DamageNumbers/Critical/7.png",
+      "characterId": 205,
+      "frame": 8,
+      "renderScale": 3,
+      "crop": [
+        0,
+        0,
+        223,
+        222
+      ],
+      "sha256": "fe9ac1143f03a697e6f2aedfbfae197956049fae994629d719a56e0a38fcb016"
+    },
+    {
+      "file": "Assets/Art/UI/DamageNumbers/Critical/8.png",
+      "characterId": 205,
+      "frame": 9,
+      "renderScale": 3,
+      "crop": [
+        0,
+        0,
+        233,
+        222
+      ],
+      "sha256": "5bd4d049343cefd6282e21ef8d66d22e1d8d97b75b284bd0da23c5997de2036c"
+    },
+    {
+      "file": "Assets/Art/UI/DamageNumbers/Critical/9.png",
+      "characterId": 205,
+      "frame": 10,
+      "renderScale": 3,
+      "crop": [
+        0,
+        0,
+        236,
+        222
+      ],
+      "sha256": "e511733f6fea84378d473e79d64428a4ded22a987511b8f3917326222ad977bf"
+    },
+    {
+      "file": "Assets/Art/UI/DamageNumbers/Critical/minus.png",
+      "characterId": 207,
+      "frame": 1,
+      "renderScale": 3,
+      "crop": [
+        0,
+        0,
+        279,
+        105
+      ],
+      "sha256": "aa5baff980a7d9b281d2756fde406fbeec495f5777fb1abba5c538d4a76086ef"
+    },
+    {
+      "file": "Assets/Art/UI/DamageNumbers/Critical/critical-flame.png",
+      "characterId": 184,
+      "frame": 1,
+      "renderScale": 3,
+      "crop": [
+        86,
+        67,
+        1091,
+        544
+      ],
+      "sha256": "1ceb2936b9496571caf647e2418cc80be016117ab7163bba9456e4424a5e9d6b"
+    }
+  ],
+  "additionalStyles": {
+    "normalSource": "https://newseer.61.com/Assets/WebGL/DefaultPackage/e6ae1b6a24e07173fddd3e9af2475c7e",
+    "fontSource": "https://seer.61.com/dll/RobotCoreDLL.swf",
+    "fontSymbol": "FangZhengZongyi",
+    "fontId": 105,
+    "fontSha256": "a827fc4e668efd33b120307aa5ebc0dd3feecbebaa5730fa955e6edd2062d784",
+    "styleSource": "https://seer.61.com/dll/PetFightDLL_201308.swf",
+    "styleMetadata": "UseSkillController TextFormat + GlowFilter: fixed #ff32ff/#ffecff; true #ffffff/#000033; healing #00cc00/#ffff33.",
+    "conversion": "Rasterized exported official font with confirmed colors; crisp 2px outlines approximate the runtime GlowFilter. These are baked renditions, not independent original PNG assets. Plus uses the same exported official font.",
+    "assets": [
+      {
+        "file": "Assets/Art/UI/DamageNumbers/FixedDamage/0.png",
+        "character": "0",
+        "sha256": "5bfdc3c4b4907d3a32f686866ae9e5e967bb988019bb1c2494e016767ba81122"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/FixedDamage/1.png",
+        "character": "1",
+        "sha256": "96d6151e6ea6480c853bc10e5ee0f64b48f226ea3ce257d587b20b1018d93a29"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/FixedDamage/2.png",
+        "character": "2",
+        "sha256": "e61e28a85a034f4f86c5d1ba78406a86c306c0e4dea1fe8803688b15a537642c"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/FixedDamage/3.png",
+        "character": "3",
+        "sha256": "76c8fab8edb8b48372515fb3cb55899a1e02aabde5eed872f79ae5dcfa25e783"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/FixedDamage/4.png",
+        "character": "4",
+        "sha256": "ed59763b5f426bb55c403aa0e87e2f474d4cd59a30779ea0fd69d5496c19a11d"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/FixedDamage/5.png",
+        "character": "5",
+        "sha256": "7523d4a67fed9e4de27abc0ffb8f481b21353312fef2e8b878bbc95dd19cfb58"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/FixedDamage/6.png",
+        "character": "6",
+        "sha256": "e6b23c8ab2c848477cb96594728c2907b742d8ac3d0e019c239383f9fe6d30a8"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/FixedDamage/7.png",
+        "character": "7",
+        "sha256": "3ab414ca97fe5942cba067a2b93afa210d5ba17db19edefc3ea3c39936cb2ef2"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/FixedDamage/8.png",
+        "character": "8",
+        "sha256": "e9939517630cdfe3f2aeebaf2ee197718bbd8f6f924e0545c93c0041dd5674a9"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/FixedDamage/9.png",
+        "character": "9",
+        "sha256": "2b2eb66f6742ce6a9542a21b5066618a02772383760b033770f66ac845a9a66c"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/FixedDamage/plus.png",
+        "character": "+",
+        "sha256": "7525f6fb40fb3b51f4c3c4a9ab7f4694f2081880e69c44e941e937237b7eb8a1"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/FixedDamage/minus.png",
+        "character": "-",
+        "sha256": "fdd6515b4cb6ea9ffe3c974a34a8f01fedff33cc4a0117ecc2251cb1c7f5c2c4"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/TrueDamage/0.png",
+        "character": "0",
+        "sha256": "151b57c0ecd150296cf29196d0cdcc9b9c7770a53a7e90d3fdea34fad9f1f7c7"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/TrueDamage/1.png",
+        "character": "1",
+        "sha256": "932a1839a9a1a2932061f0b2fe46a65e7c12a59eb8e6c327d3cca1b22b696ccb"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/TrueDamage/2.png",
+        "character": "2",
+        "sha256": "4eea635151789825758f24fe7350bec3d86b9d3e677f1dd5c0ae9d5efe7a0377"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/TrueDamage/3.png",
+        "character": "3",
+        "sha256": "e9888ce040e86783a6232ed283e8414867c93148b37e92f2a884d166293adf78"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/TrueDamage/4.png",
+        "character": "4",
+        "sha256": "1be2b9859c36fd0e05e3c46c552139bd73adb882780f8f29bf6fd1b166e3247b"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/TrueDamage/5.png",
+        "character": "5",
+        "sha256": "d80d9e7ea4e10faa592a5548572ca07d507ffd162407b29ae920c6f65bd844ad"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/TrueDamage/6.png",
+        "character": "6",
+        "sha256": "74d14dfa794e6aac32417335b77be3341285295434af553008f53c30a7e4a81a"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/TrueDamage/7.png",
+        "character": "7",
+        "sha256": "1c382fafb7e76d6b275879c1112acc98a35d1101183a4d9d824428fa1ca971ae"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/TrueDamage/8.png",
+        "character": "8",
+        "sha256": "89137869116d6e972d30071a692521ea80394864271901701f7106e8eff6cbae"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/TrueDamage/9.png",
+        "character": "9",
+        "sha256": "9177b9ae71cc0cafb12db953e4e08cc68f34e95313c0522a63305dad0c1241b4"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/TrueDamage/plus.png",
+        "character": "+",
+        "sha256": "52586408136c89d79395ee20ae0c0c6c5c373d2b72f2ba5dc7103494040de4c7"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/TrueDamage/minus.png",
+        "character": "-",
+        "sha256": "cfd0ce91819f29e8b56307c60f84eca47ddec43df31df35c14f941a0be83b93c"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/Healing/0.png",
+        "character": "0",
+        "sha256": "c5852b76a20e4937213b95487c802ae370be0e0053126cd9dccc0e322f904eff"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/Healing/1.png",
+        "character": "1",
+        "sha256": "499dff9f81f0750df7a7b594459d78a56b09d2d24056bcc6225daa148fc118a5"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/Healing/2.png",
+        "character": "2",
+        "sha256": "56e6ecd467982ba5cf79e3b18950d777c8b2eec63528ca24537127a0db5bcc6a"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/Healing/3.png",
+        "character": "3",
+        "sha256": "c615c5fd032ec42ab4dbcb8c84d67e393f41ebe681efbfe46775943e9161747d"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/Healing/4.png",
+        "character": "4",
+        "sha256": "4d025dbc311cfb1b25eb5aee444f56b1ee0632d89004e7569072ca8a96f4fba7"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/Healing/5.png",
+        "character": "5",
+        "sha256": "156196871483739e72f96ef78da46eab0af164d5923aff634d16ff4b618252a9"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/Healing/6.png",
+        "character": "6",
+        "sha256": "1b5b7ed4b4f81e51c6b82dbd119b4751b2964d9e0ddc9a800bde03d611cbeceb"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/Healing/7.png",
+        "character": "7",
+        "sha256": "924fd6d0676479e0fed4836af97aca62baf3f737a47a253fb4ab42bcaec1c6d2"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/Healing/8.png",
+        "character": "8",
+        "sha256": "384172ef9999a015ae8d2c17ed2c45e16d87d68104c08f63e5da142b4e2d974f"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/Healing/9.png",
+        "character": "9",
+        "sha256": "5d4afa1bfcb050e8228459d98304a34fc3aeb0373646b48c9a05ad27253845fe"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/Healing/plus.png",
+        "character": "+",
+        "sha256": "a30c4df1a2ac9918689f03b7ed22211b3ec78b7d2d8165164895532125d7ba5b"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/Healing/minus.png",
+        "character": "-",
+        "sha256": "c1922ca308167c0c71649e8b4aab92cc7b318fe7465be4a6cdb626c3c2956906"
+      },
+      {
+        "file": "Assets/Art/UI/DamageNumbers/Symbols/plus.png",
+        "character": "+",
+        "sha256": "894e4f1e0363bfa70f07ecc0e9f0b1f28c63d09efec5f62cf09efb06363ffc4b"
+      }
+    ],
+    "fontSourceSha256": "2405e1cb24f4a44fa6183c03a51357f58895a0a9ff1e5376a6506be53cfc493f",
+    "verifiedDate": "2026-10-08",
+    "officialFontSourceMatchesCached": true
+  }
+}

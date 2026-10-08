@@ -60,6 +60,24 @@ namespace ReSeer.Battle
             State = value == 0 ? BattlePetStatus.Dead : BattlePetStatus.Alive;
         }
 
+        /// <summary>应用已确认伤害，返回实际扣除量；不在这里计算减伤、暴击等规则。</summary>
+        public int TakeDamage(int amount)
+        {
+            if (amount < 0) throw new ArgumentOutOfRangeException(nameof(amount));
+            int applied = Math.Min(amount, CurrentHp);
+            if (applied > 0) SetCurrentHp(CurrentHp - applied);
+            return applied;
+        }
+
+        /// <summary>应用已确认治疗，返回实际恢复量；是否允许复活由战斗规则决定。</summary>
+        public int Heal(int amount)
+        {
+            if (amount < 0) throw new ArgumentOutOfRangeException(nameof(amount));
+            int applied = Math.Min(amount, MaxHp - CurrentHp);
+            if (applied > 0) SetCurrentHp(CurrentHp + applied);
+            return applied;
+        }
+
         public void SetState(BattlePetStatus value)
         {
             if (!Enum.IsDefined(typeof(BattlePetStatus), value))

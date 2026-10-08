@@ -32,6 +32,15 @@ public class SkillPanel : MonoBehaviour
             throw new InvalidOperationException("请配置技能容器和 SkillButton 预制体。");
         for (int i = 0; i < skills.Count; i++)
             if (skills[i] == null) throw new ArgumentException("技能列表含空项。", nameof(skills));
+        // PP 变化不重建按钮，保留悬停状态、点击反馈和事件订阅。
+        bool sameSkills = skillButtons.Count == skills.Count;
+        for (int i = 0; sameSkills && i < skills.Count; i++)
+            sameSkills = skillButtons[i] != null && skillButtons[i].BoundSkill == skills[i];
+        if (sameSkills)
+        {
+            for (int i = 0; i < skills.Count; i++) skillButtons[i].SetCurrentPP(currentPp[i]);
+            return;
+        }
         ClearSkills();
 
         for (int i = 0; i < skills.Count; i++)
@@ -73,6 +82,13 @@ public class SkillPanel : MonoBehaviour
             if (Application.isPlaying) Destroy(button.gameObject);
             else DestroyImmediate(button.gameObject);
         }
+    }
+
+    public void SetAvailability(IReadOnlyList<bool> available)
+    {
+        if (available == null || available.Count != skillButtons.Count)
+            throw new ArgumentException("每个技能必须有一项可用状态。", nameof(available));
+        for (int i = 0; i < skillButtons.Count; i++) skillButtons[i].SetInteractable(available[i]);
     }
 
     public void ClearTestPreview()
