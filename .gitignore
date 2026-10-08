@@ -59,6 +59,8 @@ __pycache__/
 *.tmp
 .DS_Store
 Thumbs.db
+/Server/seer-asio/.deps/
+/Server/seer-asio/build/
 
 # 本地历史备份、下载的原始参考包和含机器路径的诊断输出。
 /docs/Backups/

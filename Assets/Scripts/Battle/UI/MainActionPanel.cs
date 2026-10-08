@@ -27,11 +27,13 @@ public class MainActionPanel : MonoBehaviour
     private void OnEnable()
     {
         if (skillPanel != null) skillPanel.SkillSelected += OnSkillSelected;
+        if (fifthSkillButton != null) fifthSkillButton.SkillSelected += OnSkillSelected;
     }
 
     private void OnDisable()
     {
         if (skillPanel != null) skillPanel.SkillSelected -= OnSkillSelected;
+        if (fifthSkillButton != null) fifthSkillButton.SkillSelected -= OnSkillSelected;
     }
 
     private void Start()
